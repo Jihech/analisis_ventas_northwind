@@ -1,0 +1,2156 @@
+ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha,NombreCategoria,TotalVenta,Mes,CategoriaVentas
+10248,11,14.0,12,Queso Cabrales,4,VINET,1996-07-04,Dairy Products,168.0,1996-07,Media
+10248,42,9.8,10,Singaporean Hokkien Fried Mee,5,VINET,1996-07-04,Grains/Cereals,98.0,1996-07,Baja
+10248,72,34.8,5,Mozzarella di Giovanni,4,VINET,1996-07-04,Dairy Products,174.0,1996-07,Media
+10249,14,18.6,9,Tofu,7,TOMSP,1996-07-05,Produce,167.4,1996-07,Media
+10249,51,42.4,40,Manjimup Dried Apples,7,TOMSP,1996-07-05,Produce,1696.0,1996-07,Alta
+10250,41,7.7,10,Jack's New England Clam Chowder,8,HANAR,1996-07-08,Seafood,77.0,1996-07,Baja
+10250,51,42.4,35,Manjimup Dried Apples,7,HANAR,1996-07-08,Produce,1484.0,1996-07,Alta
+10250,65,16.8,15,Louisiana Fiery Hot Pepper Sauce,2,HANAR,1996-07-08,Condiments,252.0,1996-07,Media
+10251,22,16.8,6,Gustaf's Knäckebröd,5,VICTE,1996-07-08,Grains/Cereals,100.8,1996-07,Media
+10251,57,15.6,15,Ravioli Angelo,5,VICTE,1996-07-08,Grains/Cereals,234.0,1996-07,Media
+10251,65,16.8,20,Louisiana Fiery Hot Pepper Sauce,2,VICTE,1996-07-08,Condiments,336.0,1996-07,Media
+10252,20,64.8,40,Sir Rodney's Marmalade,3,SUPRD,1996-07-09,Confections,2592.0,1996-07,Alta
+10252,33,2.0,25,Geitost,4,SUPRD,1996-07-09,Dairy Products,50.0,1996-07,Baja
+10252,60,27.2,40,Camembert Pierrot,4,SUPRD,1996-07-09,Dairy Products,1088.0,1996-07,Alta
+10253,31,10.0,20,Gorgonzola Telino,4,HANAR,1996-07-10,Dairy Products,200.0,1996-07,Media
+10253,39,14.4,42,Chartreuse verte,1,HANAR,1996-07-10,Beverages,604.8000000000001,1996-07,Media
+10253,49,16.0,40,Maxilaku,3,HANAR,1996-07-10,Confections,640.0,1996-07,Media
+10254,24,3.6,15,Guaraná Fantástica,1,CHOPS,1996-07-11,Beverages,54.0,1996-07,Baja
+10254,55,19.2,21,Pâté chinois,6,CHOPS,1996-07-11,Meat/Poultry,403.2,1996-07,Media
+10254,74,8.0,21,Longlife Tofu,7,CHOPS,1996-07-11,Produce,168.0,1996-07,Media
+10255,2,15.2,20,Chang,1,RICSU,1996-07-12,Beverages,304.0,1996-07,Media
+10255,16,13.9,35,Pavlova,3,RICSU,1996-07-12,Confections,486.5,1996-07,Media
+10255,36,15.2,25,Inlagd Sill,8,RICSU,1996-07-12,Seafood,380.0,1996-07,Media
+10255,59,44.0,30,Raclette Courdavault,4,RICSU,1996-07-12,Dairy Products,1320.0,1996-07,Alta
+10256,53,26.2,15,Perth Pasties,6,WELLI,1996-07-15,Meat/Poultry,393.0,1996-07,Media
+10256,77,10.4,12,Original Frankfurter grüne Soße,2,WELLI,1996-07-15,Condiments,124.8,1996-07,Media
+10257,27,35.1,25,Schoggi Schokolade,3,HILAA,1996-07-16,Confections,877.5,1996-07,Media
+10257,39,14.4,6,Chartreuse verte,1,HILAA,1996-07-16,Beverages,86.4,1996-07,Baja
+10257,77,10.4,15,Original Frankfurter grüne Soße,2,HILAA,1996-07-16,Condiments,156.0,1996-07,Media
+10258,2,15.2,50,Chang,1,ERNSH,1996-07-17,Beverages,760.0,1996-07,Media
+10258,5,17.0,65,Chef Anton's Gumbo Mix,2,ERNSH,1996-07-17,Condiments,1105.0,1996-07,Alta
+10258,32,25.6,6,Mascarpone Fabioli,4,ERNSH,1996-07-17,Dairy Products,153.60000000000002,1996-07,Media
+10259,21,8.0,10,Sir Rodney's Scones,3,CENTC,1996-07-18,Confections,80.0,1996-07,Baja
+10259,37,20.8,1,Gravad lax,8,CENTC,1996-07-18,Seafood,20.8,1996-07,Baja
+10260,41,7.7,16,Jack's New England Clam Chowder,8,OTTIK,1996-07-19,Seafood,123.2,1996-07,Media
+10260,57,15.6,50,Ravioli Angelo,5,OTTIK,1996-07-19,Grains/Cereals,780.0,1996-07,Media
+10260,62,39.4,15,Tarte au sucre,3,OTTIK,1996-07-19,Confections,591.0,1996-07,Media
+10260,70,12.0,21,Outback Lager,1,OTTIK,1996-07-19,Beverages,252.0,1996-07,Media
+10261,21,8.0,20,Sir Rodney's Scones,3,QUEDE,1996-07-19,Confections,160.0,1996-07,Media
+10261,35,14.4,20,Steeleye Stout,1,QUEDE,1996-07-19,Beverages,288.0,1996-07,Media
+10262,5,17.0,12,Chef Anton's Gumbo Mix,2,RATTC,1996-07-22,Condiments,204.0,1996-07,Media
+10262,7,24.0,15,Uncle Bob's Organic Dried Pears,7,RATTC,1996-07-22,Produce,360.0,1996-07,Media
+10262,56,30.4,2,Gnocchi di nonna Alice,5,RATTC,1996-07-22,Grains/Cereals,60.8,1996-07,Baja
+10263,16,13.9,60,Pavlova,3,ERNSH,1996-07-23,Confections,834.0,1996-07,Media
+10263,24,3.6,28,Guaraná Fantástica,1,ERNSH,1996-07-23,Beverages,100.8,1996-07,Media
+10263,30,20.7,60,Nord-Ost Matjeshering,8,ERNSH,1996-07-23,Seafood,1242.0,1996-07,Alta
+10263,74,8.0,36,Longlife Tofu,7,ERNSH,1996-07-23,Produce,288.0,1996-07,Media
+10264,2,15.2,35,Chang,1,FOLKO,1996-07-24,Beverages,532.0,1996-07,Media
+10264,41,7.7,25,Jack's New England Clam Chowder,8,FOLKO,1996-07-24,Seafood,192.5,1996-07,Media
+10265,17,31.2,30,Alice Mutton,6,BLONP,1996-07-25,Meat/Poultry,936.0,1996-07,Media
+10265,70,12.0,20,Outback Lager,1,BLONP,1996-07-25,Beverages,240.0,1996-07,Media
+10266,12,30.4,12,Queso Manchego La Pastora,4,WARTH,1996-07-26,Dairy Products,364.8,1996-07,Media
+10267,40,14.7,50,Boston Crab Meat,8,FRANK,1996-07-29,Seafood,735.0,1996-07,Media
+10267,59,44.0,70,Raclette Courdavault,4,FRANK,1996-07-29,Dairy Products,3080.0,1996-07,Alta
+10267,76,14.4,15,Lakkalikööri,1,FRANK,1996-07-29,Beverages,216.0,1996-07,Media
+10268,29,99.0,10,Thüringer Rostbratwurst,6,GROSR,1996-07-30,Meat/Poultry,990.0,1996-07,Media
+10268,72,27.8,4,Mozzarella di Giovanni,4,GROSR,1996-07-30,Dairy Products,111.2,1996-07,Media
+10269,33,2.0,60,Geitost,4,WHITC,1996-07-31,Dairy Products,120.0,1996-07,Media
+10269,72,27.8,20,Mozzarella di Giovanni,4,WHITC,1996-07-31,Dairy Products,556.0,1996-07,Media
+10270,36,15.2,30,Inlagd Sill,8,WARTH,1996-08-01,Seafood,456.0,1996-08,Media
+10270,43,36.8,25,Ipoh Coffee,1,WARTH,1996-08-01,Beverages,920.0,1996-08,Media
+10271,33,2.0,24,Geitost,4,SPLIR,1996-08-01,Dairy Products,48.0,1996-08,Baja
+10272,20,64.8,6,Sir Rodney's Marmalade,3,RATTC,1996-08-02,Confections,388.8,1996-08,Media
+10272,31,10.0,40,Gorgonzola Telino,4,RATTC,1996-08-02,Dairy Products,400.0,1996-08,Media
+10272,72,27.8,24,Mozzarella di Giovanni,4,RATTC,1996-08-02,Dairy Products,667.2,1996-08,Media
+10273,10,24.8,24,Ikura,8,QUICK,1996-08-05,Seafood,595.2,1996-08,Media
+10273,31,10.0,15,Gorgonzola Telino,4,QUICK,1996-08-05,Dairy Products,150.0,1996-08,Media
+10273,33,2.0,20,Geitost,4,QUICK,1996-08-05,Dairy Products,40.0,1996-08,Baja
+10273,40,14.7,60,Boston Crab Meat,8,QUICK,1996-08-05,Seafood,882.0,1996-08,Media
+10273,76,14.4,33,Lakkalikööri,1,QUICK,1996-08-05,Beverages,475.2,1996-08,Media
+10274,71,17.2,20,Flotemysost,4,VINET,1996-08-06,Dairy Products,344.0,1996-08,Media
+10274,72,27.8,7,Mozzarella di Giovanni,4,VINET,1996-08-06,Dairy Products,194.6,1996-08,Media
+10275,24,3.6,12,Guaraná Fantástica,1,MAGAA,1996-08-07,Beverages,43.2,1996-08,Baja
+10275,59,44.0,6,Raclette Courdavault,4,MAGAA,1996-08-07,Dairy Products,264.0,1996-08,Media
+10276,10,24.8,15,Ikura,8,TORTU,1996-08-08,Seafood,372.0,1996-08,Media
+10276,13,4.8,10,Konbu,8,TORTU,1996-08-08,Seafood,48.0,1996-08,Baja
+10277,28,36.4,20,Rössle Sauerkraut,7,MORGK,1996-08-09,Produce,728.0,1996-08,Media
+10277,62,39.4,12,Tarte au sucre,3,MORGK,1996-08-09,Confections,472.8,1996-08,Media
+10278,44,15.5,16,Gula Malacca,2,BERGS,1996-08-12,Condiments,248.0,1996-08,Media
+10278,59,44.0,15,Raclette Courdavault,4,BERGS,1996-08-12,Dairy Products,660.0,1996-08,Media
+10278,63,35.1,8,Vegie-spread,2,BERGS,1996-08-12,Condiments,280.8,1996-08,Media
+10278,73,12.0,25,Röd Kaviar,8,BERGS,1996-08-12,Seafood,300.0,1996-08,Media
+10279,17,31.2,15,Alice Mutton,6,LEHMS,1996-08-13,Meat/Poultry,468.0,1996-08,Media
+10280,24,3.6,12,Guaraná Fantástica,1,BERGS,1996-08-14,Beverages,43.2,1996-08,Baja
+10280,55,19.2,20,Pâté chinois,6,BERGS,1996-08-14,Meat/Poultry,384.0,1996-08,Media
+10280,75,6.2,30,Rhönbräu Klosterbier,1,BERGS,1996-08-14,Beverages,186.0,1996-08,Media
+10281,19,7.3,1,Teatime Chocolate Biscuits,3,ROMEY,1996-08-14,Confections,7.3,1996-08,Baja
+10281,24,3.6,6,Guaraná Fantástica,1,ROMEY,1996-08-14,Beverages,21.6,1996-08,Baja
+10281,35,14.4,4,Steeleye Stout,1,ROMEY,1996-08-14,Beverages,57.6,1996-08,Baja
+10282,30,20.7,6,Nord-Ost Matjeshering,8,ROMEY,1996-08-15,Seafood,124.2,1996-08,Media
+10282,57,15.6,2,Ravioli Angelo,5,ROMEY,1996-08-15,Grains/Cereals,31.2,1996-08,Baja
+10283,15,12.4,20,Genen Shouyu,2,LILAS,1996-08-16,Condiments,248.0,1996-08,Media
+10283,19,7.3,18,Teatime Chocolate Biscuits,3,LILAS,1996-08-16,Confections,131.4,1996-08,Media
+10283,60,27.2,35,Camembert Pierrot,4,LILAS,1996-08-16,Dairy Products,952.0,1996-08,Media
+10283,72,27.8,3,Mozzarella di Giovanni,4,LILAS,1996-08-16,Dairy Products,83.4,1996-08,Baja
+10284,27,35.1,15,Schoggi Schokolade,3,LEHMS,1996-08-19,Confections,526.5,1996-08,Media
+10284,44,15.5,21,Gula Malacca,2,LEHMS,1996-08-19,Condiments,325.5,1996-08,Media
+10284,60,27.2,20,Camembert Pierrot,4,LEHMS,1996-08-19,Dairy Products,544.0,1996-08,Media
+10284,67,11.2,5,Laughing Lumberjack Lager,1,LEHMS,1996-08-19,Beverages,56.0,1996-08,Baja
+10285,1,14.4,45,Chai,1,QUICK,1996-08-20,Beverages,648.0,1996-08,Media
+10285,40,14.7,40,Boston Crab Meat,8,QUICK,1996-08-20,Seafood,588.0,1996-08,Media
+10285,53,26.2,36,Perth Pasties,6,QUICK,1996-08-20,Meat/Poultry,943.2,1996-08,Media
+10286,35,14.4,100,Steeleye Stout,1,QUICK,1996-08-21,Beverages,1440.0,1996-08,Alta
+10286,62,39.4,40,Tarte au sucre,3,QUICK,1996-08-21,Confections,1576.0,1996-08,Alta
+10287,16,13.9,40,Pavlova,3,RICAR,1996-08-22,Confections,556.0,1996-08,Media
+10287,34,11.2,20,Sasquatch Ale,1,RICAR,1996-08-22,Beverages,224.0,1996-08,Media
+10287,46,9.6,15,Spegesild,8,RICAR,1996-08-22,Seafood,144.0,1996-08,Media
+10288,54,5.9,10,Tourtière,6,REGGC,1996-08-23,Meat/Poultry,59.0,1996-08,Baja
+10288,68,10.0,3,Scottish Longbreads,3,REGGC,1996-08-23,Confections,30.0,1996-08,Baja
+10289,3,8.0,30,Aniseed Syrup,2,BSBEV,1996-08-26,Condiments,240.0,1996-08,Media
+10289,64,26.6,9,Wimmers gute Semmelknödel,5,BSBEV,1996-08-26,Grains/Cereals,239.4,1996-08,Media
+10290,5,17.0,20,Chef Anton's Gumbo Mix,2,COMMI,1996-08-27,Condiments,340.0,1996-08,Media
+10290,29,99.0,15,Thüringer Rostbratwurst,6,COMMI,1996-08-27,Meat/Poultry,1485.0,1996-08,Alta
+10290,49,16.0,15,Maxilaku,3,COMMI,1996-08-27,Confections,240.0,1996-08,Media
+10290,77,10.4,10,Original Frankfurter grüne Soße,2,COMMI,1996-08-27,Condiments,104.0,1996-08,Media
+10291,13,4.8,20,Konbu,8,QUEDE,1996-08-27,Seafood,96.0,1996-08,Baja
+10291,44,15.5,24,Gula Malacca,2,QUEDE,1996-08-27,Condiments,372.0,1996-08,Media
+10291,51,42.4,2,Manjimup Dried Apples,7,QUEDE,1996-08-27,Produce,84.8,1996-08,Baja
+10292,20,64.8,20,Sir Rodney's Marmalade,3,TRADH,1996-08-28,Confections,1296.0,1996-08,Alta
+10293,18,50.0,12,Carnarvon Tigers,8,TORTU,1996-08-29,Seafood,600.0,1996-08,Media
+10293,24,3.6,10,Guaraná Fantástica,1,TORTU,1996-08-29,Beverages,36.0,1996-08,Baja
+10293,63,35.1,5,Vegie-spread,2,TORTU,1996-08-29,Condiments,175.5,1996-08,Media
+10293,75,6.2,6,Rhönbräu Klosterbier,1,TORTU,1996-08-29,Beverages,37.2,1996-08,Baja
+10294,1,14.4,18,Chai,1,RATTC,1996-08-30,Beverages,259.2,1996-08,Media
+10294,17,31.2,15,Alice Mutton,6,RATTC,1996-08-30,Meat/Poultry,468.0,1996-08,Media
+10294,43,36.8,15,Ipoh Coffee,1,RATTC,1996-08-30,Beverages,552.0,1996-08,Media
+10294,60,27.2,21,Camembert Pierrot,4,RATTC,1996-08-30,Dairy Products,571.1999999999999,1996-08,Media
+10294,75,6.2,6,Rhönbräu Klosterbier,1,RATTC,1996-08-30,Beverages,37.2,1996-08,Baja
+10295,56,30.4,4,Gnocchi di nonna Alice,5,VINET,1996-09-02,Grains/Cereals,121.6,1996-09,Media
+10296,11,16.8,12,Queso Cabrales,4,LILAS,1996-09-03,Dairy Products,201.6,1996-09,Media
+10296,16,13.9,30,Pavlova,3,LILAS,1996-09-03,Confections,417.0,1996-09,Media
+10296,69,28.8,15,Gudbrandsdalsost,4,LILAS,1996-09-03,Dairy Products,432.0,1996-09,Media
+10297,39,14.4,60,Chartreuse verte,1,BLONP,1996-09-04,Beverages,864.0,1996-09,Media
+10297,72,27.8,20,Mozzarella di Giovanni,4,BLONP,1996-09-04,Dairy Products,556.0,1996-09,Media
+10298,2,15.2,40,Chang,1,HUNGO,1996-09-05,Beverages,608.0,1996-09,Media
+10298,36,15.2,40,Inlagd Sill,8,HUNGO,1996-09-05,Seafood,608.0,1996-09,Media
+10298,59,44.0,30,Raclette Courdavault,4,HUNGO,1996-09-05,Dairy Products,1320.0,1996-09,Alta
+10298,62,39.4,15,Tarte au sucre,3,HUNGO,1996-09-05,Confections,591.0,1996-09,Media
+10299,19,7.3,15,Teatime Chocolate Biscuits,3,RICAR,1996-09-06,Confections,109.5,1996-09,Media
+10299,70,12.0,20,Outback Lager,1,RICAR,1996-09-06,Beverages,240.0,1996-09,Media
+10300,66,13.6,30,Louisiana Hot Spiced Okra,2,MAGAA,1996-09-09,Condiments,408.0,1996-09,Media
+10300,68,10.0,20,Scottish Longbreads,3,MAGAA,1996-09-09,Confections,200.0,1996-09,Media
+10301,40,14.7,10,Boston Crab Meat,8,WANDK,1996-09-09,Seafood,147.0,1996-09,Media
+10301,56,30.4,20,Gnocchi di nonna Alice,5,WANDK,1996-09-09,Grains/Cereals,608.0,1996-09,Media
+10302,17,31.2,40,Alice Mutton,6,SUPRD,1996-09-10,Meat/Poultry,1248.0,1996-09,Alta
+10302,28,36.4,28,Rössle Sauerkraut,7,SUPRD,1996-09-10,Produce,1019.2,1996-09,Alta
+10302,43,36.8,12,Ipoh Coffee,1,SUPRD,1996-09-10,Beverages,441.6,1996-09,Media
+10303,40,14.7,40,Boston Crab Meat,8,GODOS,1996-09-11,Seafood,588.0,1996-09,Media
+10303,65,16.8,30,Louisiana Fiery Hot Pepper Sauce,2,GODOS,1996-09-11,Condiments,504.0,1996-09,Media
+10303,68,10.0,15,Scottish Longbreads,3,GODOS,1996-09-11,Confections,150.0,1996-09,Media
+10304,49,16.0,30,Maxilaku,3,TORTU,1996-09-12,Confections,480.0,1996-09,Media
+10304,59,44.0,10,Raclette Courdavault,4,TORTU,1996-09-12,Dairy Products,440.0,1996-09,Media
+10304,71,17.2,2,Flotemysost,4,TORTU,1996-09-12,Dairy Products,34.4,1996-09,Baja
+10305,18,50.0,25,Carnarvon Tigers,8,OLDWO,1996-09-13,Seafood,1250.0,1996-09,Alta
+10305,29,99.0,25,Thüringer Rostbratwurst,6,OLDWO,1996-09-13,Meat/Poultry,2475.0,1996-09,Alta
+10305,39,14.4,30,Chartreuse verte,1,OLDWO,1996-09-13,Beverages,432.0,1996-09,Media
+10306,30,20.7,10,Nord-Ost Matjeshering,8,ROMEY,1996-09-16,Seafood,207.0,1996-09,Media
+10306,53,26.2,10,Perth Pasties,6,ROMEY,1996-09-16,Meat/Poultry,262.0,1996-09,Media
+10306,54,5.9,5,Tourtière,6,ROMEY,1996-09-16,Meat/Poultry,29.5,1996-09,Baja
+10307,62,39.4,10,Tarte au sucre,3,LONEP,1996-09-17,Confections,394.0,1996-09,Media
+10307,68,10.0,3,Scottish Longbreads,3,LONEP,1996-09-17,Confections,30.0,1996-09,Baja
+10308,69,28.8,1,Gudbrandsdalsost,4,ANATR,1996-09-18,Dairy Products,28.8,1996-09,Baja
+10308,70,12.0,5,Outback Lager,1,ANATR,1996-09-18,Beverages,60.0,1996-09,Baja
+10309,4,17.6,20,Chef Anton's Cajun Seasoning,2,HUNGO,1996-09-19,Condiments,352.0,1996-09,Media
+10309,6,20.0,30,Grandma's Boysenberry Spread,2,HUNGO,1996-09-19,Condiments,600.0,1996-09,Media
+10309,42,11.2,2,Singaporean Hokkien Fried Mee,5,HUNGO,1996-09-19,Grains/Cereals,22.4,1996-09,Baja
+10309,43,36.8,20,Ipoh Coffee,1,HUNGO,1996-09-19,Beverages,736.0,1996-09,Media
+10309,71,17.2,3,Flotemysost,4,HUNGO,1996-09-19,Dairy Products,51.6,1996-09,Baja
+10310,16,13.9,10,Pavlova,3,THEBI,1996-09-20,Confections,139.0,1996-09,Media
+10310,62,39.4,5,Tarte au sucre,3,THEBI,1996-09-20,Confections,197.0,1996-09,Media
+10311,42,11.2,6,Singaporean Hokkien Fried Mee,5,DUMON,1996-09-20,Grains/Cereals,67.19999999999999,1996-09,Baja
+10311,69,28.8,7,Gudbrandsdalsost,4,DUMON,1996-09-20,Dairy Products,201.6,1996-09,Media
+10312,28,36.4,4,Rössle Sauerkraut,7,WANDK,1996-09-23,Produce,145.6,1996-09,Media
+10312,43,36.8,24,Ipoh Coffee,1,WANDK,1996-09-23,Beverages,883.1999999999999,1996-09,Media
+10312,53,26.2,20,Perth Pasties,6,WANDK,1996-09-23,Meat/Poultry,524.0,1996-09,Media
+10312,75,6.2,10,Rhönbräu Klosterbier,1,WANDK,1996-09-23,Beverages,62.0,1996-09,Baja
+10313,36,15.2,12,Inlagd Sill,8,QUICK,1996-09-24,Seafood,182.4,1996-09,Media
+10314,32,25.6,40,Mascarpone Fabioli,4,RATTC,1996-09-25,Dairy Products,1024.0,1996-09,Alta
+10314,58,10.6,30,Escargots de Bourgogne,8,RATTC,1996-09-25,Seafood,318.0,1996-09,Media
+10314,62,39.4,25,Tarte au sucre,3,RATTC,1996-09-25,Confections,985.0,1996-09,Media
+10315,34,11.2,14,Sasquatch Ale,1,ISLAT,1996-09-26,Beverages,156.79999999999998,1996-09,Media
+10315,70,12.0,30,Outback Lager,1,ISLAT,1996-09-26,Beverages,360.0,1996-09,Media
+10316,41,7.7,10,Jack's New England Clam Chowder,8,RATTC,1996-09-27,Seafood,77.0,1996-09,Baja
+10316,62,39.4,70,Tarte au sucre,3,RATTC,1996-09-27,Confections,2758.0,1996-09,Alta
+10317,1,14.4,20,Chai,1,LONEP,1996-09-30,Beverages,288.0,1996-09,Media
+10318,41,7.7,20,Jack's New England Clam Chowder,8,ISLAT,1996-10-01,Seafood,154.0,1996-10,Media
+10318,76,14.4,6,Lakkalikööri,1,ISLAT,1996-10-01,Beverages,86.4,1996-10,Baja
+10319,17,31.2,8,Alice Mutton,6,TORTU,1996-10-02,Meat/Poultry,249.6,1996-10,Media
+10319,28,36.4,14,Rössle Sauerkraut,7,TORTU,1996-10-02,Produce,509.6,1996-10,Media
+10319,76,14.4,30,Lakkalikööri,1,TORTU,1996-10-02,Beverages,432.0,1996-10,Media
+10320,71,17.2,30,Flotemysost,4,WARTH,1996-10-03,Dairy Products,516.0,1996-10,Media
+10321,35,14.4,10,Steeleye Stout,1,ISLAT,1996-10-03,Beverages,144.0,1996-10,Media
+10322,52,5.6,20,Filo Mix,5,PERIC,1996-10-04,Grains/Cereals,112.0,1996-10,Media
+10323,15,12.4,5,Genen Shouyu,2,KOENE,1996-10-07,Condiments,62.0,1996-10,Baja
+10323,25,11.2,4,NuNuCa Nuß-Nougat-Creme,3,KOENE,1996-10-07,Confections,44.8,1996-10,Baja
+10323,39,14.4,4,Chartreuse verte,1,KOENE,1996-10-07,Beverages,57.6,1996-10,Baja
+10324,16,13.9,21,Pavlova,3,SAVEA,1996-10-08,Confections,291.90000000000003,1996-10,Media
+10324,35,14.4,70,Steeleye Stout,1,SAVEA,1996-10-08,Beverages,1008.0,1996-10,Alta
+10324,46,9.6,30,Spegesild,8,SAVEA,1996-10-08,Seafood,288.0,1996-10,Media
+10324,59,44.0,40,Raclette Courdavault,4,SAVEA,1996-10-08,Dairy Products,1760.0,1996-10,Alta
+10324,63,35.1,80,Vegie-spread,2,SAVEA,1996-10-08,Condiments,2808.0,1996-10,Alta
+10325,6,20.0,6,Grandma's Boysenberry Spread,2,KOENE,1996-10-09,Condiments,120.0,1996-10,Media
+10325,13,4.8,12,Konbu,8,KOENE,1996-10-09,Seafood,57.6,1996-10,Baja
+10325,14,18.6,9,Tofu,7,KOENE,1996-10-09,Produce,167.4,1996-10,Media
+10325,31,10.0,4,Gorgonzola Telino,4,KOENE,1996-10-09,Dairy Products,40.0,1996-10,Baja
+10325,72,27.8,40,Mozzarella di Giovanni,4,KOENE,1996-10-09,Dairy Products,1112.0,1996-10,Alta
+10326,4,17.6,24,Chef Anton's Cajun Seasoning,2,BOLID,1996-10-10,Condiments,422.4,1996-10,Media
+10326,57,15.6,16,Ravioli Angelo,5,BOLID,1996-10-10,Grains/Cereals,249.6,1996-10,Media
+10326,75,6.2,50,Rhönbräu Klosterbier,1,BOLID,1996-10-10,Beverages,310.0,1996-10,Media
+10327,2,15.2,25,Chang,1,FOLKO,1996-10-11,Beverages,380.0,1996-10,Media
+10327,11,16.8,50,Queso Cabrales,4,FOLKO,1996-10-11,Dairy Products,840.0,1996-10,Media
+10327,30,20.7,35,Nord-Ost Matjeshering,8,FOLKO,1996-10-11,Seafood,724.5,1996-10,Media
+10327,58,10.6,30,Escargots de Bourgogne,8,FOLKO,1996-10-11,Seafood,318.0,1996-10,Media
+10328,59,44.0,9,Raclette Courdavault,4,FURIB,1996-10-14,Dairy Products,396.0,1996-10,Media
+10328,65,16.8,40,Louisiana Fiery Hot Pepper Sauce,2,FURIB,1996-10-14,Condiments,672.0,1996-10,Media
+10328,68,10.0,10,Scottish Longbreads,3,FURIB,1996-10-14,Confections,100.0,1996-10,Baja
+10329,19,7.3,10,Teatime Chocolate Biscuits,3,SPLIR,1996-10-15,Confections,73.0,1996-10,Baja
+10329,30,20.7,8,Nord-Ost Matjeshering,8,SPLIR,1996-10-15,Seafood,165.6,1996-10,Media
+10329,38,210.8,20,Côte de Blaye,1,SPLIR,1996-10-15,Beverages,4216.0,1996-10,Alta
+10329,56,30.4,12,Gnocchi di nonna Alice,5,SPLIR,1996-10-15,Grains/Cereals,364.8,1996-10,Media
+10330,26,24.9,50,Gumbär Gummibärchen,3,LILAS,1996-10-16,Confections,1245.0,1996-10,Alta
+10330,72,27.8,25,Mozzarella di Giovanni,4,LILAS,1996-10-16,Dairy Products,695.0,1996-10,Media
+10331,54,5.9,15,Tourtière,6,BONAP,1996-10-16,Meat/Poultry,88.5,1996-10,Baja
+10332,18,50.0,40,Carnarvon Tigers,8,MEREP,1996-10-17,Seafood,2000.0,1996-10,Alta
+10332,42,11.2,10,Singaporean Hokkien Fried Mee,5,MEREP,1996-10-17,Grains/Cereals,112.0,1996-10,Media
+10332,47,7.6,16,Zaanse koeken,3,MEREP,1996-10-17,Confections,121.6,1996-10,Media
+10333,14,18.6,10,Tofu,7,WARTH,1996-10-18,Produce,186.0,1996-10,Media
+10333,21,8.0,10,Sir Rodney's Scones,3,WARTH,1996-10-18,Confections,80.0,1996-10,Baja
+10333,71,17.2,40,Flotemysost,4,WARTH,1996-10-18,Dairy Products,688.0,1996-10,Media
+10334,52,5.6,8,Filo Mix,5,VICTE,1996-10-21,Grains/Cereals,44.8,1996-10,Baja
+10334,68,10.0,10,Scottish Longbreads,3,VICTE,1996-10-21,Confections,100.0,1996-10,Baja
+10335,2,15.2,7,Chang,1,HUNGO,1996-10-22,Beverages,106.4,1996-10,Media
+10335,31,10.0,25,Gorgonzola Telino,4,HUNGO,1996-10-22,Dairy Products,250.0,1996-10,Media
+10335,32,25.6,6,Mascarpone Fabioli,4,HUNGO,1996-10-22,Dairy Products,153.60000000000002,1996-10,Media
+10335,51,42.4,48,Manjimup Dried Apples,7,HUNGO,1996-10-22,Produce,2035.2,1996-10,Alta
+10336,4,17.6,18,Chef Anton's Cajun Seasoning,2,PRINI,1996-10-23,Condiments,316.8,1996-10,Media
+10337,23,7.2,40,Tunnbröd,5,FRANK,1996-10-24,Grains/Cereals,288.0,1996-10,Media
+10337,26,24.9,24,Gumbär Gummibärchen,3,FRANK,1996-10-24,Confections,597.5999999999999,1996-10,Media
+10337,36,15.2,20,Inlagd Sill,8,FRANK,1996-10-24,Seafood,304.0,1996-10,Media
+10337,37,20.8,28,Gravad lax,8,FRANK,1996-10-24,Seafood,582.4,1996-10,Media
+10337,72,27.8,25,Mozzarella di Giovanni,4,FRANK,1996-10-24,Dairy Products,695.0,1996-10,Media
+10338,17,31.2,20,Alice Mutton,6,OLDWO,1996-10-25,Meat/Poultry,624.0,1996-10,Media
+10338,30,20.7,15,Nord-Ost Matjeshering,8,OLDWO,1996-10-25,Seafood,310.5,1996-10,Media
+10339,4,17.6,10,Chef Anton's Cajun Seasoning,2,MEREP,1996-10-28,Condiments,176.0,1996-10,Media
+10339,17,31.2,70,Alice Mutton,6,MEREP,1996-10-28,Meat/Poultry,2184.0,1996-10,Alta
+10339,62,39.4,28,Tarte au sucre,3,MEREP,1996-10-28,Confections,1103.2,1996-10,Alta
+10340,18,50.0,20,Carnarvon Tigers,8,BONAP,1996-10-29,Seafood,1000.0,1996-10,Media
+10340,41,7.7,12,Jack's New England Clam Chowder,8,BONAP,1996-10-29,Seafood,92.4,1996-10,Baja
+10340,43,36.8,40,Ipoh Coffee,1,BONAP,1996-10-29,Beverages,1472.0,1996-10,Alta
+10341,33,2.0,8,Geitost,4,SIMOB,1996-10-29,Dairy Products,16.0,1996-10,Baja
+10341,59,44.0,9,Raclette Courdavault,4,SIMOB,1996-10-29,Dairy Products,396.0,1996-10,Media
+10342,2,15.2,24,Chang,1,FRANK,1996-10-30,Beverages,364.8,1996-10,Media
+10342,31,10.0,56,Gorgonzola Telino,4,FRANK,1996-10-30,Dairy Products,560.0,1996-10,Media
+10342,36,15.2,40,Inlagd Sill,8,FRANK,1996-10-30,Seafood,608.0,1996-10,Media
+10342,55,19.2,40,Pâté chinois,6,FRANK,1996-10-30,Meat/Poultry,768.0,1996-10,Media
+10343,64,26.6,50,Wimmers gute Semmelknödel,5,LEHMS,1996-10-31,Grains/Cereals,1330.0,1996-10,Alta
+10343,68,10.0,4,Scottish Longbreads,3,LEHMS,1996-10-31,Confections,40.0,1996-10,Baja
+10343,76,14.4,15,Lakkalikööri,1,LEHMS,1996-10-31,Beverages,216.0,1996-10,Media
+10344,4,17.6,35,Chef Anton's Cajun Seasoning,2,WHITC,1996-11-01,Condiments,616.0,1996-11,Media
+10344,8,32.0,70,Northwoods Cranberry Sauce,2,WHITC,1996-11-01,Condiments,2240.0,1996-11,Alta
+10345,8,32.0,70,Northwoods Cranberry Sauce,2,QUICK,1996-11-04,Condiments,2240.0,1996-11,Alta
+10345,19,7.3,80,Teatime Chocolate Biscuits,3,QUICK,1996-11-04,Confections,584.0,1996-11,Media
+10345,42,11.2,9,Singaporean Hokkien Fried Mee,5,QUICK,1996-11-04,Grains/Cereals,100.8,1996-11,Media
+10346,17,31.2,36,Alice Mutton,6,RATTC,1996-11-05,Meat/Poultry,1123.2,1996-11,Alta
+10346,56,30.4,20,Gnocchi di nonna Alice,5,RATTC,1996-11-05,Grains/Cereals,608.0,1996-11,Media
+10347,25,11.2,10,NuNuCa Nuß-Nougat-Creme,3,FAMIA,1996-11-06,Confections,112.0,1996-11,Media
+10347,39,14.4,50,Chartreuse verte,1,FAMIA,1996-11-06,Beverages,720.0,1996-11,Media
+10347,40,14.7,4,Boston Crab Meat,8,FAMIA,1996-11-06,Seafood,58.8,1996-11,Baja
+10347,75,6.2,6,Rhönbräu Klosterbier,1,FAMIA,1996-11-06,Beverages,37.2,1996-11,Baja
+10348,1,14.4,15,Chai,1,WANDK,1996-11-07,Beverages,216.0,1996-11,Media
+10348,23,7.2,25,Tunnbröd,5,WANDK,1996-11-07,Grains/Cereals,180.0,1996-11,Media
+10349,54,5.9,24,Tourtière,6,SPLIR,1996-11-08,Meat/Poultry,141.60000000000002,1996-11,Media
+10350,50,13.0,15,Valkoinen suklaa,3,LAMAI,1996-11-11,Confections,195.0,1996-11,Media
+10350,69,28.8,18,Gudbrandsdalsost,4,LAMAI,1996-11-11,Dairy Products,518.4,1996-11,Media
+10351,38,210.8,20,Côte de Blaye,1,ERNSH,1996-11-11,Beverages,4216.0,1996-11,Alta
+10351,41,7.7,13,Jack's New England Clam Chowder,8,ERNSH,1996-11-11,Seafood,100.1,1996-11,Media
+10351,44,15.5,77,Gula Malacca,2,ERNSH,1996-11-11,Condiments,1193.5,1996-11,Alta
+10351,65,16.8,10,Louisiana Fiery Hot Pepper Sauce,2,ERNSH,1996-11-11,Condiments,168.0,1996-11,Media
+10352,24,3.6,10,Guaraná Fantástica,1,FURIB,1996-11-12,Beverages,36.0,1996-11,Baja
+10352,54,5.9,20,Tourtière,6,FURIB,1996-11-12,Meat/Poultry,118.0,1996-11,Media
+10353,11,16.8,12,Queso Cabrales,4,PICCO,1996-11-13,Dairy Products,201.6,1996-11,Media
+10353,38,210.8,50,Côte de Blaye,1,PICCO,1996-11-13,Beverages,10540.0,1996-11,Alta
+10354,1,14.4,12,Chai,1,PERIC,1996-11-14,Beverages,172.8,1996-11,Media
+10354,29,99.0,4,Thüringer Rostbratwurst,6,PERIC,1996-11-14,Meat/Poultry,396.0,1996-11,Media
+10355,24,3.6,25,Guaraná Fantástica,1,AROUT,1996-11-15,Beverages,90.0,1996-11,Baja
+10355,57,15.6,25,Ravioli Angelo,5,AROUT,1996-11-15,Grains/Cereals,390.0,1996-11,Media
+10356,31,10.0,30,Gorgonzola Telino,4,WANDK,1996-11-18,Dairy Products,300.0,1996-11,Media
+10356,55,19.2,12,Pâté chinois,6,WANDK,1996-11-18,Meat/Poultry,230.4,1996-11,Media
+10356,69,28.8,20,Gudbrandsdalsost,4,WANDK,1996-11-18,Dairy Products,576.0,1996-11,Media
+10357,10,24.8,30,Ikura,8,LILAS,1996-11-19,Seafood,744.0,1996-11,Media
+10357,26,24.9,16,Gumbär Gummibärchen,3,LILAS,1996-11-19,Confections,398.4,1996-11,Media
+10357,60,27.2,8,Camembert Pierrot,4,LILAS,1996-11-19,Dairy Products,217.6,1996-11,Media
+10358,24,3.6,10,Guaraná Fantástica,1,LAMAI,1996-11-20,Beverages,36.0,1996-11,Baja
+10358,34,11.2,10,Sasquatch Ale,1,LAMAI,1996-11-20,Beverages,112.0,1996-11,Media
+10358,36,15.2,20,Inlagd Sill,8,LAMAI,1996-11-20,Seafood,304.0,1996-11,Media
+10359,16,13.9,56,Pavlova,3,SEVES,1996-11-21,Confections,778.4,1996-11,Media
+10359,31,10.0,70,Gorgonzola Telino,4,SEVES,1996-11-21,Dairy Products,700.0,1996-11,Media
+10359,60,27.2,80,Camembert Pierrot,4,SEVES,1996-11-21,Dairy Products,2176.0,1996-11,Alta
+10360,28,36.4,30,Rössle Sauerkraut,7,BLONP,1996-11-22,Produce,1092.0,1996-11,Alta
+10360,29,99.0,35,Thüringer Rostbratwurst,6,BLONP,1996-11-22,Meat/Poultry,3465.0,1996-11,Alta
+10360,38,210.8,10,Côte de Blaye,1,BLONP,1996-11-22,Beverages,2108.0,1996-11,Alta
+10360,49,16.0,35,Maxilaku,3,BLONP,1996-11-22,Confections,560.0,1996-11,Media
+10360,54,5.9,28,Tourtière,6,BLONP,1996-11-22,Meat/Poultry,165.20000000000002,1996-11,Media
+10361,39,14.4,54,Chartreuse verte,1,QUICK,1996-11-22,Beverages,777.6,1996-11,Media
+10361,60,27.2,55,Camembert Pierrot,4,QUICK,1996-11-22,Dairy Products,1496.0,1996-11,Alta
+10362,25,11.2,50,NuNuCa Nuß-Nougat-Creme,3,BONAP,1996-11-25,Confections,560.0,1996-11,Media
+10362,51,42.4,20,Manjimup Dried Apples,7,BONAP,1996-11-25,Produce,848.0,1996-11,Media
+10362,54,5.9,24,Tourtière,6,BONAP,1996-11-25,Meat/Poultry,141.60000000000002,1996-11,Media
+10363,31,10.0,20,Gorgonzola Telino,4,DRACD,1996-11-26,Dairy Products,200.0,1996-11,Media
+10363,75,6.2,12,Rhönbräu Klosterbier,1,DRACD,1996-11-26,Beverages,74.4,1996-11,Baja
+10363,76,14.4,12,Lakkalikööri,1,DRACD,1996-11-26,Beverages,172.8,1996-11,Media
+10364,69,28.8,30,Gudbrandsdalsost,4,EASTC,1996-11-26,Dairy Products,864.0,1996-11,Media
+10364,71,17.2,5,Flotemysost,4,EASTC,1996-11-26,Dairy Products,86.0,1996-11,Baja
+10365,11,16.8,24,Queso Cabrales,4,ANTON,1996-11-27,Dairy Products,403.2000000000001,1996-11,Media
+10366,65,16.8,5,Louisiana Fiery Hot Pepper Sauce,2,GALED,1996-11-28,Condiments,84.0,1996-11,Baja
+10366,77,10.4,5,Original Frankfurter grüne Soße,2,GALED,1996-11-28,Condiments,52.0,1996-11,Baja
+10367,34,11.2,36,Sasquatch Ale,1,VAFFE,1996-11-28,Beverages,403.2,1996-11,Media
+10367,54,5.9,18,Tourtière,6,VAFFE,1996-11-28,Meat/Poultry,106.2,1996-11,Media
+10367,65,16.8,15,Louisiana Fiery Hot Pepper Sauce,2,VAFFE,1996-11-28,Condiments,252.0,1996-11,Media
+10367,77,10.4,7,Original Frankfurter grüne Soße,2,VAFFE,1996-11-28,Condiments,72.8,1996-11,Baja
+10368,21,8.0,5,Sir Rodney's Scones,3,ERNSH,1996-11-29,Confections,40.0,1996-11,Baja
+10368,28,36.4,13,Rössle Sauerkraut,7,ERNSH,1996-11-29,Produce,473.2,1996-11,Media
+10368,57,15.6,25,Ravioli Angelo,5,ERNSH,1996-11-29,Grains/Cereals,390.0,1996-11,Media
+10368,64,26.6,35,Wimmers gute Semmelknödel,5,ERNSH,1996-11-29,Grains/Cereals,931.0,1996-11,Media
+10369,29,99.0,20,Thüringer Rostbratwurst,6,SPLIR,1996-12-02,Meat/Poultry,1980.0,1996-12,Alta
+10369,56,30.4,18,Gnocchi di nonna Alice,5,SPLIR,1996-12-02,Grains/Cereals,547.1999999999999,1996-12,Media
+10370,1,14.4,15,Chai,1,CHOPS,1996-12-03,Beverages,216.0,1996-12,Media
+10370,64,26.6,30,Wimmers gute Semmelknödel,5,CHOPS,1996-12-03,Grains/Cereals,798.0,1996-12,Media
+10370,74,8.0,20,Longlife Tofu,7,CHOPS,1996-12-03,Produce,160.0,1996-12,Media
+10371,36,15.2,6,Inlagd Sill,8,LAMAI,1996-12-03,Seafood,91.2,1996-12,Baja
+10372,20,64.8,12,Sir Rodney's Marmalade,3,QUEEN,1996-12-04,Confections,777.5999999999999,1996-12,Media
+10372,38,210.8,40,Côte de Blaye,1,QUEEN,1996-12-04,Beverages,8432.0,1996-12,Alta
+10372,60,27.2,70,Camembert Pierrot,4,QUEEN,1996-12-04,Dairy Products,1904.0,1996-12,Alta
+10372,72,27.8,42,Mozzarella di Giovanni,4,QUEEN,1996-12-04,Dairy Products,1167.6,1996-12,Alta
+10373,58,10.6,80,Escargots de Bourgogne,8,HUNGO,1996-12-05,Seafood,848.0,1996-12,Media
+10373,71,17.2,50,Flotemysost,4,HUNGO,1996-12-05,Dairy Products,860.0,1996-12,Media
+10374,31,10.0,30,Gorgonzola Telino,4,WOLZA,1996-12-05,Dairy Products,300.0,1996-12,Media
+10374,58,10.6,15,Escargots de Bourgogne,8,WOLZA,1996-12-05,Seafood,159.0,1996-12,Media
+10375,14,18.6,15,Tofu,7,HUNGC,1996-12-06,Produce,279.0,1996-12,Media
+10375,54,5.9,10,Tourtière,6,HUNGC,1996-12-06,Meat/Poultry,59.0,1996-12,Baja
+10376,31,10.0,42,Gorgonzola Telino,4,MEREP,1996-12-09,Dairy Products,420.0,1996-12,Media
+10377,28,36.4,20,Rössle Sauerkraut,7,SEVES,1996-12-09,Produce,728.0,1996-12,Media
+10377,39,14.4,20,Chartreuse verte,1,SEVES,1996-12-09,Beverages,288.0,1996-12,Media
+10378,71,17.2,6,Flotemysost,4,FOLKO,1996-12-10,Dairy Products,103.2,1996-12,Media
+10379,41,7.7,8,Jack's New England Clam Chowder,8,QUEDE,1996-12-11,Seafood,61.6,1996-12,Baja
+10379,63,35.1,16,Vegie-spread,2,QUEDE,1996-12-11,Condiments,561.6,1996-12,Media
+10379,65,16.8,20,Louisiana Fiery Hot Pepper Sauce,2,QUEDE,1996-12-11,Condiments,336.0,1996-12,Media
+10380,30,20.7,18,Nord-Ost Matjeshering,8,HUNGO,1996-12-12,Seafood,372.6,1996-12,Media
+10380,53,26.2,20,Perth Pasties,6,HUNGO,1996-12-12,Meat/Poultry,524.0,1996-12,Media
+10380,60,27.2,6,Camembert Pierrot,4,HUNGO,1996-12-12,Dairy Products,163.2,1996-12,Media
+10380,70,12.0,30,Outback Lager,1,HUNGO,1996-12-12,Beverages,360.0,1996-12,Media
+10381,74,8.0,14,Longlife Tofu,7,LILAS,1996-12-12,Produce,112.0,1996-12,Media
+10382,5,17.0,32,Chef Anton's Gumbo Mix,2,ERNSH,1996-12-13,Condiments,544.0,1996-12,Media
+10382,18,50.0,9,Carnarvon Tigers,8,ERNSH,1996-12-13,Seafood,450.0,1996-12,Media
+10382,29,99.0,14,Thüringer Rostbratwurst,6,ERNSH,1996-12-13,Meat/Poultry,1386.0,1996-12,Alta
+10382,33,2.0,60,Geitost,4,ERNSH,1996-12-13,Dairy Products,120.0,1996-12,Media
+10382,74,8.0,50,Longlife Tofu,7,ERNSH,1996-12-13,Produce,400.0,1996-12,Media
+10383,13,4.8,20,Konbu,8,AROUT,1996-12-16,Seafood,96.0,1996-12,Baja
+10383,50,13.0,15,Valkoinen suklaa,3,AROUT,1996-12-16,Confections,195.0,1996-12,Media
+10383,56,30.4,20,Gnocchi di nonna Alice,5,AROUT,1996-12-16,Grains/Cereals,608.0,1996-12,Media
+10384,20,64.8,28,Sir Rodney's Marmalade,3,BERGS,1996-12-16,Confections,1814.4,1996-12,Alta
+10384,60,27.2,15,Camembert Pierrot,4,BERGS,1996-12-16,Dairy Products,408.0,1996-12,Media
+10385,7,24.0,10,Uncle Bob's Organic Dried Pears,7,SPLIR,1996-12-17,Produce,240.0,1996-12,Media
+10385,60,27.2,20,Camembert Pierrot,4,SPLIR,1996-12-17,Dairy Products,544.0,1996-12,Media
+10385,68,10.0,8,Scottish Longbreads,3,SPLIR,1996-12-17,Confections,80.0,1996-12,Baja
+10386,24,3.6,15,Guaraná Fantástica,1,FAMIA,1996-12-18,Beverages,54.0,1996-12,Baja
+10386,34,11.2,10,Sasquatch Ale,1,FAMIA,1996-12-18,Beverages,112.0,1996-12,Media
+10387,24,3.6,15,Guaraná Fantástica,1,SANTG,1996-12-18,Beverages,54.0,1996-12,Baja
+10387,28,36.4,6,Rössle Sauerkraut,7,SANTG,1996-12-18,Produce,218.4,1996-12,Media
+10387,59,44.0,12,Raclette Courdavault,4,SANTG,1996-12-18,Dairy Products,528.0,1996-12,Media
+10387,71,17.2,15,Flotemysost,4,SANTG,1996-12-18,Dairy Products,258.0,1996-12,Media
+10388,45,7.6,15,Rogede sild,8,SEVES,1996-12-19,Seafood,114.0,1996-12,Media
+10388,52,5.6,20,Filo Mix,5,SEVES,1996-12-19,Grains/Cereals,112.0,1996-12,Media
+10388,53,26.2,40,Perth Pasties,6,SEVES,1996-12-19,Meat/Poultry,1048.0,1996-12,Alta
+10389,10,24.8,16,Ikura,8,BOTTM,1996-12-20,Seafood,396.8,1996-12,Media
+10389,55,19.2,15,Pâté chinois,6,BOTTM,1996-12-20,Meat/Poultry,288.0,1996-12,Media
+10389,62,39.4,20,Tarte au sucre,3,BOTTM,1996-12-20,Confections,788.0,1996-12,Media
+10389,70,12.0,30,Outback Lager,1,BOTTM,1996-12-20,Beverages,360.0,1996-12,Media
+10390,31,10.0,60,Gorgonzola Telino,4,ERNSH,1996-12-23,Dairy Products,600.0,1996-12,Media
+10390,35,14.4,40,Steeleye Stout,1,ERNSH,1996-12-23,Beverages,576.0,1996-12,Media
+10390,46,9.6,45,Spegesild,8,ERNSH,1996-12-23,Seafood,432.0,1996-12,Media
+10390,72,27.8,24,Mozzarella di Giovanni,4,ERNSH,1996-12-23,Dairy Products,667.2,1996-12,Media
+10391,13,4.8,18,Konbu,8,DRACD,1996-12-23,Seafood,86.39999999999999,1996-12,Baja
+10392,69,28.8,50,Gudbrandsdalsost,4,PICCO,1996-12-24,Dairy Products,1440.0,1996-12,Alta
+10393,2,15.2,25,Chang,1,SAVEA,1996-12-25,Beverages,380.0,1996-12,Media
+10393,14,18.6,42,Tofu,7,SAVEA,1996-12-25,Produce,781.2,1996-12,Media
+10393,25,11.2,7,NuNuCa Nuß-Nougat-Creme,3,SAVEA,1996-12-25,Confections,78.39999999999999,1996-12,Baja
+10393,26,24.9,70,Gumbär Gummibärchen,3,SAVEA,1996-12-25,Confections,1743.0,1996-12,Alta
+10393,31,10.0,32,Gorgonzola Telino,4,SAVEA,1996-12-25,Dairy Products,320.0,1996-12,Media
+10394,13,4.8,10,Konbu,8,HUNGC,1996-12-25,Seafood,48.0,1996-12,Baja
+10394,62,39.4,10,Tarte au sucre,3,HUNGC,1996-12-25,Confections,394.0,1996-12,Media
+10395,46,9.6,28,Spegesild,8,HILAA,1996-12-26,Seafood,268.8,1996-12,Media
+10395,53,26.2,70,Perth Pasties,6,HILAA,1996-12-26,Meat/Poultry,1834.0,1996-12,Alta
+10395,69,28.8,8,Gudbrandsdalsost,4,HILAA,1996-12-26,Dairy Products,230.4,1996-12,Media
+10396,23,7.2,40,Tunnbröd,5,FRANK,1996-12-27,Grains/Cereals,288.0,1996-12,Media
+10396,71,17.2,60,Flotemysost,4,FRANK,1996-12-27,Dairy Products,1032.0,1996-12,Alta
+10396,72,27.8,21,Mozzarella di Giovanni,4,FRANK,1996-12-27,Dairy Products,583.8000000000001,1996-12,Media
+10397,21,8.0,10,Sir Rodney's Scones,3,PRINI,1996-12-27,Confections,80.0,1996-12,Baja
+10397,51,42.4,18,Manjimup Dried Apples,7,PRINI,1996-12-27,Produce,763.1999999999999,1996-12,Media
+10398,35,14.4,30,Steeleye Stout,1,SAVEA,1996-12-30,Beverages,432.0,1996-12,Media
+10398,55,19.2,120,Pâté chinois,6,SAVEA,1996-12-30,Meat/Poultry,2304.0,1996-12,Alta
+10399,68,10.0,60,Scottish Longbreads,3,VAFFE,1996-12-31,Confections,600.0,1996-12,Media
+10399,71,17.2,30,Flotemysost,4,VAFFE,1996-12-31,Dairy Products,516.0,1996-12,Media
+10399,76,14.4,35,Lakkalikööri,1,VAFFE,1996-12-31,Beverages,504.0,1996-12,Media
+10399,77,10.4,14,Original Frankfurter grüne Soße,2,VAFFE,1996-12-31,Condiments,145.6,1996-12,Media
+10400,29,99.0,21,Thüringer Rostbratwurst,6,EASTC,1997-01-01,Meat/Poultry,2079.0,1997-01,Alta
+10400,35,14.4,35,Steeleye Stout,1,EASTC,1997-01-01,Beverages,504.0,1997-01,Media
+10400,49,16.0,30,Maxilaku,3,EASTC,1997-01-01,Confections,480.0,1997-01,Media
+10401,30,20.7,18,Nord-Ost Matjeshering,8,RATTC,1997-01-01,Seafood,372.6,1997-01,Media
+10401,56,30.4,70,Gnocchi di nonna Alice,5,RATTC,1997-01-01,Grains/Cereals,2128.0,1997-01,Alta
+10401,65,16.8,20,Louisiana Fiery Hot Pepper Sauce,2,RATTC,1997-01-01,Condiments,336.0,1997-01,Media
+10401,71,17.2,60,Flotemysost,4,RATTC,1997-01-01,Dairy Products,1032.0,1997-01,Alta
+10402,23,7.2,60,Tunnbröd,5,ERNSH,1997-01-02,Grains/Cereals,432.0,1997-01,Media
+10402,63,35.1,65,Vegie-spread,2,ERNSH,1997-01-02,Condiments,2281.5,1997-01,Alta
+10403,16,13.9,21,Pavlova,3,ERNSH,1997-01-03,Confections,291.90000000000003,1997-01,Media
+10403,48,10.2,70,Chocolade,3,ERNSH,1997-01-03,Confections,714.0,1997-01,Media
+10404,26,24.9,30,Gumbär Gummibärchen,3,MAGAA,1997-01-03,Confections,747.0,1997-01,Media
+10404,42,11.2,40,Singaporean Hokkien Fried Mee,5,MAGAA,1997-01-03,Grains/Cereals,448.0,1997-01,Media
+10404,49,16.0,30,Maxilaku,3,MAGAA,1997-01-03,Confections,480.0,1997-01,Media
+10405,3,8.0,50,Aniseed Syrup,2,LINOD,1997-01-06,Condiments,400.0,1997-01,Media
+10406,1,14.4,10,Chai,1,QUEEN,1997-01-07,Beverages,144.0,1997-01,Media
+10406,21,8.0,30,Sir Rodney's Scones,3,QUEEN,1997-01-07,Confections,240.0,1997-01,Media
+10406,28,36.4,42,Rössle Sauerkraut,7,QUEEN,1997-01-07,Produce,1528.8,1997-01,Alta
+10406,36,15.2,5,Inlagd Sill,8,QUEEN,1997-01-07,Seafood,76.0,1997-01,Baja
+10406,40,14.7,2,Boston Crab Meat,8,QUEEN,1997-01-07,Seafood,29.4,1997-01,Baja
+10407,11,16.8,30,Queso Cabrales,4,OTTIK,1997-01-07,Dairy Products,504.0,1997-01,Media
+10407,69,28.8,15,Gudbrandsdalsost,4,OTTIK,1997-01-07,Dairy Products,432.0,1997-01,Media
+10407,71,17.2,15,Flotemysost,4,OTTIK,1997-01-07,Dairy Products,258.0,1997-01,Media
+10408,37,20.8,10,Gravad lax,8,FOLIG,1997-01-08,Seafood,208.0,1997-01,Media
+10408,54,5.9,6,Tourtière,6,FOLIG,1997-01-08,Meat/Poultry,35.400000000000006,1997-01,Baja
+10408,62,39.4,35,Tarte au sucre,3,FOLIG,1997-01-08,Confections,1379.0,1997-01,Alta
+10409,14,18.6,12,Tofu,7,OCEAN,1997-01-09,Produce,223.2,1997-01,Media
+10409,21,8.0,12,Sir Rodney's Scones,3,OCEAN,1997-01-09,Confections,96.0,1997-01,Baja
+10410,33,2.0,49,Geitost,4,BOTTM,1997-01-10,Dairy Products,98.0,1997-01,Baja
+10410,59,44.0,16,Raclette Courdavault,4,BOTTM,1997-01-10,Dairy Products,704.0,1997-01,Media
+10411,41,7.7,25,Jack's New England Clam Chowder,8,BOTTM,1997-01-10,Seafood,192.5,1997-01,Media
+10411,44,15.5,40,Gula Malacca,2,BOTTM,1997-01-10,Condiments,620.0,1997-01,Media
+10411,59,44.0,9,Raclette Courdavault,4,BOTTM,1997-01-10,Dairy Products,396.0,1997-01,Media
+10412,14,18.6,20,Tofu,7,WARTH,1997-01-13,Produce,372.0,1997-01,Media
+10413,1,14.4,24,Chai,1,LAMAI,1997-01-14,Beverages,345.6,1997-01,Media
+10413,62,39.4,40,Tarte au sucre,3,LAMAI,1997-01-14,Confections,1576.0,1997-01,Alta
+10413,76,14.4,14,Lakkalikööri,1,LAMAI,1997-01-14,Beverages,201.6,1997-01,Media
+10414,19,7.3,18,Teatime Chocolate Biscuits,3,FAMIA,1997-01-14,Confections,131.4,1997-01,Media
+10414,33,2.0,50,Geitost,4,FAMIA,1997-01-14,Dairy Products,100.0,1997-01,Baja
+10415,17,31.2,2,Alice Mutton,6,HUNGC,1997-01-15,Meat/Poultry,62.4,1997-01,Baja
+10415,33,2.0,20,Geitost,4,HUNGC,1997-01-15,Dairy Products,40.0,1997-01,Baja
+10416,19,7.3,20,Teatime Chocolate Biscuits,3,WARTH,1997-01-16,Confections,146.0,1997-01,Media
+10416,53,26.2,10,Perth Pasties,6,WARTH,1997-01-16,Meat/Poultry,262.0,1997-01,Media
+10416,57,15.6,20,Ravioli Angelo,5,WARTH,1997-01-16,Grains/Cereals,312.0,1997-01,Media
+10417,38,210.8,50,Côte de Blaye,1,SIMOB,1997-01-16,Beverages,10540.0,1997-01,Alta
+10417,46,9.6,2,Spegesild,8,SIMOB,1997-01-16,Seafood,19.2,1997-01,Baja
+10417,68,10.0,36,Scottish Longbreads,3,SIMOB,1997-01-16,Confections,360.0,1997-01,Media
+10417,77,10.4,35,Original Frankfurter grüne Soße,2,SIMOB,1997-01-16,Condiments,364.0,1997-01,Media
+10418,2,15.2,60,Chang,1,QUICK,1997-01-17,Beverages,912.0,1997-01,Media
+10418,47,7.6,55,Zaanse koeken,3,QUICK,1997-01-17,Confections,418.0,1997-01,Media
+10418,61,22.8,16,Sirop d'érable,2,QUICK,1997-01-17,Condiments,364.8,1997-01,Media
+10418,74,8.0,15,Longlife Tofu,7,QUICK,1997-01-17,Produce,120.0,1997-01,Media
+10419,60,27.2,60,Camembert Pierrot,4,RICSU,1997-01-20,Dairy Products,1632.0,1997-01,Alta
+10419,69,28.8,20,Gudbrandsdalsost,4,RICSU,1997-01-20,Dairy Products,576.0,1997-01,Media
+10420,9,77.6,20,Mishi Kobe Niku,6,WELLI,1997-01-21,Meat/Poultry,1552.0,1997-01,Alta
+10420,13,4.8,2,Konbu,8,WELLI,1997-01-21,Seafood,9.6,1997-01,Baja
+10420,70,12.0,8,Outback Lager,1,WELLI,1997-01-21,Beverages,96.0,1997-01,Baja
+10420,73,12.0,20,Röd Kaviar,8,WELLI,1997-01-21,Seafood,240.0,1997-01,Media
+10421,19,7.3,4,Teatime Chocolate Biscuits,3,QUEDE,1997-01-21,Confections,29.2,1997-01,Baja
+10421,26,24.9,30,Gumbär Gummibärchen,3,QUEDE,1997-01-21,Confections,747.0,1997-01,Media
+10421,53,26.2,15,Perth Pasties,6,QUEDE,1997-01-21,Meat/Poultry,393.0,1997-01,Media
+10421,77,10.4,10,Original Frankfurter grüne Soße,2,QUEDE,1997-01-21,Condiments,104.0,1997-01,Media
+10422,26,24.9,2,Gumbär Gummibärchen,3,FRANS,1997-01-22,Confections,49.8,1997-01,Baja
+10423,31,10.0,14,Gorgonzola Telino,4,GOURL,1997-01-23,Dairy Products,140.0,1997-01,Media
+10423,59,44.0,20,Raclette Courdavault,4,GOURL,1997-01-23,Dairy Products,880.0,1997-01,Media
+10424,35,14.4,60,Steeleye Stout,1,MEREP,1997-01-23,Beverages,864.0,1997-01,Media
+10424,38,210.8,49,Côte de Blaye,1,MEREP,1997-01-23,Beverages,10329.2,1997-01,Alta
+10424,68,10.0,30,Scottish Longbreads,3,MEREP,1997-01-23,Confections,300.0,1997-01,Media
+10425,55,19.2,10,Pâté chinois,6,LAMAI,1997-01-24,Meat/Poultry,192.0,1997-01,Media
+10425,76,14.4,20,Lakkalikööri,1,LAMAI,1997-01-24,Beverages,288.0,1997-01,Media
+10426,56,30.4,5,Gnocchi di nonna Alice,5,GALED,1997-01-27,Grains/Cereals,152.0,1997-01,Media
+10426,64,26.6,7,Wimmers gute Semmelknödel,5,GALED,1997-01-27,Grains/Cereals,186.2,1997-01,Media
+10427,14,18.6,35,Tofu,7,PICCO,1997-01-27,Produce,651.0,1997-01,Media
+10428,46,9.6,20,Spegesild,8,REGGC,1997-01-28,Seafood,192.0,1997-01,Media
+10429,50,13.0,40,Valkoinen suklaa,3,HUNGO,1997-01-29,Confections,520.0,1997-01,Media
+10429,63,35.1,35,Vegie-spread,2,HUNGO,1997-01-29,Condiments,1228.5,1997-01,Alta
+10430,17,31.2,45,Alice Mutton,6,ERNSH,1997-01-30,Meat/Poultry,1404.0,1997-01,Alta
+10430,21,8.0,50,Sir Rodney's Scones,3,ERNSH,1997-01-30,Confections,400.0,1997-01,Media
+10430,56,30.4,30,Gnocchi di nonna Alice,5,ERNSH,1997-01-30,Grains/Cereals,912.0,1997-01,Media
+10430,59,44.0,70,Raclette Courdavault,4,ERNSH,1997-01-30,Dairy Products,3080.0,1997-01,Alta
+10431,17,31.2,50,Alice Mutton,6,BOTTM,1997-01-30,Meat/Poultry,1560.0,1997-01,Alta
+10431,40,14.7,50,Boston Crab Meat,8,BOTTM,1997-01-30,Seafood,735.0,1997-01,Media
+10431,47,7.6,30,Zaanse koeken,3,BOTTM,1997-01-30,Confections,228.0,1997-01,Media
+10432,26,24.9,10,Gumbär Gummibärchen,3,SPLIR,1997-01-31,Confections,249.0,1997-01,Media
+10432,54,5.9,40,Tourtière,6,SPLIR,1997-01-31,Meat/Poultry,236.0,1997-01,Media
+10433,56,30.4,28,Gnocchi di nonna Alice,5,PRINI,1997-02-03,Grains/Cereals,851.1999999999999,1997-02,Media
+10434,11,16.8,6,Queso Cabrales,4,FOLKO,1997-02-03,Dairy Products,100.8,1997-02,Media
+10434,76,14.4,18,Lakkalikööri,1,FOLKO,1997-02-03,Beverages,259.2,1997-02,Media
+10435,2,15.2,10,Chang,1,CONSH,1997-02-04,Beverages,152.0,1997-02,Media
+10435,22,16.8,12,Gustaf's Knäckebröd,5,CONSH,1997-02-04,Grains/Cereals,201.6,1997-02,Media
+10435,72,27.8,10,Mozzarella di Giovanni,4,CONSH,1997-02-04,Dairy Products,278.0,1997-02,Media
+10436,46,9.6,5,Spegesild,8,BLONP,1997-02-05,Seafood,48.0,1997-02,Baja
+10436,56,30.4,40,Gnocchi di nonna Alice,5,BLONP,1997-02-05,Grains/Cereals,1216.0,1997-02,Alta
+10436,64,26.6,30,Wimmers gute Semmelknödel,5,BLONP,1997-02-05,Grains/Cereals,798.0,1997-02,Media
+10436,75,6.2,24,Rhönbräu Klosterbier,1,BLONP,1997-02-05,Beverages,148.8,1997-02,Media
+10437,53,26.2,15,Perth Pasties,6,WARTH,1997-02-05,Meat/Poultry,393.0,1997-02,Media
+10438,19,7.3,15,Teatime Chocolate Biscuits,3,TOMSP,1997-02-06,Confections,109.5,1997-02,Media
+10438,34,11.2,20,Sasquatch Ale,1,TOMSP,1997-02-06,Beverages,224.0,1997-02,Media
+10438,57,15.6,15,Ravioli Angelo,5,TOMSP,1997-02-06,Grains/Cereals,234.0,1997-02,Media
+10439,12,30.4,15,Queso Manchego La Pastora,4,MEREP,1997-02-07,Dairy Products,456.0,1997-02,Media
+10439,16,13.9,16,Pavlova,3,MEREP,1997-02-07,Confections,222.4,1997-02,Media
+10439,64,26.6,6,Wimmers gute Semmelknödel,5,MEREP,1997-02-07,Grains/Cereals,159.60000000000002,1997-02,Media
+10439,74,8.0,30,Longlife Tofu,7,MEREP,1997-02-07,Produce,240.0,1997-02,Media
+10440,2,15.2,45,Chang,1,SAVEA,1997-02-10,Beverages,684.0,1997-02,Media
+10440,16,13.9,49,Pavlova,3,SAVEA,1997-02-10,Confections,681.1,1997-02,Media
+10440,29,99.0,24,Thüringer Rostbratwurst,6,SAVEA,1997-02-10,Meat/Poultry,2376.0,1997-02,Alta
+10440,61,22.8,90,Sirop d'érable,2,SAVEA,1997-02-10,Condiments,2052.0,1997-02,Alta
+10441,27,35.1,50,Schoggi Schokolade,3,OLDWO,1997-02-10,Confections,1755.0,1997-02,Alta
+10442,11,16.8,30,Queso Cabrales,4,ERNSH,1997-02-11,Dairy Products,504.0,1997-02,Media
+10442,54,5.9,80,Tourtière,6,ERNSH,1997-02-11,Meat/Poultry,472.0,1997-02,Media
+10442,66,13.6,60,Louisiana Hot Spiced Okra,2,ERNSH,1997-02-11,Condiments,816.0,1997-02,Media
+10443,11,16.8,6,Queso Cabrales,4,REGGC,1997-02-12,Dairy Products,100.8,1997-02,Media
+10443,28,36.4,12,Rössle Sauerkraut,7,REGGC,1997-02-12,Produce,436.8,1997-02,Media
+10444,17,31.2,10,Alice Mutton,6,BERGS,1997-02-12,Meat/Poultry,312.0,1997-02,Media
+10444,26,24.9,15,Gumbär Gummibärchen,3,BERGS,1997-02-12,Confections,373.5,1997-02,Media
+10444,35,14.4,8,Steeleye Stout,1,BERGS,1997-02-12,Beverages,115.2,1997-02,Media
+10444,41,7.7,30,Jack's New England Clam Chowder,8,BERGS,1997-02-12,Seafood,231.0,1997-02,Media
+10445,39,14.4,6,Chartreuse verte,1,BERGS,1997-02-13,Beverages,86.4,1997-02,Baja
+10445,54,5.9,15,Tourtière,6,BERGS,1997-02-13,Meat/Poultry,88.5,1997-02,Baja
+10446,19,7.3,12,Teatime Chocolate Biscuits,3,TOMSP,1997-02-14,Confections,87.6,1997-02,Baja
+10446,24,3.6,20,Guaraná Fantástica,1,TOMSP,1997-02-14,Beverages,72.0,1997-02,Baja
+10446,31,10.0,3,Gorgonzola Telino,4,TOMSP,1997-02-14,Dairy Products,30.0,1997-02,Baja
+10446,52,5.6,15,Filo Mix,5,TOMSP,1997-02-14,Grains/Cereals,84.0,1997-02,Baja
+10447,19,7.3,40,Teatime Chocolate Biscuits,3,RICAR,1997-02-14,Confections,292.0,1997-02,Media
+10447,65,16.8,35,Louisiana Fiery Hot Pepper Sauce,2,RICAR,1997-02-14,Condiments,588.0,1997-02,Media
+10447,71,17.2,2,Flotemysost,4,RICAR,1997-02-14,Dairy Products,34.4,1997-02,Baja
+10448,26,24.9,6,Gumbär Gummibärchen,3,RANCH,1997-02-17,Confections,149.39999999999998,1997-02,Media
+10448,40,14.7,20,Boston Crab Meat,8,RANCH,1997-02-17,Seafood,294.0,1997-02,Media
+10449,10,24.8,14,Ikura,8,BLONP,1997-02-18,Seafood,347.2,1997-02,Media
+10449,52,5.6,20,Filo Mix,5,BLONP,1997-02-18,Grains/Cereals,112.0,1997-02,Media
+10449,62,39.4,35,Tarte au sucre,3,BLONP,1997-02-18,Confections,1379.0,1997-02,Alta
+10450,10,24.8,20,Ikura,8,VICTE,1997-02-19,Seafood,496.0,1997-02,Media
+10450,54,5.9,6,Tourtière,6,VICTE,1997-02-19,Meat/Poultry,35.400000000000006,1997-02,Baja
+10451,55,19.2,120,Pâté chinois,6,QUICK,1997-02-19,Meat/Poultry,2304.0,1997-02,Alta
+10451,64,26.6,35,Wimmers gute Semmelknödel,5,QUICK,1997-02-19,Grains/Cereals,931.0,1997-02,Media
+10451,65,16.8,28,Louisiana Fiery Hot Pepper Sauce,2,QUICK,1997-02-19,Condiments,470.4,1997-02,Media
+10451,77,10.4,55,Original Frankfurter grüne Soße,2,QUICK,1997-02-19,Condiments,572.0,1997-02,Media
+10452,28,36.4,15,Rössle Sauerkraut,7,SAVEA,1997-02-20,Produce,546.0,1997-02,Media
+10452,44,15.5,100,Gula Malacca,2,SAVEA,1997-02-20,Condiments,1550.0,1997-02,Alta
+10453,48,10.2,15,Chocolade,3,AROUT,1997-02-21,Confections,153.0,1997-02,Media
+10453,70,12.0,25,Outback Lager,1,AROUT,1997-02-21,Beverages,300.0,1997-02,Media
+10454,16,13.9,20,Pavlova,3,LAMAI,1997-02-21,Confections,278.0,1997-02,Media
+10454,33,2.0,20,Geitost,4,LAMAI,1997-02-21,Dairy Products,40.0,1997-02,Baja
+10454,46,9.6,10,Spegesild,8,LAMAI,1997-02-21,Seafood,96.0,1997-02,Baja
+10455,39,14.4,20,Chartreuse verte,1,WARTH,1997-02-24,Beverages,288.0,1997-02,Media
+10455,53,26.2,50,Perth Pasties,6,WARTH,1997-02-24,Meat/Poultry,1310.0,1997-02,Alta
+10455,61,22.8,25,Sirop d'érable,2,WARTH,1997-02-24,Condiments,570.0,1997-02,Media
+10455,71,17.2,30,Flotemysost,4,WARTH,1997-02-24,Dairy Products,516.0,1997-02,Media
+10456,21,8.0,40,Sir Rodney's Scones,3,KOENE,1997-02-25,Confections,320.0,1997-02,Media
+10456,49,16.0,21,Maxilaku,3,KOENE,1997-02-25,Confections,336.0,1997-02,Media
+10457,59,44.0,36,Raclette Courdavault,4,KOENE,1997-02-25,Dairy Products,1584.0,1997-02,Alta
+10458,26,24.9,30,Gumbär Gummibärchen,3,SUPRD,1997-02-26,Confections,747.0,1997-02,Media
+10458,28,36.4,30,Rössle Sauerkraut,7,SUPRD,1997-02-26,Produce,1092.0,1997-02,Alta
+10458,43,36.8,20,Ipoh Coffee,1,SUPRD,1997-02-26,Beverages,736.0,1997-02,Media
+10458,56,30.4,15,Gnocchi di nonna Alice,5,SUPRD,1997-02-26,Grains/Cereals,456.0,1997-02,Media
+10458,71,17.2,50,Flotemysost,4,SUPRD,1997-02-26,Dairy Products,860.0,1997-02,Media
+10459,7,24.0,16,Uncle Bob's Organic Dried Pears,7,VICTE,1997-02-27,Produce,384.0,1997-02,Media
+10459,46,9.6,20,Spegesild,8,VICTE,1997-02-27,Seafood,192.0,1997-02,Media
+10459,72,27.8,40,Mozzarella di Giovanni,4,VICTE,1997-02-27,Dairy Products,1112.0,1997-02,Alta
+10460,68,10.0,21,Scottish Longbreads,3,FOLKO,1997-02-28,Confections,210.0,1997-02,Media
+10460,75,6.2,4,Rhönbräu Klosterbier,1,FOLKO,1997-02-28,Beverages,24.8,1997-02,Baja
+10461,21,8.0,40,Sir Rodney's Scones,3,LILAS,1997-02-28,Confections,320.0,1997-02,Media
+10461,30,20.7,28,Nord-Ost Matjeshering,8,LILAS,1997-02-28,Seafood,579.6,1997-02,Media
+10461,55,19.2,60,Pâté chinois,6,LILAS,1997-02-28,Meat/Poultry,1152.0,1997-02,Alta
+10462,13,4.8,1,Konbu,8,CONSH,1997-03-03,Seafood,4.8,1997-03,Baja
+10462,23,7.2,21,Tunnbröd,5,CONSH,1997-03-03,Grains/Cereals,151.20000000000002,1997-03,Media
+10463,19,7.3,21,Teatime Chocolate Biscuits,3,SUPRD,1997-03-04,Confections,153.29999999999998,1997-03,Media
+10463,42,11.2,50,Singaporean Hokkien Fried Mee,5,SUPRD,1997-03-04,Grains/Cereals,560.0,1997-03,Media
+10464,4,17.6,16,Chef Anton's Cajun Seasoning,2,FURIB,1997-03-04,Condiments,281.6,1997-03,Media
+10464,43,36.8,3,Ipoh Coffee,1,FURIB,1997-03-04,Beverages,110.4,1997-03,Media
+10464,56,30.4,30,Gnocchi di nonna Alice,5,FURIB,1997-03-04,Grains/Cereals,912.0,1997-03,Media
+10464,60,27.2,20,Camembert Pierrot,4,FURIB,1997-03-04,Dairy Products,544.0,1997-03,Media
+10465,24,3.6,25,Guaraná Fantástica,1,VAFFE,1997-03-05,Beverages,90.0,1997-03,Baja
+10465,29,99.0,18,Thüringer Rostbratwurst,6,VAFFE,1997-03-05,Meat/Poultry,1782.0,1997-03,Alta
+10465,40,14.7,20,Boston Crab Meat,8,VAFFE,1997-03-05,Seafood,294.0,1997-03,Media
+10465,45,7.6,30,Rogede sild,8,VAFFE,1997-03-05,Seafood,228.0,1997-03,Media
+10465,50,13.0,25,Valkoinen suklaa,3,VAFFE,1997-03-05,Confections,325.0,1997-03,Media
+10466,11,16.8,10,Queso Cabrales,4,COMMI,1997-03-06,Dairy Products,168.0,1997-03,Media
+10466,46,9.6,5,Spegesild,8,COMMI,1997-03-06,Seafood,48.0,1997-03,Baja
+10467,24,3.6,28,Guaraná Fantástica,1,MAGAA,1997-03-06,Beverages,100.8,1997-03,Media
+10467,25,11.2,12,NuNuCa Nuß-Nougat-Creme,3,MAGAA,1997-03-06,Confections,134.39999999999998,1997-03,Media
+10468,30,20.7,8,Nord-Ost Matjeshering,8,KOENE,1997-03-07,Seafood,165.6,1997-03,Media
+10468,43,36.8,15,Ipoh Coffee,1,KOENE,1997-03-07,Beverages,552.0,1997-03,Media
+10469,2,15.2,40,Chang,1,WHITC,1997-03-10,Beverages,608.0,1997-03,Media
+10469,16,13.9,35,Pavlova,3,WHITC,1997-03-10,Confections,486.5,1997-03,Media
+10469,44,15.5,2,Gula Malacca,2,WHITC,1997-03-10,Condiments,31.0,1997-03,Baja
+10470,18,50.0,30,Carnarvon Tigers,8,BONAP,1997-03-11,Seafood,1500.0,1997-03,Alta
+10470,23,7.2,15,Tunnbröd,5,BONAP,1997-03-11,Grains/Cereals,108.0,1997-03,Media
+10470,64,26.6,8,Wimmers gute Semmelknödel,5,BONAP,1997-03-11,Grains/Cereals,212.8,1997-03,Media
+10471,7,24.0,30,Uncle Bob's Organic Dried Pears,7,BSBEV,1997-03-11,Produce,720.0,1997-03,Media
+10471,56,30.4,20,Gnocchi di nonna Alice,5,BSBEV,1997-03-11,Grains/Cereals,608.0,1997-03,Media
+10472,24,3.6,80,Guaraná Fantástica,1,SEVES,1997-03-12,Beverages,288.0,1997-03,Media
+10472,51,42.4,18,Manjimup Dried Apples,7,SEVES,1997-03-12,Produce,763.1999999999999,1997-03,Media
+10473,33,2.0,12,Geitost,4,ISLAT,1997-03-13,Dairy Products,24.0,1997-03,Baja
+10473,71,17.2,12,Flotemysost,4,ISLAT,1997-03-13,Dairy Products,206.4,1997-03,Media
+10474,14,18.6,12,Tofu,7,PERIC,1997-03-13,Produce,223.2,1997-03,Media
+10474,28,36.4,18,Rössle Sauerkraut,7,PERIC,1997-03-13,Produce,655.1999999999999,1997-03,Media
+10474,40,14.7,21,Boston Crab Meat,8,PERIC,1997-03-13,Seafood,308.7,1997-03,Media
+10474,75,6.2,10,Rhönbräu Klosterbier,1,PERIC,1997-03-13,Beverages,62.0,1997-03,Baja
+10475,31,10.0,35,Gorgonzola Telino,4,SUPRD,1997-03-14,Dairy Products,350.0,1997-03,Media
+10475,66,13.6,60,Louisiana Hot Spiced Okra,2,SUPRD,1997-03-14,Condiments,816.0,1997-03,Media
+10475,76,14.4,42,Lakkalikööri,1,SUPRD,1997-03-14,Beverages,604.8000000000001,1997-03,Media
+10476,55,19.2,2,Pâté chinois,6,HILAA,1997-03-17,Meat/Poultry,38.4,1997-03,Baja
+10476,70,12.0,12,Outback Lager,1,HILAA,1997-03-17,Beverages,144.0,1997-03,Media
+10477,1,14.4,15,Chai,1,PRINI,1997-03-17,Beverages,216.0,1997-03,Media
+10477,21,8.0,21,Sir Rodney's Scones,3,PRINI,1997-03-17,Confections,168.0,1997-03,Media
+10477,39,14.4,20,Chartreuse verte,1,PRINI,1997-03-17,Beverages,288.0,1997-03,Media
+10478,10,24.8,20,Ikura,8,VICTE,1997-03-18,Seafood,496.0,1997-03,Media
+10479,38,210.8,30,Côte de Blaye,1,RATTC,1997-03-19,Beverages,6324.0,1997-03,Alta
+10479,53,26.2,28,Perth Pasties,6,RATTC,1997-03-19,Meat/Poultry,733.6,1997-03,Media
+10479,59,44.0,60,Raclette Courdavault,4,RATTC,1997-03-19,Dairy Products,2640.0,1997-03,Alta
+10479,64,26.6,30,Wimmers gute Semmelknödel,5,RATTC,1997-03-19,Grains/Cereals,798.0,1997-03,Media
+10480,47,7.6,30,Zaanse koeken,3,FOLIG,1997-03-20,Confections,228.0,1997-03,Media
+10480,59,44.0,12,Raclette Courdavault,4,FOLIG,1997-03-20,Dairy Products,528.0,1997-03,Media
+10481,49,16.0,24,Maxilaku,3,RICAR,1997-03-20,Confections,384.0,1997-03,Media
+10481,60,27.2,40,Camembert Pierrot,4,RICAR,1997-03-20,Dairy Products,1088.0,1997-03,Alta
+10482,40,14.7,10,Boston Crab Meat,8,LAZYK,1997-03-21,Seafood,147.0,1997-03,Media
+10483,34,11.2,35,Sasquatch Ale,1,WHITC,1997-03-24,Beverages,392.0,1997-03,Media
+10483,77,10.4,30,Original Frankfurter grüne Soße,2,WHITC,1997-03-24,Condiments,312.0,1997-03,Media
+10484,21,8.0,14,Sir Rodney's Scones,3,BSBEV,1997-03-24,Confections,112.0,1997-03,Media
+10484,40,14.7,10,Boston Crab Meat,8,BSBEV,1997-03-24,Seafood,147.0,1997-03,Media
+10484,51,42.4,3,Manjimup Dried Apples,7,BSBEV,1997-03-24,Produce,127.2,1997-03,Media
+10485,2,15.2,20,Chang,1,LINOD,1997-03-25,Beverages,304.0,1997-03,Media
+10485,3,8.0,20,Aniseed Syrup,2,LINOD,1997-03-25,Condiments,160.0,1997-03,Media
+10485,55,19.2,30,Pâté chinois,6,LINOD,1997-03-25,Meat/Poultry,576.0,1997-03,Media
+10485,70,12.0,60,Outback Lager,1,LINOD,1997-03-25,Beverages,720.0,1997-03,Media
+10486,11,16.8,5,Queso Cabrales,4,HILAA,1997-03-26,Dairy Products,84.0,1997-03,Baja
+10486,51,42.4,25,Manjimup Dried Apples,7,HILAA,1997-03-26,Produce,1060.0,1997-03,Alta
+10486,74,8.0,16,Longlife Tofu,7,HILAA,1997-03-26,Produce,128.0,1997-03,Media
+10487,19,7.3,5,Teatime Chocolate Biscuits,3,QUEEN,1997-03-26,Confections,36.5,1997-03,Baja
+10487,26,24.9,30,Gumbär Gummibärchen,3,QUEEN,1997-03-26,Confections,747.0,1997-03,Media
+10487,54,5.9,24,Tourtière,6,QUEEN,1997-03-26,Meat/Poultry,141.60000000000002,1997-03,Media
+10488,59,44.0,30,Raclette Courdavault,4,FRANK,1997-03-27,Dairy Products,1320.0,1997-03,Alta
+10488,73,12.0,20,Röd Kaviar,8,FRANK,1997-03-27,Seafood,240.0,1997-03,Media
+10489,11,16.8,15,Queso Cabrales,4,PICCO,1997-03-28,Dairy Products,252.0,1997-03,Media
+10489,16,13.9,18,Pavlova,3,PICCO,1997-03-28,Confections,250.2,1997-03,Media
+10490,59,44.0,60,Raclette Courdavault,4,HILAA,1997-03-31,Dairy Products,2640.0,1997-03,Alta
+10490,68,10.0,30,Scottish Longbreads,3,HILAA,1997-03-31,Confections,300.0,1997-03,Media
+10490,75,6.2,36,Rhönbräu Klosterbier,1,HILAA,1997-03-31,Beverages,223.2,1997-03,Media
+10491,44,15.5,15,Gula Malacca,2,FURIB,1997-03-31,Condiments,232.5,1997-03,Media
+10491,77,10.4,7,Original Frankfurter grüne Soße,2,FURIB,1997-03-31,Condiments,72.8,1997-03,Baja
+10492,25,11.2,60,NuNuCa Nuß-Nougat-Creme,3,BOTTM,1997-04-01,Confections,672.0,1997-04,Media
+10492,42,11.2,20,Singaporean Hokkien Fried Mee,5,BOTTM,1997-04-01,Grains/Cereals,224.0,1997-04,Media
+10493,65,16.8,15,Louisiana Fiery Hot Pepper Sauce,2,LAMAI,1997-04-02,Condiments,252.0,1997-04,Media
+10493,66,13.6,10,Louisiana Hot Spiced Okra,2,LAMAI,1997-04-02,Condiments,136.0,1997-04,Media
+10493,69,28.8,10,Gudbrandsdalsost,4,LAMAI,1997-04-02,Dairy Products,288.0,1997-04,Media
+10494,56,30.4,30,Gnocchi di nonna Alice,5,COMMI,1997-04-02,Grains/Cereals,912.0,1997-04,Media
+10495,23,7.2,10,Tunnbröd,5,LAUGB,1997-04-03,Grains/Cereals,72.0,1997-04,Baja
+10495,41,7.7,20,Jack's New England Clam Chowder,8,LAUGB,1997-04-03,Seafood,154.0,1997-04,Media
+10495,77,10.4,5,Original Frankfurter grüne Soße,2,LAUGB,1997-04-03,Condiments,52.0,1997-04,Baja
+10496,31,10.0,20,Gorgonzola Telino,4,TRADH,1997-04-04,Dairy Products,200.0,1997-04,Media
+10497,56,30.4,14,Gnocchi di nonna Alice,5,LEHMS,1997-04-04,Grains/Cereals,425.6,1997-04,Media
+10497,72,27.8,25,Mozzarella di Giovanni,4,LEHMS,1997-04-04,Dairy Products,695.0,1997-04,Media
+10497,77,10.4,25,Original Frankfurter grüne Soße,2,LEHMS,1997-04-04,Condiments,260.0,1997-04,Media
+10498,24,4.5,14,Guaraná Fantástica,1,HILAA,1997-04-07,Beverages,63.0,1997-04,Baja
+10498,40,18.4,5,Boston Crab Meat,8,HILAA,1997-04-07,Seafood,92.0,1997-04,Baja
+10498,42,14.0,30,Singaporean Hokkien Fried Mee,5,HILAA,1997-04-07,Grains/Cereals,420.0,1997-04,Media
+10499,28,45.6,20,Rössle Sauerkraut,7,LILAS,1997-04-08,Produce,912.0,1997-04,Media
+10499,49,20.0,25,Maxilaku,3,LILAS,1997-04-08,Confections,500.0,1997-04,Media
+10500,15,15.5,12,Genen Shouyu,2,LAMAI,1997-04-09,Condiments,186.0,1997-04,Media
+10500,28,45.6,8,Rössle Sauerkraut,7,LAMAI,1997-04-09,Produce,364.8,1997-04,Media
+10501,54,7.45,20,Tourtière,6,BLAUS,1997-04-09,Meat/Poultry,149.0,1997-04,Media
+10502,45,9.5,21,Rogede sild,8,PERIC,1997-04-10,Seafood,199.5,1997-04,Media
+10502,53,32.8,6,Perth Pasties,6,PERIC,1997-04-10,Meat/Poultry,196.8,1997-04,Media
+10502,67,14.0,30,Laughing Lumberjack Lager,1,PERIC,1997-04-10,Beverages,420.0,1997-04,Media
+10503,14,23.25,70,Tofu,7,HUNGO,1997-04-11,Produce,1627.5,1997-04,Alta
+10503,65,21.05,20,Louisiana Fiery Hot Pepper Sauce,2,HUNGO,1997-04-11,Condiments,421.0,1997-04,Media
+10504,2,19.0,12,Chang,1,WHITC,1997-04-11,Beverages,228.0,1997-04,Media
+10504,21,10.0,12,Sir Rodney's Scones,3,WHITC,1997-04-11,Confections,120.0,1997-04,Media
+10504,53,32.8,10,Perth Pasties,6,WHITC,1997-04-11,Meat/Poultry,328.0,1997-04,Media
+10504,61,28.5,25,Sirop d'érable,2,WHITC,1997-04-11,Condiments,712.5,1997-04,Media
+10505,62,49.3,3,Tarte au sucre,3,MEREP,1997-04-14,Confections,147.89999999999998,1997-04,Media
+10506,25,14.0,18,NuNuCa Nuß-Nougat-Creme,3,KOENE,1997-04-15,Confections,252.0,1997-04,Media
+10506,70,15.0,14,Outback Lager,1,KOENE,1997-04-15,Beverages,210.0,1997-04,Media
+10507,43,46.0,15,Ipoh Coffee,1,ANTON,1997-04-15,Beverages,690.0,1997-04,Media
+10507,48,12.75,15,Chocolade,3,ANTON,1997-04-15,Confections,191.25,1997-04,Media
+10508,13,6.0,10,Konbu,8,OTTIK,1997-04-16,Seafood,60.0,1997-04,Baja
+10508,39,18.0,10,Chartreuse verte,1,OTTIK,1997-04-16,Beverages,180.0,1997-04,Media
+10509,28,45.6,3,Rössle Sauerkraut,7,BLAUS,1997-04-17,Produce,136.8,1997-04,Media
+10510,29,123.79,36,Thüringer Rostbratwurst,6,SAVEA,1997-04-18,Meat/Poultry,4456.4400000000005,1997-04,Alta
+10510,75,7.75,36,Rhönbräu Klosterbier,1,SAVEA,1997-04-18,Beverages,279.0,1997-04,Media
+10511,4,22.0,50,Chef Anton's Cajun Seasoning,2,BONAP,1997-04-18,Condiments,1100.0,1997-04,Alta
+10511,7,30.0,50,Uncle Bob's Organic Dried Pears,7,BONAP,1997-04-18,Produce,1500.0,1997-04,Alta
+10511,8,40.0,10,Northwoods Cranberry Sauce,2,BONAP,1997-04-18,Condiments,400.0,1997-04,Media
+10512,24,4.5,10,Guaraná Fantástica,1,FAMIA,1997-04-21,Beverages,45.0,1997-04,Baja
+10512,46,12.0,9,Spegesild,8,FAMIA,1997-04-21,Seafood,108.0,1997-04,Media
+10512,47,9.5,6,Zaanse koeken,3,FAMIA,1997-04-21,Confections,57.0,1997-04,Baja
+10512,60,34.0,12,Camembert Pierrot,4,FAMIA,1997-04-21,Dairy Products,408.0,1997-04,Media
+10513,21,10.0,40,Sir Rodney's Scones,3,WANDK,1997-04-22,Confections,400.0,1997-04,Media
+10513,32,32.0,50,Mascarpone Fabioli,4,WANDK,1997-04-22,Dairy Products,1600.0,1997-04,Alta
+10513,61,28.5,15,Sirop d'érable,2,WANDK,1997-04-22,Condiments,427.5,1997-04,Media
+10514,20,81.0,39,Sir Rodney's Marmalade,3,ERNSH,1997-04-22,Confections,3159.0,1997-04,Alta
+10514,28,45.6,35,Rössle Sauerkraut,7,ERNSH,1997-04-22,Produce,1596.0,1997-04,Alta
+10514,56,38.0,70,Gnocchi di nonna Alice,5,ERNSH,1997-04-22,Grains/Cereals,2660.0,1997-04,Alta
+10514,65,21.05,39,Louisiana Fiery Hot Pepper Sauce,2,ERNSH,1997-04-22,Condiments,820.95,1997-04,Media
+10514,75,7.75,50,Rhönbräu Klosterbier,1,ERNSH,1997-04-22,Beverages,387.5,1997-04,Media
+10515,9,97.0,16,Mishi Kobe Niku,6,QUICK,1997-04-23,Meat/Poultry,1552.0,1997-04,Alta
+10515,16,17.45,50,Pavlova,3,QUICK,1997-04-23,Confections,872.5,1997-04,Media
+10515,27,43.9,120,Schoggi Schokolade,3,QUICK,1997-04-23,Confections,5268.0,1997-04,Alta
+10515,33,2.5,16,Geitost,4,QUICK,1997-04-23,Dairy Products,40.0,1997-04,Baja
+10515,60,34.0,84,Camembert Pierrot,4,QUICK,1997-04-23,Dairy Products,2856.0,1997-04,Alta
+10516,18,62.5,25,Carnarvon Tigers,8,HUNGO,1997-04-24,Seafood,1562.5,1997-04,Alta
+10516,41,9.65,80,Jack's New England Clam Chowder,8,HUNGO,1997-04-24,Seafood,772.0,1997-04,Media
+10516,42,14.0,20,Singaporean Hokkien Fried Mee,5,HUNGO,1997-04-24,Grains/Cereals,280.0,1997-04,Media
+10517,52,7.0,6,Filo Mix,5,NORTS,1997-04-24,Grains/Cereals,42.0,1997-04,Baja
+10517,59,55.0,4,Raclette Courdavault,4,NORTS,1997-04-24,Dairy Products,220.0,1997-04,Media
+10517,70,15.0,6,Outback Lager,1,NORTS,1997-04-24,Beverages,90.0,1997-04,Baja
+10518,24,4.5,5,Guaraná Fantástica,1,TORTU,1997-04-25,Beverages,22.5,1997-04,Baja
+10518,38,263.5,15,Côte de Blaye,1,TORTU,1997-04-25,Beverages,3952.5,1997-04,Alta
+10518,44,19.45,9,Gula Malacca,2,TORTU,1997-04-25,Condiments,175.04999999999998,1997-04,Media
+10519,10,31.0,16,Ikura,8,CHOPS,1997-04-28,Seafood,496.0,1997-04,Media
+10519,56,38.0,40,Gnocchi di nonna Alice,5,CHOPS,1997-04-28,Grains/Cereals,1520.0,1997-04,Alta
+10519,60,34.0,10,Camembert Pierrot,4,CHOPS,1997-04-28,Dairy Products,340.0,1997-04,Media
+10520,24,4.5,8,Guaraná Fantástica,1,SANTG,1997-04-29,Beverages,36.0,1997-04,Baja
+10520,53,32.8,5,Perth Pasties,6,SANTG,1997-04-29,Meat/Poultry,164.0,1997-04,Media
+10521,35,18.0,3,Steeleye Stout,1,CACTU,1997-04-29,Beverages,54.0,1997-04,Baja
+10521,41,9.65,10,Jack's New England Clam Chowder,8,CACTU,1997-04-29,Seafood,96.5,1997-04,Baja
+10521,68,12.5,6,Scottish Longbreads,3,CACTU,1997-04-29,Confections,75.0,1997-04,Baja
+10522,1,18.0,40,Chai,1,LEHMS,1997-04-30,Beverages,720.0,1997-04,Media
+10522,8,40.0,24,Northwoods Cranberry Sauce,2,LEHMS,1997-04-30,Condiments,960.0,1997-04,Media
+10522,30,25.89,20,Nord-Ost Matjeshering,8,LEHMS,1997-04-30,Seafood,517.8,1997-04,Media
+10522,40,18.4,25,Boston Crab Meat,8,LEHMS,1997-04-30,Seafood,460.0,1997-04,Media
+10523,17,39.0,25,Alice Mutton,6,SEVES,1997-05-01,Meat/Poultry,975.0,1997-05,Media
+10523,20,81.0,15,Sir Rodney's Marmalade,3,SEVES,1997-05-01,Confections,1215.0,1997-05,Alta
+10523,37,26.0,18,Gravad lax,8,SEVES,1997-05-01,Seafood,468.0,1997-05,Media
+10523,41,9.65,6,Jack's New England Clam Chowder,8,SEVES,1997-05-01,Seafood,57.900000000000006,1997-05,Baja
+10524,10,31.0,2,Ikura,8,BERGS,1997-05-01,Seafood,62.0,1997-05,Baja
+10524,30,25.89,10,Nord-Ost Matjeshering,8,BERGS,1997-05-01,Seafood,258.9,1997-05,Media
+10524,43,46.0,60,Ipoh Coffee,1,BERGS,1997-05-01,Beverages,2760.0,1997-05,Alta
+10524,54,7.45,15,Tourtière,6,BERGS,1997-05-01,Meat/Poultry,111.75,1997-05,Media
+10525,36,19.0,30,Inlagd Sill,8,BONAP,1997-05-02,Seafood,570.0,1997-05,Media
+10525,40,18.4,15,Boston Crab Meat,8,BONAP,1997-05-02,Seafood,276.0,1997-05,Media
+10526,1,18.0,8,Chai,1,WARTH,1997-05-05,Beverages,144.0,1997-05,Media
+10526,13,6.0,10,Konbu,8,WARTH,1997-05-05,Seafood,60.0,1997-05,Baja
+10526,56,38.0,30,Gnocchi di nonna Alice,5,WARTH,1997-05-05,Grains/Cereals,1140.0,1997-05,Alta
+10527,4,22.0,50,Chef Anton's Cajun Seasoning,2,QUICK,1997-05-05,Condiments,1100.0,1997-05,Alta
+10527,36,19.0,30,Inlagd Sill,8,QUICK,1997-05-05,Seafood,570.0,1997-05,Media
+10528,11,21.0,3,Queso Cabrales,4,GREAL,1997-05-06,Dairy Products,63.0,1997-05,Baja
+10528,33,2.5,8,Geitost,4,GREAL,1997-05-06,Dairy Products,20.0,1997-05,Baja
+10528,72,34.8,9,Mozzarella di Giovanni,4,GREAL,1997-05-06,Dairy Products,313.2,1997-05,Media
+10529,55,24.0,14,Pâté chinois,6,MAISD,1997-05-07,Meat/Poultry,336.0,1997-05,Media
+10529,68,12.5,20,Scottish Longbreads,3,MAISD,1997-05-07,Confections,250.0,1997-05,Media
+10529,69,36.0,10,Gudbrandsdalsost,4,MAISD,1997-05-07,Dairy Products,360.0,1997-05,Media
+10530,17,39.0,40,Alice Mutton,6,PICCO,1997-05-08,Meat/Poultry,1560.0,1997-05,Alta
+10530,43,46.0,25,Ipoh Coffee,1,PICCO,1997-05-08,Beverages,1150.0,1997-05,Alta
+10530,61,28.5,20,Sirop d'érable,2,PICCO,1997-05-08,Condiments,570.0,1997-05,Media
+10530,76,18.0,50,Lakkalikööri,1,PICCO,1997-05-08,Beverages,900.0,1997-05,Media
+10531,59,55.0,2,Raclette Courdavault,4,OCEAN,1997-05-08,Dairy Products,110.0,1997-05,Media
+10532,30,25.89,15,Nord-Ost Matjeshering,8,EASTC,1997-05-09,Seafood,388.35,1997-05,Media
+10532,66,17.0,24,Louisiana Hot Spiced Okra,2,EASTC,1997-05-09,Condiments,408.0,1997-05,Media
+10533,4,22.0,50,Chef Anton's Cajun Seasoning,2,FOLKO,1997-05-12,Condiments,1100.0,1997-05,Alta
+10533,72,34.8,24,Mozzarella di Giovanni,4,FOLKO,1997-05-12,Dairy Products,835.1999999999999,1997-05,Media
+10533,73,15.0,24,Röd Kaviar,8,FOLKO,1997-05-12,Seafood,360.0,1997-05,Media
+10534,30,25.89,10,Nord-Ost Matjeshering,8,LEHMS,1997-05-12,Seafood,258.9,1997-05,Media
+10534,40,18.4,10,Boston Crab Meat,8,LEHMS,1997-05-12,Seafood,184.0,1997-05,Media
+10534,54,7.45,10,Tourtière,6,LEHMS,1997-05-12,Meat/Poultry,74.5,1997-05,Baja
+10535,11,21.0,50,Queso Cabrales,4,ANTON,1997-05-13,Dairy Products,1050.0,1997-05,Alta
+10535,40,18.4,10,Boston Crab Meat,8,ANTON,1997-05-13,Seafood,184.0,1997-05,Media
+10535,57,19.5,5,Ravioli Angelo,5,ANTON,1997-05-13,Grains/Cereals,97.5,1997-05,Baja
+10535,59,55.0,15,Raclette Courdavault,4,ANTON,1997-05-13,Dairy Products,825.0,1997-05,Media
+10536,12,38.0,15,Queso Manchego La Pastora,4,LEHMS,1997-05-14,Dairy Products,570.0,1997-05,Media
+10536,31,12.5,20,Gorgonzola Telino,4,LEHMS,1997-05-14,Dairy Products,250.0,1997-05,Media
+10536,33,2.5,30,Geitost,4,LEHMS,1997-05-14,Dairy Products,75.0,1997-05,Baja
+10536,60,34.0,35,Camembert Pierrot,4,LEHMS,1997-05-14,Dairy Products,1190.0,1997-05,Alta
+10537,31,12.5,30,Gorgonzola Telino,4,RICSU,1997-05-14,Dairy Products,375.0,1997-05,Media
+10537,51,53.0,6,Manjimup Dried Apples,7,RICSU,1997-05-14,Produce,318.0,1997-05,Media
+10537,58,13.25,20,Escargots de Bourgogne,8,RICSU,1997-05-14,Seafood,265.0,1997-05,Media
+10537,72,34.8,21,Mozzarella di Giovanni,4,RICSU,1997-05-14,Dairy Products,730.8,1997-05,Media
+10537,73,15.0,9,Röd Kaviar,8,RICSU,1997-05-14,Seafood,135.0,1997-05,Media
+10538,70,15.0,7,Outback Lager,1,BSBEV,1997-05-15,Beverages,105.0,1997-05,Media
+10538,72,34.8,1,Mozzarella di Giovanni,4,BSBEV,1997-05-15,Dairy Products,34.8,1997-05,Baja
+10539,13,6.0,8,Konbu,8,BSBEV,1997-05-16,Seafood,48.0,1997-05,Baja
+10539,21,10.0,15,Sir Rodney's Scones,3,BSBEV,1997-05-16,Confections,150.0,1997-05,Media
+10539,33,2.5,15,Geitost,4,BSBEV,1997-05-16,Dairy Products,37.5,1997-05,Baja
+10539,49,20.0,6,Maxilaku,3,BSBEV,1997-05-16,Confections,120.0,1997-05,Media
+10540,3,10.0,60,Aniseed Syrup,2,QUICK,1997-05-19,Condiments,600.0,1997-05,Media
+10540,26,31.23,40,Gumbär Gummibärchen,3,QUICK,1997-05-19,Confections,1249.2,1997-05,Alta
+10540,38,263.5,30,Côte de Blaye,1,QUICK,1997-05-19,Beverages,7905.0,1997-05,Alta
+10540,68,12.5,35,Scottish Longbreads,3,QUICK,1997-05-19,Confections,437.5,1997-05,Media
+10541,24,4.5,35,Guaraná Fantástica,1,HANAR,1997-05-19,Beverages,157.5,1997-05,Media
+10541,38,263.5,4,Côte de Blaye,1,HANAR,1997-05-19,Beverages,1054.0,1997-05,Alta
+10541,65,21.05,36,Louisiana Fiery Hot Pepper Sauce,2,HANAR,1997-05-19,Condiments,757.8000000000001,1997-05,Media
+10541,71,21.5,9,Flotemysost,4,HANAR,1997-05-19,Dairy Products,193.5,1997-05,Media
+10542,11,21.0,15,Queso Cabrales,4,KOENE,1997-05-20,Dairy Products,315.0,1997-05,Media
+10542,54,7.45,24,Tourtière,6,KOENE,1997-05-20,Meat/Poultry,178.8,1997-05,Media
+10543,12,38.0,30,Queso Manchego La Pastora,4,LILAS,1997-05-21,Dairy Products,1140.0,1997-05,Alta
+10543,23,9.0,70,Tunnbröd,5,LILAS,1997-05-21,Grains/Cereals,630.0,1997-05,Media
+10544,28,45.6,7,Rössle Sauerkraut,7,LONEP,1997-05-21,Produce,319.2,1997-05,Media
+10544,67,14.0,7,Laughing Lumberjack Lager,1,LONEP,1997-05-21,Beverages,98.0,1997-05,Baja
+10545,11,21.0,10,Queso Cabrales,4,LAZYK,1997-05-22,Dairy Products,210.0,1997-05,Media
+10546,7,30.0,10,Uncle Bob's Organic Dried Pears,7,VICTE,1997-05-23,Produce,300.0,1997-05,Media
+10546,35,18.0,30,Steeleye Stout,1,VICTE,1997-05-23,Beverages,540.0,1997-05,Media
+10546,62,49.3,40,Tarte au sucre,3,VICTE,1997-05-23,Confections,1972.0,1997-05,Alta
+10547,32,32.0,24,Mascarpone Fabioli,4,SEVES,1997-05-23,Dairy Products,768.0,1997-05,Media
+10547,36,19.0,60,Inlagd Sill,8,SEVES,1997-05-23,Seafood,1140.0,1997-05,Alta
+10548,34,14.0,10,Sasquatch Ale,1,TOMSP,1997-05-26,Beverages,140.0,1997-05,Media
+10548,41,9.65,14,Jack's New England Clam Chowder,8,TOMSP,1997-05-26,Seafood,135.1,1997-05,Media
+10549,31,12.5,55,Gorgonzola Telino,4,QUICK,1997-05-27,Dairy Products,687.5,1997-05,Media
+10549,45,9.5,100,Rogede sild,8,QUICK,1997-05-27,Seafood,950.0,1997-05,Media
+10549,51,53.0,48,Manjimup Dried Apples,7,QUICK,1997-05-27,Produce,2544.0,1997-05,Alta
+10550,17,39.0,8,Alice Mutton,6,GODOS,1997-05-28,Meat/Poultry,312.0,1997-05,Media
+10550,19,9.2,10,Teatime Chocolate Biscuits,3,GODOS,1997-05-28,Confections,92.0,1997-05,Baja
+10550,21,10.0,6,Sir Rodney's Scones,3,GODOS,1997-05-28,Confections,60.0,1997-05,Baja
+10550,61,28.5,10,Sirop d'érable,2,GODOS,1997-05-28,Condiments,285.0,1997-05,Media
+10551,16,17.45,40,Pavlova,3,FURIB,1997-05-28,Confections,698.0,1997-05,Media
+10551,35,18.0,20,Steeleye Stout,1,FURIB,1997-05-28,Beverages,360.0,1997-05,Media
+10551,44,19.45,40,Gula Malacca,2,FURIB,1997-05-28,Condiments,778.0,1997-05,Media
+10552,69,36.0,18,Gudbrandsdalsost,4,HILAA,1997-05-29,Dairy Products,648.0,1997-05,Media
+10552,75,7.75,30,Rhönbräu Klosterbier,1,HILAA,1997-05-29,Beverages,232.5,1997-05,Media
+10553,11,21.0,15,Queso Cabrales,4,WARTH,1997-05-30,Dairy Products,315.0,1997-05,Media
+10553,16,17.45,14,Pavlova,3,WARTH,1997-05-30,Confections,244.3,1997-05,Media
+10553,22,21.0,24,Gustaf's Knäckebröd,5,WARTH,1997-05-30,Grains/Cereals,504.0,1997-05,Media
+10553,31,12.5,30,Gorgonzola Telino,4,WARTH,1997-05-30,Dairy Products,375.0,1997-05,Media
+10553,35,18.0,6,Steeleye Stout,1,WARTH,1997-05-30,Beverages,108.0,1997-05,Media
+10554,16,17.45,30,Pavlova,3,OTTIK,1997-05-30,Confections,523.5,1997-05,Media
+10554,23,9.0,20,Tunnbröd,5,OTTIK,1997-05-30,Grains/Cereals,180.0,1997-05,Media
+10554,62,49.3,20,Tarte au sucre,3,OTTIK,1997-05-30,Confections,986.0,1997-05,Media
+10554,77,13.0,10,Original Frankfurter grüne Soße,2,OTTIK,1997-05-30,Condiments,130.0,1997-05,Media
+10555,14,23.25,30,Tofu,7,SAVEA,1997-06-02,Produce,697.5,1997-06,Media
+10555,19,9.2,35,Teatime Chocolate Biscuits,3,SAVEA,1997-06-02,Confections,322.0,1997-06,Media
+10555,24,4.5,18,Guaraná Fantástica,1,SAVEA,1997-06-02,Beverages,81.0,1997-06,Baja
+10555,51,53.0,20,Manjimup Dried Apples,7,SAVEA,1997-06-02,Produce,1060.0,1997-06,Alta
+10555,56,38.0,40,Gnocchi di nonna Alice,5,SAVEA,1997-06-02,Grains/Cereals,1520.0,1997-06,Alta
+10556,72,34.8,24,Mozzarella di Giovanni,4,SIMOB,1997-06-03,Dairy Products,835.1999999999999,1997-06,Media
+10557,64,33.25,30,Wimmers gute Semmelknödel,5,LEHMS,1997-06-03,Grains/Cereals,997.5,1997-06,Media
+10557,75,7.75,20,Rhönbräu Klosterbier,1,LEHMS,1997-06-03,Beverages,155.0,1997-06,Media
+10558,47,9.5,25,Zaanse koeken,3,AROUT,1997-06-04,Confections,237.5,1997-06,Media
+10558,51,53.0,20,Manjimup Dried Apples,7,AROUT,1997-06-04,Produce,1060.0,1997-06,Alta
+10558,52,7.0,30,Filo Mix,5,AROUT,1997-06-04,Grains/Cereals,210.0,1997-06,Media
+10558,53,32.8,18,Perth Pasties,6,AROUT,1997-06-04,Meat/Poultry,590.4,1997-06,Media
+10558,73,15.0,3,Röd Kaviar,8,AROUT,1997-06-04,Seafood,45.0,1997-06,Baja
+10559,41,9.65,12,Jack's New England Clam Chowder,8,BLONP,1997-06-05,Seafood,115.8,1997-06,Media
+10559,55,24.0,18,Pâté chinois,6,BLONP,1997-06-05,Meat/Poultry,432.0,1997-06,Media
+10560,30,25.89,20,Nord-Ost Matjeshering,8,FRANK,1997-06-06,Seafood,517.8,1997-06,Media
+10560,62,49.3,15,Tarte au sucre,3,FRANK,1997-06-06,Confections,739.5,1997-06,Media
+10561,44,19.45,10,Gula Malacca,2,FOLKO,1997-06-06,Condiments,194.5,1997-06,Media
+10561,51,53.0,50,Manjimup Dried Apples,7,FOLKO,1997-06-06,Produce,2650.0,1997-06,Alta
+10562,33,2.5,20,Geitost,4,REGGC,1997-06-09,Dairy Products,50.0,1997-06,Baja
+10562,62,49.3,10,Tarte au sucre,3,REGGC,1997-06-09,Confections,493.0,1997-06,Media
+10563,36,19.0,25,Inlagd Sill,8,RICAR,1997-06-10,Seafood,475.0,1997-06,Media
+10563,52,7.0,70,Filo Mix,5,RICAR,1997-06-10,Grains/Cereals,490.0,1997-06,Media
+10564,17,39.0,16,Alice Mutton,6,RATTC,1997-06-10,Meat/Poultry,624.0,1997-06,Media
+10564,31,12.5,6,Gorgonzola Telino,4,RATTC,1997-06-10,Dairy Products,75.0,1997-06,Baja
+10564,55,24.0,25,Pâté chinois,6,RATTC,1997-06-10,Meat/Poultry,600.0,1997-06,Media
+10565,24,4.5,25,Guaraná Fantástica,1,MEREP,1997-06-11,Beverages,112.5,1997-06,Media
+10565,64,33.25,18,Wimmers gute Semmelknödel,5,MEREP,1997-06-11,Grains/Cereals,598.5,1997-06,Media
+10566,11,21.0,35,Queso Cabrales,4,BLONP,1997-06-12,Dairy Products,735.0,1997-06,Media
+10566,18,62.5,18,Carnarvon Tigers,8,BLONP,1997-06-12,Seafood,1125.0,1997-06,Alta
+10566,76,18.0,10,Lakkalikööri,1,BLONP,1997-06-12,Beverages,180.0,1997-06,Media
+10567,31,12.5,60,Gorgonzola Telino,4,HUNGO,1997-06-12,Dairy Products,750.0,1997-06,Media
+10567,51,53.0,3,Manjimup Dried Apples,7,HUNGO,1997-06-12,Produce,159.0,1997-06,Media
+10567,59,55.0,40,Raclette Courdavault,4,HUNGO,1997-06-12,Dairy Products,2200.0,1997-06,Alta
+10568,10,31.0,5,Ikura,8,GALED,1997-06-13,Seafood,155.0,1997-06,Media
+10569,31,12.5,35,Gorgonzola Telino,4,RATTC,1997-06-16,Dairy Products,437.5,1997-06,Media
+10569,76,18.0,30,Lakkalikööri,1,RATTC,1997-06-16,Beverages,540.0,1997-06,Media
+10570,11,21.0,15,Queso Cabrales,4,MEREP,1997-06-17,Dairy Products,315.0,1997-06,Media
+10570,56,38.0,60,Gnocchi di nonna Alice,5,MEREP,1997-06-17,Grains/Cereals,2280.0,1997-06,Alta
+10571,14,23.25,11,Tofu,7,ERNSH,1997-06-17,Produce,255.75,1997-06,Media
+10571,42,14.0,28,Singaporean Hokkien Fried Mee,5,ERNSH,1997-06-17,Grains/Cereals,392.0,1997-06,Media
+10572,16,17.45,12,Pavlova,3,BERGS,1997-06-18,Confections,209.4,1997-06,Media
+10572,32,32.0,10,Mascarpone Fabioli,4,BERGS,1997-06-18,Dairy Products,320.0,1997-06,Media
+10572,40,18.4,50,Boston Crab Meat,8,BERGS,1997-06-18,Seafood,920.0,1997-06,Media
+10572,75,7.75,15,Rhönbräu Klosterbier,1,BERGS,1997-06-18,Beverages,116.25,1997-06,Media
+10573,17,39.0,18,Alice Mutton,6,ANTON,1997-06-19,Meat/Poultry,702.0,1997-06,Media
+10573,34,14.0,40,Sasquatch Ale,1,ANTON,1997-06-19,Beverages,560.0,1997-06,Media
+10573,53,32.8,25,Perth Pasties,6,ANTON,1997-06-19,Meat/Poultry,819.9999999999999,1997-06,Media
+10574,33,2.5,14,Geitost,4,TRAIH,1997-06-19,Dairy Products,35.0,1997-06,Baja
+10574,40,18.4,2,Boston Crab Meat,8,TRAIH,1997-06-19,Seafood,36.8,1997-06,Baja
+10574,62,49.3,10,Tarte au sucre,3,TRAIH,1997-06-19,Confections,493.0,1997-06,Media
+10574,64,33.25,6,Wimmers gute Semmelknödel,5,TRAIH,1997-06-19,Grains/Cereals,199.5,1997-06,Media
+10575,59,55.0,12,Raclette Courdavault,4,MORGK,1997-06-20,Dairy Products,660.0,1997-06,Media
+10575,63,43.9,6,Vegie-spread,2,MORGK,1997-06-20,Condiments,263.4,1997-06,Media
+10575,72,34.8,30,Mozzarella di Giovanni,4,MORGK,1997-06-20,Dairy Products,1044.0,1997-06,Alta
+10575,76,18.0,10,Lakkalikööri,1,MORGK,1997-06-20,Beverages,180.0,1997-06,Media
+10576,1,18.0,10,Chai,1,TORTU,1997-06-23,Beverages,180.0,1997-06,Media
+10576,31,12.5,20,Gorgonzola Telino,4,TORTU,1997-06-23,Dairy Products,250.0,1997-06,Media
+10576,44,19.45,21,Gula Malacca,2,TORTU,1997-06-23,Condiments,408.45,1997-06,Media
+10577,39,18.0,10,Chartreuse verte,1,TRAIH,1997-06-23,Beverages,180.0,1997-06,Media
+10577,75,7.75,20,Rhönbräu Klosterbier,1,TRAIH,1997-06-23,Beverages,155.0,1997-06,Media
+10577,77,13.0,18,Original Frankfurter grüne Soße,2,TRAIH,1997-06-23,Condiments,234.0,1997-06,Media
+10578,35,18.0,20,Steeleye Stout,1,BSBEV,1997-06-24,Beverages,360.0,1997-06,Media
+10578,57,19.5,6,Ravioli Angelo,5,BSBEV,1997-06-24,Grains/Cereals,117.0,1997-06,Media
+10579,15,15.5,10,Genen Shouyu,2,LETSS,1997-06-25,Condiments,155.0,1997-06,Media
+10579,75,7.75,21,Rhönbräu Klosterbier,1,LETSS,1997-06-25,Beverages,162.75,1997-06,Media
+10580,14,23.25,15,Tofu,7,OTTIK,1997-06-26,Produce,348.75,1997-06,Media
+10580,41,9.65,9,Jack's New England Clam Chowder,8,OTTIK,1997-06-26,Seafood,86.85000000000001,1997-06,Baja
+10580,65,21.05,30,Louisiana Fiery Hot Pepper Sauce,2,OTTIK,1997-06-26,Condiments,631.5,1997-06,Media
+10581,75,7.75,50,Rhönbräu Klosterbier,1,FAMIA,1997-06-26,Beverages,387.5,1997-06,Media
+10582,57,19.5,4,Ravioli Angelo,5,BLAUS,1997-06-27,Grains/Cereals,78.0,1997-06,Baja
+10582,76,18.0,14,Lakkalikööri,1,BLAUS,1997-06-27,Beverages,252.0,1997-06,Media
+10583,29,123.79,10,Thüringer Rostbratwurst,6,WARTH,1997-06-30,Meat/Poultry,1237.9,1997-06,Alta
+10583,60,34.0,24,Camembert Pierrot,4,WARTH,1997-06-30,Dairy Products,816.0,1997-06,Media
+10583,69,36.0,10,Gudbrandsdalsost,4,WARTH,1997-06-30,Dairy Products,360.0,1997-06,Media
+10584,31,12.5,50,Gorgonzola Telino,4,BLONP,1997-06-30,Dairy Products,625.0,1997-06,Media
+10585,47,9.5,15,Zaanse koeken,3,WELLI,1997-07-01,Confections,142.5,1997-07,Media
+10586,52,7.0,4,Filo Mix,5,REGGC,1997-07-02,Grains/Cereals,28.0,1997-07,Baja
+10587,26,31.23,6,Gumbär Gummibärchen,3,QUEDE,1997-07-02,Confections,187.38,1997-07,Media
+10587,35,18.0,20,Steeleye Stout,1,QUEDE,1997-07-02,Beverages,360.0,1997-07,Media
+10587,77,13.0,20,Original Frankfurter grüne Soße,2,QUEDE,1997-07-02,Condiments,260.0,1997-07,Media
+10588,18,62.5,40,Carnarvon Tigers,8,QUICK,1997-07-03,Seafood,2500.0,1997-07,Alta
+10588,42,14.0,100,Singaporean Hokkien Fried Mee,5,QUICK,1997-07-03,Grains/Cereals,1400.0,1997-07,Alta
+10589,35,18.0,4,Steeleye Stout,1,GREAL,1997-07-04,Beverages,72.0,1997-07,Baja
+10590,1,18.0,20,Chai,1,MEREP,1997-07-07,Beverages,360.0,1997-07,Media
+10590,77,13.0,60,Original Frankfurter grüne Soße,2,MEREP,1997-07-07,Condiments,780.0,1997-07,Media
+10591,3,10.0,14,Aniseed Syrup,2,VAFFE,1997-07-07,Condiments,140.0,1997-07,Media
+10591,7,30.0,10,Uncle Bob's Organic Dried Pears,7,VAFFE,1997-07-07,Produce,300.0,1997-07,Media
+10591,54,7.45,50,Tourtière,6,VAFFE,1997-07-07,Meat/Poultry,372.5,1997-07,Media
+10592,15,15.5,25,Genen Shouyu,2,LEHMS,1997-07-08,Condiments,387.5,1997-07,Media
+10592,26,31.23,5,Gumbär Gummibärchen,3,LEHMS,1997-07-08,Confections,156.15,1997-07,Media
+10593,20,81.0,21,Sir Rodney's Marmalade,3,LEHMS,1997-07-09,Confections,1701.0,1997-07,Alta
+10593,69,36.0,20,Gudbrandsdalsost,4,LEHMS,1997-07-09,Dairy Products,720.0,1997-07,Media
+10593,76,18.0,4,Lakkalikööri,1,LEHMS,1997-07-09,Beverages,72.0,1997-07,Baja
+10594,52,7.0,24,Filo Mix,5,OLDWO,1997-07-09,Grains/Cereals,168.0,1997-07,Media
+10594,58,13.25,30,Escargots de Bourgogne,8,OLDWO,1997-07-09,Seafood,397.5,1997-07,Media
+10595,35,18.0,30,Steeleye Stout,1,ERNSH,1997-07-10,Beverages,540.0,1997-07,Media
+10595,61,28.5,120,Sirop d'érable,2,ERNSH,1997-07-10,Condiments,3420.0,1997-07,Alta
+10595,69,36.0,65,Gudbrandsdalsost,4,ERNSH,1997-07-10,Dairy Products,2340.0,1997-07,Alta
+10596,56,38.0,5,Gnocchi di nonna Alice,5,WHITC,1997-07-11,Grains/Cereals,190.0,1997-07,Media
+10596,63,43.9,24,Vegie-spread,2,WHITC,1997-07-11,Condiments,1053.6,1997-07,Alta
+10596,75,7.75,30,Rhönbräu Klosterbier,1,WHITC,1997-07-11,Beverages,232.5,1997-07,Media
+10597,24,4.5,35,Guaraná Fantástica,1,PICCO,1997-07-11,Beverages,157.5,1997-07,Media
+10597,57,19.5,20,Ravioli Angelo,5,PICCO,1997-07-11,Grains/Cereals,390.0,1997-07,Media
+10597,65,21.05,12,Louisiana Fiery Hot Pepper Sauce,2,PICCO,1997-07-11,Condiments,252.6,1997-07,Media
+10598,27,43.9,50,Schoggi Schokolade,3,RATTC,1997-07-14,Confections,2195.0,1997-07,Alta
+10598,71,21.5,9,Flotemysost,4,RATTC,1997-07-14,Dairy Products,193.5,1997-07,Media
+10599,62,49.3,10,Tarte au sucre,3,BSBEV,1997-07-15,Confections,493.0,1997-07,Media
+10600,54,7.45,4,Tourtière,6,HUNGC,1997-07-16,Meat/Poultry,29.8,1997-07,Baja
+10600,73,15.0,30,Röd Kaviar,8,HUNGC,1997-07-16,Seafood,450.0,1997-07,Media
+10601,13,6.0,60,Konbu,8,HILAA,1997-07-16,Seafood,360.0,1997-07,Media
+10601,59,55.0,35,Raclette Courdavault,4,HILAA,1997-07-16,Dairy Products,1925.0,1997-07,Alta
+10602,77,13.0,5,Original Frankfurter grüne Soße,2,VAFFE,1997-07-17,Condiments,65.0,1997-07,Baja
+10603,22,21.0,48,Gustaf's Knäckebröd,5,SAVEA,1997-07-18,Grains/Cereals,1008.0,1997-07,Alta
+10603,49,20.0,25,Maxilaku,3,SAVEA,1997-07-18,Confections,500.0,1997-07,Media
+10604,48,12.75,6,Chocolade,3,FURIB,1997-07-18,Confections,76.5,1997-07,Baja
+10604,76,18.0,10,Lakkalikööri,1,FURIB,1997-07-18,Beverages,180.0,1997-07,Media
+10605,16,17.45,30,Pavlova,3,MEREP,1997-07-21,Confections,523.5,1997-07,Media
+10605,59,55.0,20,Raclette Courdavault,4,MEREP,1997-07-21,Dairy Products,1100.0,1997-07,Alta
+10605,60,34.0,70,Camembert Pierrot,4,MEREP,1997-07-21,Dairy Products,2380.0,1997-07,Alta
+10605,71,21.5,15,Flotemysost,4,MEREP,1997-07-21,Dairy Products,322.5,1997-07,Media
+10606,4,22.0,20,Chef Anton's Cajun Seasoning,2,TRADH,1997-07-22,Condiments,440.0,1997-07,Media
+10606,55,24.0,20,Pâté chinois,6,TRADH,1997-07-22,Meat/Poultry,480.0,1997-07,Media
+10606,62,49.3,10,Tarte au sucre,3,TRADH,1997-07-22,Confections,493.0,1997-07,Media
+10607,7,30.0,45,Uncle Bob's Organic Dried Pears,7,SAVEA,1997-07-22,Produce,1350.0,1997-07,Alta
+10607,17,39.0,100,Alice Mutton,6,SAVEA,1997-07-22,Meat/Poultry,3900.0,1997-07,Alta
+10607,33,2.5,14,Geitost,4,SAVEA,1997-07-22,Dairy Products,35.0,1997-07,Baja
+10607,40,18.4,42,Boston Crab Meat,8,SAVEA,1997-07-22,Seafood,772.8,1997-07,Media
+10607,72,34.8,12,Mozzarella di Giovanni,4,SAVEA,1997-07-22,Dairy Products,417.6,1997-07,Media
+10608,56,38.0,28,Gnocchi di nonna Alice,5,TOMSP,1997-07-23,Grains/Cereals,1064.0,1997-07,Alta
+10609,1,18.0,3,Chai,1,DUMON,1997-07-24,Beverages,54.0,1997-07,Baja
+10609,10,31.0,10,Ikura,8,DUMON,1997-07-24,Seafood,310.0,1997-07,Media
+10609,21,10.0,6,Sir Rodney's Scones,3,DUMON,1997-07-24,Confections,60.0,1997-07,Baja
+10610,36,19.0,21,Inlagd Sill,8,LAMAI,1997-07-25,Seafood,399.0,1997-07,Media
+10611,1,18.0,6,Chai,1,WOLZA,1997-07-25,Beverages,108.0,1997-07,Media
+10611,2,19.0,10,Chang,1,WOLZA,1997-07-25,Beverages,190.0,1997-07,Media
+10611,60,34.0,15,Camembert Pierrot,4,WOLZA,1997-07-25,Dairy Products,510.0,1997-07,Media
+10612,10,31.0,70,Ikura,8,SAVEA,1997-07-28,Seafood,2170.0,1997-07,Alta
+10612,36,19.0,55,Inlagd Sill,8,SAVEA,1997-07-28,Seafood,1045.0,1997-07,Alta
+10612,49,20.0,18,Maxilaku,3,SAVEA,1997-07-28,Confections,360.0,1997-07,Media
+10612,60,34.0,40,Camembert Pierrot,4,SAVEA,1997-07-28,Dairy Products,1360.0,1997-07,Alta
+10612,76,18.0,80,Lakkalikööri,1,SAVEA,1997-07-28,Beverages,1440.0,1997-07,Alta
+10613,13,6.0,8,Konbu,8,HILAA,1997-07-29,Seafood,48.0,1997-07,Baja
+10613,75,7.75,40,Rhönbräu Klosterbier,1,HILAA,1997-07-29,Beverages,310.0,1997-07,Media
+10614,11,21.0,14,Queso Cabrales,4,BLAUS,1997-07-29,Dairy Products,294.0,1997-07,Media
+10614,21,10.0,8,Sir Rodney's Scones,3,BLAUS,1997-07-29,Confections,80.0,1997-07,Baja
+10614,39,18.0,5,Chartreuse verte,1,BLAUS,1997-07-29,Beverages,90.0,1997-07,Baja
+10615,55,24.0,5,Pâté chinois,6,WILMK,1997-07-30,Meat/Poultry,120.0,1997-07,Media
+10616,38,263.5,15,Côte de Blaye,1,GREAL,1997-07-31,Beverages,3952.5,1997-07,Alta
+10616,56,38.0,14,Gnocchi di nonna Alice,5,GREAL,1997-07-31,Grains/Cereals,532.0,1997-07,Media
+10616,70,15.0,15,Outback Lager,1,GREAL,1997-07-31,Beverages,225.0,1997-07,Media
+10616,71,21.5,15,Flotemysost,4,GREAL,1997-07-31,Dairy Products,322.5,1997-07,Media
+10617,59,55.0,30,Raclette Courdavault,4,GREAL,1997-07-31,Dairy Products,1650.0,1997-07,Alta
+10618,6,25.0,70,Grandma's Boysenberry Spread,2,MEREP,1997-08-01,Condiments,1750.0,1997-08,Alta
+10618,56,38.0,20,Gnocchi di nonna Alice,5,MEREP,1997-08-01,Grains/Cereals,760.0,1997-08,Media
+10618,68,12.5,15,Scottish Longbreads,3,MEREP,1997-08-01,Confections,187.5,1997-08,Media
+10619,21,10.0,42,Sir Rodney's Scones,3,MEREP,1997-08-04,Confections,420.0,1997-08,Media
+10619,22,21.0,40,Gustaf's Knäckebröd,5,MEREP,1997-08-04,Grains/Cereals,840.0,1997-08,Media
+10620,24,4.5,5,Guaraná Fantástica,1,LAUGB,1997-08-05,Beverages,22.5,1997-08,Baja
+10620,52,7.0,5,Filo Mix,5,LAUGB,1997-08-05,Grains/Cereals,35.0,1997-08,Baja
+10621,19,9.2,5,Teatime Chocolate Biscuits,3,ISLAT,1997-08-05,Confections,46.0,1997-08,Baja
+10621,23,9.0,10,Tunnbröd,5,ISLAT,1997-08-05,Grains/Cereals,90.0,1997-08,Baja
+10621,70,15.0,20,Outback Lager,1,ISLAT,1997-08-05,Beverages,300.0,1997-08,Media
+10621,71,21.5,15,Flotemysost,4,ISLAT,1997-08-05,Dairy Products,322.5,1997-08,Media
+10622,2,19.0,20,Chang,1,RICAR,1997-08-06,Beverages,380.0,1997-08,Media
+10622,68,12.5,18,Scottish Longbreads,3,RICAR,1997-08-06,Confections,225.0,1997-08,Media
+10623,14,23.25,21,Tofu,7,FRANK,1997-08-07,Produce,488.25,1997-08,Media
+10623,19,9.2,15,Teatime Chocolate Biscuits,3,FRANK,1997-08-07,Confections,138.0,1997-08,Media
+10623,21,10.0,25,Sir Rodney's Scones,3,FRANK,1997-08-07,Confections,250.0,1997-08,Media
+10623,24,4.5,3,Guaraná Fantástica,1,FRANK,1997-08-07,Beverages,13.5,1997-08,Baja
+10623,35,18.0,30,Steeleye Stout,1,FRANK,1997-08-07,Beverages,540.0,1997-08,Media
+10624,28,45.6,10,Rössle Sauerkraut,7,THECR,1997-08-07,Produce,456.0,1997-08,Media
+10624,29,123.79,6,Thüringer Rostbratwurst,6,THECR,1997-08-07,Meat/Poultry,742.74,1997-08,Media
+10624,44,19.45,10,Gula Malacca,2,THECR,1997-08-07,Condiments,194.5,1997-08,Media
+10625,14,23.25,3,Tofu,7,ANATR,1997-08-08,Produce,69.75,1997-08,Baja
+10625,42,14.0,5,Singaporean Hokkien Fried Mee,5,ANATR,1997-08-08,Grains/Cereals,70.0,1997-08,Baja
+10625,60,34.0,10,Camembert Pierrot,4,ANATR,1997-08-08,Dairy Products,340.0,1997-08,Media
+10626,53,32.8,12,Perth Pasties,6,BERGS,1997-08-11,Meat/Poultry,393.6,1997-08,Media
+10626,60,34.0,20,Camembert Pierrot,4,BERGS,1997-08-11,Dairy Products,680.0,1997-08,Media
+10626,71,21.5,20,Flotemysost,4,BERGS,1997-08-11,Dairy Products,430.0,1997-08,Media
+10627,62,49.3,15,Tarte au sucre,3,SAVEA,1997-08-11,Confections,739.5,1997-08,Media
+10627,73,15.0,35,Röd Kaviar,8,SAVEA,1997-08-11,Seafood,525.0,1997-08,Media
+10628,1,18.0,25,Chai,1,BLONP,1997-08-12,Beverages,450.0,1997-08,Media
+10629,29,123.79,20,Thüringer Rostbratwurst,6,GODOS,1997-08-12,Meat/Poultry,2475.8,1997-08,Alta
+10629,64,33.25,9,Wimmers gute Semmelknödel,5,GODOS,1997-08-12,Grains/Cereals,299.25,1997-08,Media
+10630,55,24.0,12,Pâté chinois,6,KOENE,1997-08-13,Meat/Poultry,288.0,1997-08,Media
+10630,76,18.0,35,Lakkalikööri,1,KOENE,1997-08-13,Beverages,630.0,1997-08,Media
+10631,75,7.75,8,Rhönbräu Klosterbier,1,LAMAI,1997-08-14,Beverages,62.0,1997-08,Baja
+10632,2,19.0,30,Chang,1,WANDK,1997-08-14,Beverages,570.0,1997-08,Media
+10632,33,2.5,20,Geitost,4,WANDK,1997-08-14,Dairy Products,50.0,1997-08,Baja
+10633,12,38.0,36,Queso Manchego La Pastora,4,ERNSH,1997-08-15,Dairy Products,1368.0,1997-08,Alta
+10633,13,6.0,13,Konbu,8,ERNSH,1997-08-15,Seafood,78.0,1997-08,Baja
+10633,26,31.23,35,Gumbär Gummibärchen,3,ERNSH,1997-08-15,Confections,1093.05,1997-08,Alta
+10633,62,49.3,80,Tarte au sucre,3,ERNSH,1997-08-15,Confections,3944.0,1997-08,Alta
+10634,7,30.0,35,Uncle Bob's Organic Dried Pears,7,FOLIG,1997-08-15,Produce,1050.0,1997-08,Alta
+10634,18,62.5,50,Carnarvon Tigers,8,FOLIG,1997-08-15,Seafood,3125.0,1997-08,Alta
+10634,51,53.0,15,Manjimup Dried Apples,7,FOLIG,1997-08-15,Produce,795.0,1997-08,Media
+10634,75,7.75,2,Rhönbräu Klosterbier,1,FOLIG,1997-08-15,Beverages,15.5,1997-08,Baja
+10635,4,22.0,10,Chef Anton's Cajun Seasoning,2,MAGAA,1997-08-18,Condiments,220.0,1997-08,Media
+10635,5,21.35,15,Chef Anton's Gumbo Mix,2,MAGAA,1997-08-18,Condiments,320.25,1997-08,Media
+10635,22,21.0,40,Gustaf's Knäckebröd,5,MAGAA,1997-08-18,Grains/Cereals,840.0,1997-08,Media
+10636,4,22.0,25,Chef Anton's Cajun Seasoning,2,WARTH,1997-08-19,Condiments,550.0,1997-08,Media
+10636,58,13.25,6,Escargots de Bourgogne,8,WARTH,1997-08-19,Seafood,79.5,1997-08,Baja
+10637,11,21.0,10,Queso Cabrales,4,QUEEN,1997-08-19,Dairy Products,210.0,1997-08,Media
+10637,50,16.25,25,Valkoinen suklaa,3,QUEEN,1997-08-19,Confections,406.25,1997-08,Media
+10637,56,38.0,60,Gnocchi di nonna Alice,5,QUEEN,1997-08-19,Grains/Cereals,2280.0,1997-08,Alta
+10638,45,9.5,20,Rogede sild,8,LINOD,1997-08-20,Seafood,190.0,1997-08,Media
+10638,65,21.05,21,Louisiana Fiery Hot Pepper Sauce,2,LINOD,1997-08-20,Condiments,442.05,1997-08,Media
+10638,72,34.8,60,Mozzarella di Giovanni,4,LINOD,1997-08-20,Dairy Products,2088.0,1997-08,Alta
+10639,18,62.5,8,Carnarvon Tigers,8,SANTG,1997-08-20,Seafood,500.0,1997-08,Media
+10640,69,36.0,20,Gudbrandsdalsost,4,WANDK,1997-08-21,Dairy Products,720.0,1997-08,Media
+10640,70,15.0,15,Outback Lager,1,WANDK,1997-08-21,Beverages,225.0,1997-08,Media
+10641,2,19.0,50,Chang,1,HILAA,1997-08-22,Beverages,950.0,1997-08,Media
+10641,40,18.4,60,Boston Crab Meat,8,HILAA,1997-08-22,Seafood,1104.0,1997-08,Alta
+10642,21,10.0,30,Sir Rodney's Scones,3,SIMOB,1997-08-22,Confections,300.0,1997-08,Media
+10642,61,28.5,20,Sirop d'érable,2,SIMOB,1997-08-22,Condiments,570.0,1997-08,Media
+10643,28,45.6,15,Rössle Sauerkraut,7,ALFKI,1997-08-25,Produce,684.0,1997-08,Media
+10643,39,18.0,21,Chartreuse verte,1,ALFKI,1997-08-25,Beverages,378.0,1997-08,Media
+10643,46,12.0,2,Spegesild,8,ALFKI,1997-08-25,Seafood,24.0,1997-08,Baja
+10644,18,62.5,4,Carnarvon Tigers,8,WELLI,1997-08-25,Seafood,250.0,1997-08,Media
+10644,43,46.0,20,Ipoh Coffee,1,WELLI,1997-08-25,Beverages,920.0,1997-08,Media
+10644,46,12.0,21,Spegesild,8,WELLI,1997-08-25,Seafood,252.0,1997-08,Media
+10645,18,62.5,20,Carnarvon Tigers,8,HANAR,1997-08-26,Seafood,1250.0,1997-08,Alta
+10645,36,19.0,15,Inlagd Sill,8,HANAR,1997-08-26,Seafood,285.0,1997-08,Media
+10646,1,18.0,15,Chai,1,HUNGO,1997-08-27,Beverages,270.0,1997-08,Media
+10646,10,31.0,18,Ikura,8,HUNGO,1997-08-27,Seafood,558.0,1997-08,Media
+10646,71,21.5,30,Flotemysost,4,HUNGO,1997-08-27,Dairy Products,645.0,1997-08,Media
+10646,77,13.0,35,Original Frankfurter grüne Soße,2,HUNGO,1997-08-27,Condiments,455.0,1997-08,Media
+10647,19,9.2,30,Teatime Chocolate Biscuits,3,QUEDE,1997-08-27,Confections,276.0,1997-08,Media
+10647,39,18.0,20,Chartreuse verte,1,QUEDE,1997-08-27,Beverages,360.0,1997-08,Media
+10648,22,21.0,15,Gustaf's Knäckebröd,5,RICAR,1997-08-28,Grains/Cereals,315.0,1997-08,Media
+10648,24,4.5,15,Guaraná Fantástica,1,RICAR,1997-08-28,Beverages,67.5,1997-08,Baja
+10649,28,45.6,20,Rössle Sauerkraut,7,MAISD,1997-08-28,Produce,912.0,1997-08,Media
+10649,72,34.8,15,Mozzarella di Giovanni,4,MAISD,1997-08-28,Dairy Products,522.0,1997-08,Media
+10650,30,25.89,30,Nord-Ost Matjeshering,8,FAMIA,1997-08-29,Seafood,776.7,1997-08,Media
+10650,53,32.8,25,Perth Pasties,6,FAMIA,1997-08-29,Meat/Poultry,819.9999999999999,1997-08,Media
+10650,54,7.45,30,Tourtière,6,FAMIA,1997-08-29,Meat/Poultry,223.5,1997-08,Media
+10651,19,9.2,12,Teatime Chocolate Biscuits,3,WANDK,1997-09-01,Confections,110.4,1997-09,Media
+10651,22,21.0,20,Gustaf's Knäckebröd,5,WANDK,1997-09-01,Grains/Cereals,420.0,1997-09,Media
+10652,30,25.89,2,Nord-Ost Matjeshering,8,GOURL,1997-09-01,Seafood,51.78,1997-09,Baja
+10652,42,14.0,20,Singaporean Hokkien Fried Mee,5,GOURL,1997-09-01,Grains/Cereals,280.0,1997-09,Media
+10653,16,17.45,30,Pavlova,3,FRANK,1997-09-02,Confections,523.5,1997-09,Media
+10653,60,34.0,20,Camembert Pierrot,4,FRANK,1997-09-02,Dairy Products,680.0,1997-09,Media
+10654,4,22.0,12,Chef Anton's Cajun Seasoning,2,BERGS,1997-09-02,Condiments,264.0,1997-09,Media
+10654,39,18.0,20,Chartreuse verte,1,BERGS,1997-09-02,Beverages,360.0,1997-09,Media
+10654,54,7.45,6,Tourtière,6,BERGS,1997-09-02,Meat/Poultry,44.7,1997-09,Baja
+10655,41,9.65,20,Jack's New England Clam Chowder,8,REGGC,1997-09-03,Seafood,193.0,1997-09,Media
+10656,14,23.25,3,Tofu,7,GREAL,1997-09-04,Produce,69.75,1997-09,Baja
+10656,44,19.45,28,Gula Malacca,2,GREAL,1997-09-04,Condiments,544.6,1997-09,Media
+10656,47,9.5,6,Zaanse koeken,3,GREAL,1997-09-04,Confections,57.0,1997-09,Baja
+10657,15,15.5,50,Genen Shouyu,2,SAVEA,1997-09-04,Condiments,775.0,1997-09,Media
+10657,41,9.65,24,Jack's New England Clam Chowder,8,SAVEA,1997-09-04,Seafood,231.6,1997-09,Media
+10657,46,12.0,45,Spegesild,8,SAVEA,1997-09-04,Seafood,540.0,1997-09,Media
+10657,47,9.5,10,Zaanse koeken,3,SAVEA,1997-09-04,Confections,95.0,1997-09,Baja
+10657,56,38.0,45,Gnocchi di nonna Alice,5,SAVEA,1997-09-04,Grains/Cereals,1710.0,1997-09,Alta
+10657,60,34.0,30,Camembert Pierrot,4,SAVEA,1997-09-04,Dairy Products,1020.0,1997-09,Alta
+10658,21,10.0,60,Sir Rodney's Scones,3,QUICK,1997-09-05,Confections,600.0,1997-09,Media
+10658,40,18.4,70,Boston Crab Meat,8,QUICK,1997-09-05,Seafood,1288.0,1997-09,Alta
+10658,60,34.0,55,Camembert Pierrot,4,QUICK,1997-09-05,Dairy Products,1870.0,1997-09,Alta
+10658,77,13.0,70,Original Frankfurter grüne Soße,2,QUICK,1997-09-05,Condiments,910.0,1997-09,Media
+10659,31,12.5,20,Gorgonzola Telino,4,QUEEN,1997-09-05,Dairy Products,250.0,1997-09,Media
+10659,40,18.4,24,Boston Crab Meat,8,QUEEN,1997-09-05,Seafood,441.6,1997-09,Media
+10659,70,15.0,40,Outback Lager,1,QUEEN,1997-09-05,Beverages,600.0,1997-09,Media
+10660,20,81.0,21,Sir Rodney's Marmalade,3,HUNGC,1997-09-08,Confections,1701.0,1997-09,Alta
+10661,39,18.0,3,Chartreuse verte,1,HUNGO,1997-09-09,Beverages,54.0,1997-09,Baja
+10661,58,13.25,49,Escargots de Bourgogne,8,HUNGO,1997-09-09,Seafood,649.25,1997-09,Media
+10662,68,12.5,10,Scottish Longbreads,3,LONEP,1997-09-09,Confections,125.0,1997-09,Media
+10663,40,18.4,30,Boston Crab Meat,8,BONAP,1997-09-10,Seafood,552.0,1997-09,Media
+10663,42,14.0,30,Singaporean Hokkien Fried Mee,5,BONAP,1997-09-10,Grains/Cereals,420.0,1997-09,Media
+10663,51,53.0,20,Manjimup Dried Apples,7,BONAP,1997-09-10,Produce,1060.0,1997-09,Alta
+10664,10,31.0,24,Ikura,8,FURIB,1997-09-10,Seafood,744.0,1997-09,Media
+10664,56,38.0,12,Gnocchi di nonna Alice,5,FURIB,1997-09-10,Grains/Cereals,456.0,1997-09,Media
+10664,65,21.05,15,Louisiana Fiery Hot Pepper Sauce,2,FURIB,1997-09-10,Condiments,315.75,1997-09,Media
+10665,51,53.0,20,Manjimup Dried Apples,7,LONEP,1997-09-11,Produce,1060.0,1997-09,Alta
+10665,59,55.0,1,Raclette Courdavault,4,LONEP,1997-09-11,Dairy Products,55.0,1997-09,Baja
+10665,76,18.0,10,Lakkalikööri,1,LONEP,1997-09-11,Beverages,180.0,1997-09,Media
+10666,29,123.79,36,Thüringer Rostbratwurst,6,RICSU,1997-09-12,Meat/Poultry,4456.4400000000005,1997-09,Alta
+10666,65,21.05,10,Louisiana Fiery Hot Pepper Sauce,2,RICSU,1997-09-12,Condiments,210.5,1997-09,Media
+10667,69,36.0,45,Gudbrandsdalsost,4,ERNSH,1997-09-12,Dairy Products,1620.0,1997-09,Alta
+10667,71,21.5,14,Flotemysost,4,ERNSH,1997-09-12,Dairy Products,301.0,1997-09,Media
+10668,31,12.5,8,Gorgonzola Telino,4,WANDK,1997-09-15,Dairy Products,100.0,1997-09,Baja
+10668,55,24.0,4,Pâté chinois,6,WANDK,1997-09-15,Meat/Poultry,96.0,1997-09,Baja
+10668,64,33.25,15,Wimmers gute Semmelknödel,5,WANDK,1997-09-15,Grains/Cereals,498.75,1997-09,Media
+10669,36,19.0,30,Inlagd Sill,8,SIMOB,1997-09-15,Seafood,570.0,1997-09,Media
+10670,23,9.0,32,Tunnbröd,5,FRANK,1997-09-16,Grains/Cereals,288.0,1997-09,Media
+10670,46,12.0,60,Spegesild,8,FRANK,1997-09-16,Seafood,720.0,1997-09,Media
+10670,67,14.0,25,Laughing Lumberjack Lager,1,FRANK,1997-09-16,Beverages,350.0,1997-09,Media
+10670,73,15.0,50,Röd Kaviar,8,FRANK,1997-09-16,Seafood,750.0,1997-09,Media
+10670,75,7.75,25,Rhönbräu Klosterbier,1,FRANK,1997-09-16,Beverages,193.75,1997-09,Media
+10671,16,17.45,10,Pavlova,3,FRANR,1997-09-17,Confections,174.5,1997-09,Media
+10671,62,49.3,10,Tarte au sucre,3,FRANR,1997-09-17,Confections,493.0,1997-09,Media
+10671,65,21.05,12,Louisiana Fiery Hot Pepper Sauce,2,FRANR,1997-09-17,Condiments,252.6,1997-09,Media
+10672,38,263.5,15,Côte de Blaye,1,BERGS,1997-09-17,Beverages,3952.5,1997-09,Alta
+10672,71,21.5,12,Flotemysost,4,BERGS,1997-09-17,Dairy Products,258.0,1997-09,Media
+10673,16,17.45,3,Pavlova,3,WILMK,1997-09-18,Confections,52.35,1997-09,Baja
+10673,42,14.0,6,Singaporean Hokkien Fried Mee,5,WILMK,1997-09-18,Grains/Cereals,84.0,1997-09,Baja
+10673,43,46.0,6,Ipoh Coffee,1,WILMK,1997-09-18,Beverages,276.0,1997-09,Media
+10674,23,9.0,5,Tunnbröd,5,ISLAT,1997-09-18,Grains/Cereals,45.0,1997-09,Baja
+10675,14,23.25,30,Tofu,7,FRANK,1997-09-19,Produce,697.5,1997-09,Media
+10675,53,32.8,10,Perth Pasties,6,FRANK,1997-09-19,Meat/Poultry,328.0,1997-09,Media
+10675,58,13.25,30,Escargots de Bourgogne,8,FRANK,1997-09-19,Seafood,397.5,1997-09,Media
+10676,10,31.0,2,Ikura,8,TORTU,1997-09-22,Seafood,62.0,1997-09,Baja
+10676,19,9.2,7,Teatime Chocolate Biscuits,3,TORTU,1997-09-22,Confections,64.39999999999999,1997-09,Baja
+10676,44,19.45,21,Gula Malacca,2,TORTU,1997-09-22,Condiments,408.45,1997-09,Media
+10677,26,31.23,30,Gumbär Gummibärchen,3,ANTON,1997-09-22,Confections,936.9,1997-09,Media
+10677,33,2.5,8,Geitost,4,ANTON,1997-09-22,Dairy Products,20.0,1997-09,Baja
+10678,12,38.0,100,Queso Manchego La Pastora,4,SAVEA,1997-09-23,Dairy Products,3800.0,1997-09,Alta
+10678,33,2.5,30,Geitost,4,SAVEA,1997-09-23,Dairy Products,75.0,1997-09,Baja
+10678,41,9.65,120,Jack's New England Clam Chowder,8,SAVEA,1997-09-23,Seafood,1158.0,1997-09,Alta
+10678,54,7.45,30,Tourtière,6,SAVEA,1997-09-23,Meat/Poultry,223.5,1997-09,Media
+10679,59,55.0,12,Raclette Courdavault,4,BLONP,1997-09-23,Dairy Products,660.0,1997-09,Media
+10680,16,17.45,50,Pavlova,3,OLDWO,1997-09-24,Confections,872.5,1997-09,Media
+10680,31,12.5,20,Gorgonzola Telino,4,OLDWO,1997-09-24,Dairy Products,250.0,1997-09,Media
+10680,42,14.0,40,Singaporean Hokkien Fried Mee,5,OLDWO,1997-09-24,Grains/Cereals,560.0,1997-09,Media
+10681,19,9.2,30,Teatime Chocolate Biscuits,3,GREAL,1997-09-25,Confections,276.0,1997-09,Media
+10681,21,10.0,12,Sir Rodney's Scones,3,GREAL,1997-09-25,Confections,120.0,1997-09,Media
+10681,64,33.25,28,Wimmers gute Semmelknödel,5,GREAL,1997-09-25,Grains/Cereals,931.0,1997-09,Media
+10682,33,2.5,30,Geitost,4,ANTON,1997-09-25,Dairy Products,75.0,1997-09,Baja
+10682,66,17.0,4,Louisiana Hot Spiced Okra,2,ANTON,1997-09-25,Condiments,68.0,1997-09,Baja
+10682,75,7.75,30,Rhönbräu Klosterbier,1,ANTON,1997-09-25,Beverages,232.5,1997-09,Media
+10683,52,7.0,9,Filo Mix,5,DUMON,1997-09-26,Grains/Cereals,63.0,1997-09,Baja
+10684,40,18.4,20,Boston Crab Meat,8,OTTIK,1997-09-26,Seafood,368.0,1997-09,Media
+10684,47,9.5,40,Zaanse koeken,3,OTTIK,1997-09-26,Confections,380.0,1997-09,Media
+10684,60,34.0,30,Camembert Pierrot,4,OTTIK,1997-09-26,Dairy Products,1020.0,1997-09,Alta
+10685,10,31.0,20,Ikura,8,GOURL,1997-09-29,Seafood,620.0,1997-09,Media
+10685,41,9.65,4,Jack's New England Clam Chowder,8,GOURL,1997-09-29,Seafood,38.6,1997-09,Baja
+10685,47,9.5,15,Zaanse koeken,3,GOURL,1997-09-29,Confections,142.5,1997-09,Media
+10686,17,39.0,30,Alice Mutton,6,PICCO,1997-09-30,Meat/Poultry,1170.0,1997-09,Alta
+10686,26,31.23,15,Gumbär Gummibärchen,3,PICCO,1997-09-30,Confections,468.45,1997-09,Media
+10687,9,97.0,50,Mishi Kobe Niku,6,HUNGO,1997-09-30,Meat/Poultry,4850.0,1997-09,Alta
+10687,29,123.79,10,Thüringer Rostbratwurst,6,HUNGO,1997-09-30,Meat/Poultry,1237.9,1997-09,Alta
+10687,36,19.0,6,Inlagd Sill,8,HUNGO,1997-09-30,Seafood,114.0,1997-09,Media
+10688,10,31.0,18,Ikura,8,VAFFE,1997-10-01,Seafood,558.0,1997-10,Media
+10688,28,45.6,60,Rössle Sauerkraut,7,VAFFE,1997-10-01,Produce,2736.0,1997-10,Alta
+10688,34,14.0,14,Sasquatch Ale,1,VAFFE,1997-10-01,Beverages,196.0,1997-10,Media
+10689,1,18.0,35,Chai,1,BERGS,1997-10-01,Beverages,630.0,1997-10,Media
+10690,56,38.0,20,Gnocchi di nonna Alice,5,HANAR,1997-10-02,Grains/Cereals,760.0,1997-10,Media
+10690,77,13.0,30,Original Frankfurter grüne Soße,2,HANAR,1997-10-02,Condiments,390.0,1997-10,Media
+10691,1,18.0,30,Chai,1,QUICK,1997-10-03,Beverages,540.0,1997-10,Media
+10691,29,123.79,40,Thüringer Rostbratwurst,6,QUICK,1997-10-03,Meat/Poultry,4951.6,1997-10,Alta
+10691,43,46.0,40,Ipoh Coffee,1,QUICK,1997-10-03,Beverages,1840.0,1997-10,Alta
+10691,44,19.45,24,Gula Malacca,2,QUICK,1997-10-03,Condiments,466.8,1997-10,Media
+10691,62,49.3,48,Tarte au sucre,3,QUICK,1997-10-03,Confections,2366.4,1997-10,Alta
+10692,63,43.9,20,Vegie-spread,2,ALFKI,1997-10-03,Condiments,878.0,1997-10,Media
+10693,9,97.0,6,Mishi Kobe Niku,6,WHITC,1997-10-06,Meat/Poultry,582.0,1997-10,Media
+10693,54,7.45,60,Tourtière,6,WHITC,1997-10-06,Meat/Poultry,447.0,1997-10,Media
+10693,69,36.0,30,Gudbrandsdalsost,4,WHITC,1997-10-06,Dairy Products,1080.0,1997-10,Alta
+10693,73,15.0,15,Röd Kaviar,8,WHITC,1997-10-06,Seafood,225.0,1997-10,Media
+10694,7,30.0,90,Uncle Bob's Organic Dried Pears,7,QUICK,1997-10-06,Produce,2700.0,1997-10,Alta
+10694,59,55.0,25,Raclette Courdavault,4,QUICK,1997-10-06,Dairy Products,1375.0,1997-10,Alta
+10694,70,15.0,50,Outback Lager,1,QUICK,1997-10-06,Beverages,750.0,1997-10,Media
+10695,8,40.0,10,Northwoods Cranberry Sauce,2,WILMK,1997-10-07,Condiments,400.0,1997-10,Media
+10695,12,38.0,4,Queso Manchego La Pastora,4,WILMK,1997-10-07,Dairy Products,152.0,1997-10,Media
+10695,24,4.5,20,Guaraná Fantástica,1,WILMK,1997-10-07,Beverages,90.0,1997-10,Baja
+10696,17,39.0,20,Alice Mutton,6,WHITC,1997-10-08,Meat/Poultry,780.0,1997-10,Media
+10696,46,12.0,18,Spegesild,8,WHITC,1997-10-08,Seafood,216.0,1997-10,Media
+10697,19,9.2,7,Teatime Chocolate Biscuits,3,LINOD,1997-10-08,Confections,64.39999999999999,1997-10,Baja
+10697,35,18.0,9,Steeleye Stout,1,LINOD,1997-10-08,Beverages,162.0,1997-10,Media
+10697,58,13.25,30,Escargots de Bourgogne,8,LINOD,1997-10-08,Seafood,397.5,1997-10,Media
+10697,70,15.0,30,Outback Lager,1,LINOD,1997-10-08,Beverages,450.0,1997-10,Media
+10698,11,21.0,15,Queso Cabrales,4,ERNSH,1997-10-09,Dairy Products,315.0,1997-10,Media
+10698,17,39.0,8,Alice Mutton,6,ERNSH,1997-10-09,Meat/Poultry,312.0,1997-10,Media
+10698,29,123.79,12,Thüringer Rostbratwurst,6,ERNSH,1997-10-09,Meat/Poultry,1485.48,1997-10,Alta
+10698,65,21.05,65,Louisiana Fiery Hot Pepper Sauce,2,ERNSH,1997-10-09,Condiments,1368.25,1997-10,Alta
+10698,70,15.0,8,Outback Lager,1,ERNSH,1997-10-09,Beverages,120.0,1997-10,Media
+10699,47,9.5,12,Zaanse koeken,3,MORGK,1997-10-09,Confections,114.0,1997-10,Media
+10700,1,18.0,5,Chai,1,SAVEA,1997-10-10,Beverages,90.0,1997-10,Baja
+10700,34,14.0,12,Sasquatch Ale,1,SAVEA,1997-10-10,Beverages,168.0,1997-10,Media
+10700,68,12.5,40,Scottish Longbreads,3,SAVEA,1997-10-10,Confections,500.0,1997-10,Media
+10700,71,21.5,60,Flotemysost,4,SAVEA,1997-10-10,Dairy Products,1290.0,1997-10,Alta
+10701,59,55.0,42,Raclette Courdavault,4,HUNGO,1997-10-13,Dairy Products,2310.0,1997-10,Alta
+10701,71,21.5,20,Flotemysost,4,HUNGO,1997-10-13,Dairy Products,430.0,1997-10,Media
+10701,76,18.0,35,Lakkalikööri,1,HUNGO,1997-10-13,Beverages,630.0,1997-10,Media
+10702,3,10.0,6,Aniseed Syrup,2,ALFKI,1997-10-13,Condiments,60.0,1997-10,Baja
+10702,76,18.0,15,Lakkalikööri,1,ALFKI,1997-10-13,Beverages,270.0,1997-10,Media
+10703,2,19.0,5,Chang,1,FOLKO,1997-10-14,Beverages,95.0,1997-10,Baja
+10703,59,55.0,35,Raclette Courdavault,4,FOLKO,1997-10-14,Dairy Products,1925.0,1997-10,Alta
+10703,73,15.0,35,Röd Kaviar,8,FOLKO,1997-10-14,Seafood,525.0,1997-10,Media
+10704,4,22.0,6,Chef Anton's Cajun Seasoning,2,QUEEN,1997-10-14,Condiments,132.0,1997-10,Media
+10704,24,4.5,35,Guaraná Fantástica,1,QUEEN,1997-10-14,Beverages,157.5,1997-10,Media
+10704,48,12.75,24,Chocolade,3,QUEEN,1997-10-14,Confections,306.0,1997-10,Media
+10705,31,12.5,20,Gorgonzola Telino,4,HILAA,1997-10-15,Dairy Products,250.0,1997-10,Media
+10705,32,32.0,4,Mascarpone Fabioli,4,HILAA,1997-10-15,Dairy Products,128.0,1997-10,Media
+10706,16,17.45,20,Pavlova,3,OLDWO,1997-10-16,Confections,349.0,1997-10,Media
+10706,43,46.0,24,Ipoh Coffee,1,OLDWO,1997-10-16,Beverages,1104.0,1997-10,Alta
+10706,59,55.0,8,Raclette Courdavault,4,OLDWO,1997-10-16,Dairy Products,440.0,1997-10,Media
+10707,55,24.0,21,Pâté chinois,6,AROUT,1997-10-16,Meat/Poultry,504.0,1997-10,Media
+10707,57,19.5,40,Ravioli Angelo,5,AROUT,1997-10-16,Grains/Cereals,780.0,1997-10,Media
+10707,70,15.0,28,Outback Lager,1,AROUT,1997-10-16,Beverages,420.0,1997-10,Media
+10708,5,21.35,4,Chef Anton's Gumbo Mix,2,THEBI,1997-10-17,Condiments,85.4,1997-10,Baja
+10708,36,19.0,5,Inlagd Sill,8,THEBI,1997-10-17,Seafood,95.0,1997-10,Baja
+10709,8,40.0,40,Northwoods Cranberry Sauce,2,GOURL,1997-10-17,Condiments,1600.0,1997-10,Alta
+10709,51,53.0,28,Manjimup Dried Apples,7,GOURL,1997-10-17,Produce,1484.0,1997-10,Alta
+10709,60,34.0,10,Camembert Pierrot,4,GOURL,1997-10-17,Dairy Products,340.0,1997-10,Media
+10710,19,9.2,5,Teatime Chocolate Biscuits,3,FRANS,1997-10-20,Confections,46.0,1997-10,Baja
+10710,47,9.5,5,Zaanse koeken,3,FRANS,1997-10-20,Confections,47.5,1997-10,Baja
+10711,19,9.2,12,Teatime Chocolate Biscuits,3,SAVEA,1997-10-21,Confections,110.4,1997-10,Media
+10711,41,9.65,42,Jack's New England Clam Chowder,8,SAVEA,1997-10-21,Seafood,405.3,1997-10,Media
+10711,53,32.8,120,Perth Pasties,6,SAVEA,1997-10-21,Meat/Poultry,3936.0,1997-10,Alta
+10712,53,32.8,3,Perth Pasties,6,HUNGO,1997-10-21,Meat/Poultry,98.4,1997-10,Baja
+10712,56,38.0,30,Gnocchi di nonna Alice,5,HUNGO,1997-10-21,Grains/Cereals,1140.0,1997-10,Alta
+10713,10,31.0,18,Ikura,8,SAVEA,1997-10-22,Seafood,558.0,1997-10,Media
+10713,26,31.23,30,Gumbär Gummibärchen,3,SAVEA,1997-10-22,Confections,936.9,1997-10,Media
+10713,45,9.5,110,Rogede sild,8,SAVEA,1997-10-22,Seafood,1045.0,1997-10,Alta
+10713,46,12.0,24,Spegesild,8,SAVEA,1997-10-22,Seafood,288.0,1997-10,Media
+10714,2,19.0,30,Chang,1,SAVEA,1997-10-22,Beverages,570.0,1997-10,Media
+10714,17,39.0,27,Alice Mutton,6,SAVEA,1997-10-22,Meat/Poultry,1053.0,1997-10,Alta
+10714,47,9.5,50,Zaanse koeken,3,SAVEA,1997-10-22,Confections,475.0,1997-10,Media
+10714,56,38.0,18,Gnocchi di nonna Alice,5,SAVEA,1997-10-22,Grains/Cereals,684.0,1997-10,Media
+10714,58,13.25,12,Escargots de Bourgogne,8,SAVEA,1997-10-22,Seafood,159.0,1997-10,Media
+10715,10,31.0,21,Ikura,8,BONAP,1997-10-23,Seafood,651.0,1997-10,Media
+10715,71,21.5,30,Flotemysost,4,BONAP,1997-10-23,Dairy Products,645.0,1997-10,Media
+10716,21,10.0,5,Sir Rodney's Scones,3,RANCH,1997-10-24,Confections,50.0,1997-10,Baja
+10716,51,53.0,7,Manjimup Dried Apples,7,RANCH,1997-10-24,Produce,371.0,1997-10,Media
+10716,61,28.5,10,Sirop d'érable,2,RANCH,1997-10-24,Condiments,285.0,1997-10,Media
+10717,21,10.0,32,Sir Rodney's Scones,3,FRANK,1997-10-24,Confections,320.0,1997-10,Media
+10717,54,7.45,15,Tourtière,6,FRANK,1997-10-24,Meat/Poultry,111.75,1997-10,Media
+10717,69,36.0,25,Gudbrandsdalsost,4,FRANK,1997-10-24,Dairy Products,900.0,1997-10,Media
+10718,12,38.0,36,Queso Manchego La Pastora,4,KOENE,1997-10-27,Dairy Products,1368.0,1997-10,Alta
+10718,16,17.45,20,Pavlova,3,KOENE,1997-10-27,Confections,349.0,1997-10,Media
+10718,36,19.0,40,Inlagd Sill,8,KOENE,1997-10-27,Seafood,760.0,1997-10,Media
+10718,62,49.3,20,Tarte au sucre,3,KOENE,1997-10-27,Confections,986.0,1997-10,Media
+10719,18,62.5,12,Carnarvon Tigers,8,LETSS,1997-10-27,Seafood,750.0,1997-10,Media
+10719,30,25.89,3,Nord-Ost Matjeshering,8,LETSS,1997-10-27,Seafood,77.67,1997-10,Baja
+10719,54,7.45,40,Tourtière,6,LETSS,1997-10-27,Meat/Poultry,298.0,1997-10,Media
+10720,35,18.0,21,Steeleye Stout,1,QUEDE,1997-10-28,Beverages,378.0,1997-10,Media
+10720,71,21.5,8,Flotemysost,4,QUEDE,1997-10-28,Dairy Products,172.0,1997-10,Media
+10721,44,19.45,50,Gula Malacca,2,QUICK,1997-10-29,Condiments,972.5,1997-10,Media
+10722,2,19.0,3,Chang,1,SAVEA,1997-10-29,Beverages,57.0,1997-10,Baja
+10722,31,12.5,50,Gorgonzola Telino,4,SAVEA,1997-10-29,Dairy Products,625.0,1997-10,Media
+10722,68,12.5,45,Scottish Longbreads,3,SAVEA,1997-10-29,Confections,562.5,1997-10,Media
+10722,75,7.75,42,Rhönbräu Klosterbier,1,SAVEA,1997-10-29,Beverages,325.5,1997-10,Media
+10723,26,31.23,15,Gumbär Gummibärchen,3,WHITC,1997-10-30,Confections,468.45,1997-10,Media
+10724,10,31.0,16,Ikura,8,MEREP,1997-10-30,Seafood,496.0,1997-10,Media
+10724,61,28.5,5,Sirop d'érable,2,MEREP,1997-10-30,Condiments,142.5,1997-10,Media
+10725,41,9.65,12,Jack's New England Clam Chowder,8,FAMIA,1997-10-31,Seafood,115.8,1997-10,Media
+10725,52,7.0,4,Filo Mix,5,FAMIA,1997-10-31,Grains/Cereals,28.0,1997-10,Baja
+10725,55,24.0,6,Pâté chinois,6,FAMIA,1997-10-31,Meat/Poultry,144.0,1997-10,Media
+10726,4,22.0,25,Chef Anton's Cajun Seasoning,2,EASTC,1997-11-03,Condiments,550.0,1997-11,Media
+10726,11,21.0,5,Queso Cabrales,4,EASTC,1997-11-03,Dairy Products,105.0,1997-11,Media
+10727,17,39.0,20,Alice Mutton,6,REGGC,1997-11-03,Meat/Poultry,780.0,1997-11,Media
+10727,56,38.0,10,Gnocchi di nonna Alice,5,REGGC,1997-11-03,Grains/Cereals,380.0,1997-11,Media
+10727,59,55.0,10,Raclette Courdavault,4,REGGC,1997-11-03,Dairy Products,550.0,1997-11,Media
+10728,30,25.89,15,Nord-Ost Matjeshering,8,QUEEN,1997-11-04,Seafood,388.35,1997-11,Media
+10728,40,18.4,6,Boston Crab Meat,8,QUEEN,1997-11-04,Seafood,110.4,1997-11,Media
+10728,55,24.0,12,Pâté chinois,6,QUEEN,1997-11-04,Meat/Poultry,288.0,1997-11,Media
+10728,60,34.0,15,Camembert Pierrot,4,QUEEN,1997-11-04,Dairy Products,510.0,1997-11,Media
+10729,1,18.0,50,Chai,1,LINOD,1997-11-04,Beverages,900.0,1997-11,Media
+10729,21,10.0,30,Sir Rodney's Scones,3,LINOD,1997-11-04,Confections,300.0,1997-11,Media
+10729,50,16.25,40,Valkoinen suklaa,3,LINOD,1997-11-04,Confections,650.0,1997-11,Media
+10730,16,17.45,15,Pavlova,3,BONAP,1997-11-05,Confections,261.75,1997-11,Media
+10730,31,12.5,3,Gorgonzola Telino,4,BONAP,1997-11-05,Dairy Products,37.5,1997-11,Baja
+10730,65,21.05,10,Louisiana Fiery Hot Pepper Sauce,2,BONAP,1997-11-05,Condiments,210.5,1997-11,Media
+10731,21,10.0,40,Sir Rodney's Scones,3,CHOPS,1997-11-06,Confections,400.0,1997-11,Media
+10731,51,53.0,30,Manjimup Dried Apples,7,CHOPS,1997-11-06,Produce,1590.0,1997-11,Alta
+10732,76,18.0,20,Lakkalikööri,1,BONAP,1997-11-06,Beverages,360.0,1997-11,Media
+10733,14,23.25,16,Tofu,7,BERGS,1997-11-07,Produce,372.0,1997-11,Media
+10733,28,45.6,20,Rössle Sauerkraut,7,BERGS,1997-11-07,Produce,912.0,1997-11,Media
+10733,52,7.0,25,Filo Mix,5,BERGS,1997-11-07,Grains/Cereals,175.0,1997-11,Media
+10734,6,25.0,30,Grandma's Boysenberry Spread,2,GOURL,1997-11-07,Condiments,750.0,1997-11,Media
+10734,30,25.89,15,Nord-Ost Matjeshering,8,GOURL,1997-11-07,Seafood,388.35,1997-11,Media
+10734,76,18.0,20,Lakkalikööri,1,GOURL,1997-11-07,Beverages,360.0,1997-11,Media
+10735,61,28.5,20,Sirop d'érable,2,LETSS,1997-11-10,Condiments,570.0,1997-11,Media
+10735,77,13.0,2,Original Frankfurter grüne Soße,2,LETSS,1997-11-10,Condiments,26.0,1997-11,Baja
+10736,65,21.05,40,Louisiana Fiery Hot Pepper Sauce,2,HUNGO,1997-11-11,Condiments,842.0,1997-11,Media
+10736,75,7.75,20,Rhönbräu Klosterbier,1,HUNGO,1997-11-11,Beverages,155.0,1997-11,Media
+10737,13,6.0,4,Konbu,8,VINET,1997-11-11,Seafood,24.0,1997-11,Baja
+10737,41,9.65,12,Jack's New England Clam Chowder,8,VINET,1997-11-11,Seafood,115.8,1997-11,Media
+10738,16,17.45,3,Pavlova,3,SPECD,1997-11-12,Confections,52.35,1997-11,Baja
+10739,36,19.0,6,Inlagd Sill,8,VINET,1997-11-12,Seafood,114.0,1997-11,Media
+10739,52,7.0,18,Filo Mix,5,VINET,1997-11-12,Grains/Cereals,126.0,1997-11,Media
+10740,28,45.6,5,Rössle Sauerkraut,7,WHITC,1997-11-13,Produce,228.0,1997-11,Media
+10740,35,18.0,35,Steeleye Stout,1,WHITC,1997-11-13,Beverages,630.0,1997-11,Media
+10740,45,9.5,40,Rogede sild,8,WHITC,1997-11-13,Seafood,380.0,1997-11,Media
+10740,56,38.0,14,Gnocchi di nonna Alice,5,WHITC,1997-11-13,Grains/Cereals,532.0,1997-11,Media
+10741,2,19.0,15,Chang,1,AROUT,1997-11-14,Beverages,285.0,1997-11,Media
+10742,3,10.0,20,Aniseed Syrup,2,BOTTM,1997-11-14,Condiments,200.0,1997-11,Media
+10742,60,34.0,50,Camembert Pierrot,4,BOTTM,1997-11-14,Dairy Products,1700.0,1997-11,Alta
+10742,72,34.8,35,Mozzarella di Giovanni,4,BOTTM,1997-11-14,Dairy Products,1218.0,1997-11,Alta
+10743,46,12.0,28,Spegesild,8,AROUT,1997-11-17,Seafood,336.0,1997-11,Media
+10744,40,18.4,50,Boston Crab Meat,8,VAFFE,1997-11-17,Seafood,920.0,1997-11,Media
+10745,18,62.5,24,Carnarvon Tigers,8,QUICK,1997-11-18,Seafood,1500.0,1997-11,Alta
+10745,44,19.45,16,Gula Malacca,2,QUICK,1997-11-18,Condiments,311.2,1997-11,Media
+10745,59,55.0,45,Raclette Courdavault,4,QUICK,1997-11-18,Dairy Products,2475.0,1997-11,Alta
+10745,72,34.8,7,Mozzarella di Giovanni,4,QUICK,1997-11-18,Dairy Products,243.6,1997-11,Media
+10746,13,6.0,6,Konbu,8,CHOPS,1997-11-19,Seafood,36.0,1997-11,Baja
+10746,42,14.0,28,Singaporean Hokkien Fried Mee,5,CHOPS,1997-11-19,Grains/Cereals,392.0,1997-11,Media
+10746,62,49.3,9,Tarte au sucre,3,CHOPS,1997-11-19,Confections,443.7,1997-11,Media
+10746,69,36.0,40,Gudbrandsdalsost,4,CHOPS,1997-11-19,Dairy Products,1440.0,1997-11,Alta
+10747,31,12.5,8,Gorgonzola Telino,4,PICCO,1997-11-19,Dairy Products,100.0,1997-11,Baja
+10747,41,9.65,35,Jack's New England Clam Chowder,8,PICCO,1997-11-19,Seafood,337.75,1997-11,Media
+10747,63,43.9,9,Vegie-spread,2,PICCO,1997-11-19,Condiments,395.1,1997-11,Media
+10747,69,36.0,30,Gudbrandsdalsost,4,PICCO,1997-11-19,Dairy Products,1080.0,1997-11,Alta
+10748,23,9.0,44,Tunnbröd,5,SAVEA,1997-11-20,Grains/Cereals,396.0,1997-11,Media
+10748,40,18.4,40,Boston Crab Meat,8,SAVEA,1997-11-20,Seafood,736.0,1997-11,Media
+10748,56,38.0,28,Gnocchi di nonna Alice,5,SAVEA,1997-11-20,Grains/Cereals,1064.0,1997-11,Alta
+10749,56,38.0,15,Gnocchi di nonna Alice,5,ISLAT,1997-11-20,Grains/Cereals,570.0,1997-11,Media
+10749,59,55.0,6,Raclette Courdavault,4,ISLAT,1997-11-20,Dairy Products,330.0,1997-11,Media
+10749,76,18.0,10,Lakkalikööri,1,ISLAT,1997-11-20,Beverages,180.0,1997-11,Media
+10750,14,23.25,5,Tofu,7,WARTH,1997-11-21,Produce,116.25,1997-11,Media
+10750,45,9.5,40,Rogede sild,8,WARTH,1997-11-21,Seafood,380.0,1997-11,Media
+10750,59,55.0,25,Raclette Courdavault,4,WARTH,1997-11-21,Dairy Products,1375.0,1997-11,Alta
+10751,26,31.23,12,Gumbär Gummibärchen,3,RICSU,1997-11-24,Confections,374.76,1997-11,Media
+10751,30,25.89,30,Nord-Ost Matjeshering,8,RICSU,1997-11-24,Seafood,776.7,1997-11,Media
+10751,50,16.25,20,Valkoinen suklaa,3,RICSU,1997-11-24,Confections,325.0,1997-11,Media
+10751,73,15.0,15,Röd Kaviar,8,RICSU,1997-11-24,Seafood,225.0,1997-11,Media
+10752,1,18.0,8,Chai,1,NORTS,1997-11-24,Beverages,144.0,1997-11,Media
+10752,69,36.0,3,Gudbrandsdalsost,4,NORTS,1997-11-24,Dairy Products,108.0,1997-11,Media
+10753,45,9.5,4,Rogede sild,8,FRANS,1997-11-25,Seafood,38.0,1997-11,Baja
+10753,74,10.0,5,Longlife Tofu,7,FRANS,1997-11-25,Produce,50.0,1997-11,Baja
+10754,40,18.4,3,Boston Crab Meat,8,MAGAA,1997-11-25,Seafood,55.2,1997-11,Baja
+10755,47,9.5,30,Zaanse koeken,3,BONAP,1997-11-26,Confections,285.0,1997-11,Media
+10755,56,38.0,30,Gnocchi di nonna Alice,5,BONAP,1997-11-26,Grains/Cereals,1140.0,1997-11,Alta
+10755,57,19.5,14,Ravioli Angelo,5,BONAP,1997-11-26,Grains/Cereals,273.0,1997-11,Media
+10755,69,36.0,25,Gudbrandsdalsost,4,BONAP,1997-11-26,Dairy Products,900.0,1997-11,Media
+10756,18,62.5,21,Carnarvon Tigers,8,SPLIR,1997-11-27,Seafood,1312.5,1997-11,Alta
+10756,36,19.0,20,Inlagd Sill,8,SPLIR,1997-11-27,Seafood,380.0,1997-11,Media
+10756,68,12.5,6,Scottish Longbreads,3,SPLIR,1997-11-27,Confections,75.0,1997-11,Baja
+10756,69,36.0,20,Gudbrandsdalsost,4,SPLIR,1997-11-27,Dairy Products,720.0,1997-11,Media
+10757,34,14.0,30,Sasquatch Ale,1,SAVEA,1997-11-27,Beverages,420.0,1997-11,Media
+10757,59,55.0,7,Raclette Courdavault,4,SAVEA,1997-11-27,Dairy Products,385.0,1997-11,Media
+10757,62,49.3,30,Tarte au sucre,3,SAVEA,1997-11-27,Confections,1479.0,1997-11,Alta
+10757,64,33.25,24,Wimmers gute Semmelknödel,5,SAVEA,1997-11-27,Grains/Cereals,798.0,1997-11,Media
+10758,26,31.23,20,Gumbär Gummibärchen,3,RICSU,1997-11-28,Confections,624.6,1997-11,Media
+10758,52,7.0,60,Filo Mix,5,RICSU,1997-11-28,Grains/Cereals,420.0,1997-11,Media
+10758,70,15.0,40,Outback Lager,1,RICSU,1997-11-28,Beverages,600.0,1997-11,Media
+10759,32,32.0,10,Mascarpone Fabioli,4,ANATR,1997-11-28,Dairy Products,320.0,1997-11,Media
+10760,25,14.0,12,NuNuCa Nuß-Nougat-Creme,3,MAISD,1997-12-01,Confections,168.0,1997-12,Media
+10760,27,43.9,40,Schoggi Schokolade,3,MAISD,1997-12-01,Confections,1756.0,1997-12,Alta
+10760,43,46.0,30,Ipoh Coffee,1,MAISD,1997-12-01,Beverages,1380.0,1997-12,Alta
+10761,25,14.0,35,NuNuCa Nuß-Nougat-Creme,3,RATTC,1997-12-02,Confections,490.0,1997-12,Media
+10761,75,7.75,18,Rhönbräu Klosterbier,1,RATTC,1997-12-02,Beverages,139.5,1997-12,Media
+10762,39,18.0,16,Chartreuse verte,1,FOLKO,1997-12-02,Beverages,288.0,1997-12,Media
+10762,47,9.5,30,Zaanse koeken,3,FOLKO,1997-12-02,Confections,285.0,1997-12,Media
+10762,51,53.0,28,Manjimup Dried Apples,7,FOLKO,1997-12-02,Produce,1484.0,1997-12,Alta
+10762,56,38.0,60,Gnocchi di nonna Alice,5,FOLKO,1997-12-02,Grains/Cereals,2280.0,1997-12,Alta
+10763,21,10.0,40,Sir Rodney's Scones,3,FOLIG,1997-12-03,Confections,400.0,1997-12,Media
+10763,22,21.0,6,Gustaf's Knäckebröd,5,FOLIG,1997-12-03,Grains/Cereals,126.0,1997-12,Media
+10763,24,4.5,20,Guaraná Fantástica,1,FOLIG,1997-12-03,Beverages,90.0,1997-12,Baja
+10764,3,10.0,20,Aniseed Syrup,2,ERNSH,1997-12-03,Condiments,200.0,1997-12,Media
+10764,39,18.0,130,Chartreuse verte,1,ERNSH,1997-12-03,Beverages,2340.0,1997-12,Alta
+10765,65,21.05,80,Louisiana Fiery Hot Pepper Sauce,2,QUICK,1997-12-04,Condiments,1684.0,1997-12,Alta
+10766,2,19.0,40,Chang,1,OTTIK,1997-12-05,Beverages,760.0,1997-12,Media
+10766,7,30.0,35,Uncle Bob's Organic Dried Pears,7,OTTIK,1997-12-05,Produce,1050.0,1997-12,Alta
+10766,68,12.5,40,Scottish Longbreads,3,OTTIK,1997-12-05,Confections,500.0,1997-12,Media
+10767,42,14.0,2,Singaporean Hokkien Fried Mee,5,SUPRD,1997-12-05,Grains/Cereals,28.0,1997-12,Baja
+10768,22,21.0,4,Gustaf's Knäckebröd,5,AROUT,1997-12-08,Grains/Cereals,84.0,1997-12,Baja
+10768,31,12.5,50,Gorgonzola Telino,4,AROUT,1997-12-08,Dairy Products,625.0,1997-12,Media
+10768,60,34.0,15,Camembert Pierrot,4,AROUT,1997-12-08,Dairy Products,510.0,1997-12,Media
+10768,71,21.5,12,Flotemysost,4,AROUT,1997-12-08,Dairy Products,258.0,1997-12,Media
+10769,41,9.65,30,Jack's New England Clam Chowder,8,VAFFE,1997-12-08,Seafood,289.5,1997-12,Media
+10769,52,7.0,15,Filo Mix,5,VAFFE,1997-12-08,Grains/Cereals,105.0,1997-12,Media
+10769,61,28.5,20,Sirop d'érable,2,VAFFE,1997-12-08,Condiments,570.0,1997-12,Media
+10769,62,49.3,15,Tarte au sucre,3,VAFFE,1997-12-08,Confections,739.5,1997-12,Media
+10770,11,21.0,15,Queso Cabrales,4,HANAR,1997-12-09,Dairy Products,315.0,1997-12,Media
+10771,71,21.5,16,Flotemysost,4,ERNSH,1997-12-10,Dairy Products,344.0,1997-12,Media
+10772,29,123.79,18,Thüringer Rostbratwurst,6,LEHMS,1997-12-10,Meat/Poultry,2228.2200000000003,1997-12,Alta
+10772,59,55.0,25,Raclette Courdavault,4,LEHMS,1997-12-10,Dairy Products,1375.0,1997-12,Alta
+10773,17,39.0,33,Alice Mutton,6,ERNSH,1997-12-11,Meat/Poultry,1287.0,1997-12,Alta
+10773,31,12.5,70,Gorgonzola Telino,4,ERNSH,1997-12-11,Dairy Products,875.0,1997-12,Media
+10773,75,7.75,7,Rhönbräu Klosterbier,1,ERNSH,1997-12-11,Beverages,54.25,1997-12,Baja
+10774,31,12.5,2,Gorgonzola Telino,4,FOLKO,1997-12-11,Dairy Products,25.0,1997-12,Baja
+10774,66,17.0,50,Louisiana Hot Spiced Okra,2,FOLKO,1997-12-11,Condiments,850.0,1997-12,Media
+10775,10,31.0,6,Ikura,8,THECR,1997-12-12,Seafood,186.0,1997-12,Media
+10775,67,14.0,3,Laughing Lumberjack Lager,1,THECR,1997-12-12,Beverages,42.0,1997-12,Baja
+10776,31,12.5,16,Gorgonzola Telino,4,ERNSH,1997-12-15,Dairy Products,200.0,1997-12,Media
+10776,42,14.0,12,Singaporean Hokkien Fried Mee,5,ERNSH,1997-12-15,Grains/Cereals,168.0,1997-12,Media
+10776,45,9.5,27,Rogede sild,8,ERNSH,1997-12-15,Seafood,256.5,1997-12,Media
+10776,51,53.0,120,Manjimup Dried Apples,7,ERNSH,1997-12-15,Produce,6360.0,1997-12,Alta
+10777,42,14.0,20,Singaporean Hokkien Fried Mee,5,GOURL,1997-12-15,Grains/Cereals,280.0,1997-12,Media
+10778,41,9.65,10,Jack's New England Clam Chowder,8,BERGS,1997-12-16,Seafood,96.5,1997-12,Baja
+10779,16,17.45,20,Pavlova,3,MORGK,1997-12-16,Confections,349.0,1997-12,Media
+10779,62,49.3,20,Tarte au sucre,3,MORGK,1997-12-16,Confections,986.0,1997-12,Media
+10780,70,15.0,35,Outback Lager,1,LILAS,1997-12-16,Beverages,525.0,1997-12,Media
+10780,77,13.0,15,Original Frankfurter grüne Soße,2,LILAS,1997-12-16,Condiments,195.0,1997-12,Media
+10781,54,7.45,3,Tourtière,6,WARTH,1997-12-17,Meat/Poultry,22.35,1997-12,Baja
+10781,56,38.0,20,Gnocchi di nonna Alice,5,WARTH,1997-12-17,Grains/Cereals,760.0,1997-12,Media
+10781,74,10.0,35,Longlife Tofu,7,WARTH,1997-12-17,Produce,350.0,1997-12,Media
+10782,31,12.5,1,Gorgonzola Telino,4,CACTU,1997-12-17,Dairy Products,12.5,1997-12,Baja
+10783,31,12.5,10,Gorgonzola Telino,4,HANAR,1997-12-18,Dairy Products,125.0,1997-12,Media
+10783,38,263.5,5,Côte de Blaye,1,HANAR,1997-12-18,Beverages,1317.5,1997-12,Alta
+10784,36,19.0,30,Inlagd Sill,8,MAGAA,1997-12-18,Seafood,570.0,1997-12,Media
+10784,39,18.0,2,Chartreuse verte,1,MAGAA,1997-12-18,Beverages,36.0,1997-12,Baja
+10784,72,34.8,30,Mozzarella di Giovanni,4,MAGAA,1997-12-18,Dairy Products,1044.0,1997-12,Alta
+10785,10,31.0,10,Ikura,8,GROSR,1997-12-18,Seafood,310.0,1997-12,Media
+10785,75,7.75,10,Rhönbräu Klosterbier,1,GROSR,1997-12-18,Beverages,77.5,1997-12,Baja
+10786,8,40.0,30,Northwoods Cranberry Sauce,2,QUEEN,1997-12-19,Condiments,1200.0,1997-12,Alta
+10786,30,25.89,15,Nord-Ost Matjeshering,8,QUEEN,1997-12-19,Seafood,388.35,1997-12,Media
+10786,75,7.75,42,Rhönbräu Klosterbier,1,QUEEN,1997-12-19,Beverages,325.5,1997-12,Media
+10787,2,19.0,15,Chang,1,LAMAI,1997-12-19,Beverages,285.0,1997-12,Media
+10787,29,123.79,20,Thüringer Rostbratwurst,6,LAMAI,1997-12-19,Meat/Poultry,2475.8,1997-12,Alta
+10788,19,9.2,50,Teatime Chocolate Biscuits,3,QUICK,1997-12-22,Confections,460.0,1997-12,Media
+10788,75,7.75,40,Rhönbräu Klosterbier,1,QUICK,1997-12-22,Beverages,310.0,1997-12,Media
+10789,18,62.5,30,Carnarvon Tigers,8,FOLIG,1997-12-22,Seafood,1875.0,1997-12,Alta
+10789,35,18.0,15,Steeleye Stout,1,FOLIG,1997-12-22,Beverages,270.0,1997-12,Media
+10789,63,43.9,30,Vegie-spread,2,FOLIG,1997-12-22,Condiments,1317.0,1997-12,Alta
+10789,68,12.5,18,Scottish Longbreads,3,FOLIG,1997-12-22,Confections,225.0,1997-12,Media
+10790,7,30.0,3,Uncle Bob's Organic Dried Pears,7,GOURL,1997-12-22,Produce,90.0,1997-12,Baja
+10790,56,38.0,20,Gnocchi di nonna Alice,5,GOURL,1997-12-22,Grains/Cereals,760.0,1997-12,Media
+10791,29,123.79,14,Thüringer Rostbratwurst,6,FRANK,1997-12-23,Meat/Poultry,1733.0600000000002,1997-12,Alta
+10791,41,9.65,20,Jack's New England Clam Chowder,8,FRANK,1997-12-23,Seafood,193.0,1997-12,Media
+10792,2,19.0,10,Chang,1,WOLZA,1997-12-23,Beverages,190.0,1997-12,Media
+10792,54,7.45,3,Tourtière,6,WOLZA,1997-12-23,Meat/Poultry,22.35,1997-12,Baja
+10792,68,12.5,15,Scottish Longbreads,3,WOLZA,1997-12-23,Confections,187.5,1997-12,Media
+10793,41,9.65,14,Jack's New England Clam Chowder,8,AROUT,1997-12-24,Seafood,135.1,1997-12,Media
+10793,52,7.0,8,Filo Mix,5,AROUT,1997-12-24,Grains/Cereals,56.0,1997-12,Baja
+10794,14,23.25,15,Tofu,7,QUEDE,1997-12-24,Produce,348.75,1997-12,Media
+10794,54,7.45,6,Tourtière,6,QUEDE,1997-12-24,Meat/Poultry,44.7,1997-12,Baja
+10795,16,17.45,65,Pavlova,3,ERNSH,1997-12-24,Confections,1134.25,1997-12,Alta
+10795,17,39.0,35,Alice Mutton,6,ERNSH,1997-12-24,Meat/Poultry,1365.0,1997-12,Alta
+10796,26,31.23,21,Gumbär Gummibärchen,3,HILAA,1997-12-25,Confections,655.83,1997-12,Media
+10796,44,19.45,10,Gula Malacca,2,HILAA,1997-12-25,Condiments,194.5,1997-12,Media
+10796,64,33.25,35,Wimmers gute Semmelknödel,5,HILAA,1997-12-25,Grains/Cereals,1163.75,1997-12,Alta
+10796,69,36.0,24,Gudbrandsdalsost,4,HILAA,1997-12-25,Dairy Products,864.0,1997-12,Media
+10797,11,21.0,20,Queso Cabrales,4,DRACD,1997-12-25,Dairy Products,420.0,1997-12,Media
+10798,62,49.3,2,Tarte au sucre,3,ISLAT,1997-12-26,Confections,98.6,1997-12,Baja
+10798,72,34.8,10,Mozzarella di Giovanni,4,ISLAT,1997-12-26,Dairy Products,348.0,1997-12,Media
+10799,13,6.0,20,Konbu,8,KOENE,1997-12-26,Seafood,120.0,1997-12,Media
+10799,24,4.5,20,Guaraná Fantástica,1,KOENE,1997-12-26,Beverages,90.0,1997-12,Baja
+10799,59,55.0,25,Raclette Courdavault,4,KOENE,1997-12-26,Dairy Products,1375.0,1997-12,Alta
+10800,11,21.0,50,Queso Cabrales,4,SEVES,1997-12-26,Dairy Products,1050.0,1997-12,Alta
+10800,51,53.0,10,Manjimup Dried Apples,7,SEVES,1997-12-26,Produce,530.0,1997-12,Media
+10800,54,7.45,7,Tourtière,6,SEVES,1997-12-26,Meat/Poultry,52.15,1997-12,Baja
+10801,17,39.0,40,Alice Mutton,6,BOLID,1997-12-29,Meat/Poultry,1560.0,1997-12,Alta
+10801,29,123.79,20,Thüringer Rostbratwurst,6,BOLID,1997-12-29,Meat/Poultry,2475.8,1997-12,Alta
+10802,30,25.89,25,Nord-Ost Matjeshering,8,SIMOB,1997-12-29,Seafood,647.25,1997-12,Media
+10802,51,53.0,30,Manjimup Dried Apples,7,SIMOB,1997-12-29,Produce,1590.0,1997-12,Alta
+10802,55,24.0,60,Pâté chinois,6,SIMOB,1997-12-29,Meat/Poultry,1440.0,1997-12,Alta
+10802,62,49.3,5,Tarte au sucre,3,SIMOB,1997-12-29,Confections,246.5,1997-12,Media
+10803,19,9.2,24,Teatime Chocolate Biscuits,3,WELLI,1997-12-30,Confections,220.8,1997-12,Media
+10803,25,14.0,15,NuNuCa Nuß-Nougat-Creme,3,WELLI,1997-12-30,Confections,210.0,1997-12,Media
+10803,59,55.0,15,Raclette Courdavault,4,WELLI,1997-12-30,Dairy Products,825.0,1997-12,Media
+10804,10,31.0,36,Ikura,8,SEVES,1997-12-30,Seafood,1116.0,1997-12,Alta
+10804,28,45.6,24,Rössle Sauerkraut,7,SEVES,1997-12-30,Produce,1094.4,1997-12,Alta
+10804,49,20.0,4,Maxilaku,3,SEVES,1997-12-30,Confections,80.0,1997-12,Baja
+10805,34,14.0,10,Sasquatch Ale,1,THEBI,1997-12-30,Beverages,140.0,1997-12,Media
+10805,38,263.5,10,Côte de Blaye,1,THEBI,1997-12-30,Beverages,2635.0,1997-12,Alta
+10806,2,19.0,20,Chang,1,VICTE,1997-12-31,Beverages,380.0,1997-12,Media
+10806,65,21.05,2,Louisiana Fiery Hot Pepper Sauce,2,VICTE,1997-12-31,Condiments,42.1,1997-12,Baja
+10806,74,10.0,15,Longlife Tofu,7,VICTE,1997-12-31,Produce,150.0,1997-12,Media
+10807,40,18.4,1,Boston Crab Meat,8,FRANS,1997-12-31,Seafood,18.4,1997-12,Baja
+10808,56,38.0,20,Gnocchi di nonna Alice,5,OLDWO,1998-01-01,Grains/Cereals,760.0,1998-01,Media
+10808,76,18.0,50,Lakkalikööri,1,OLDWO,1998-01-01,Beverages,900.0,1998-01,Media
+10809,52,7.0,20,Filo Mix,5,WELLI,1998-01-01,Grains/Cereals,140.0,1998-01,Media
+10810,13,6.0,7,Konbu,8,LAUGB,1998-01-01,Seafood,42.0,1998-01,Baja
+10810,25,14.0,5,NuNuCa Nuß-Nougat-Creme,3,LAUGB,1998-01-01,Confections,70.0,1998-01,Baja
+10810,70,15.0,5,Outback Lager,1,LAUGB,1998-01-01,Beverages,75.0,1998-01,Baja
+10811,19,9.2,15,Teatime Chocolate Biscuits,3,LINOD,1998-01-02,Confections,138.0,1998-01,Media
+10811,23,9.0,18,Tunnbröd,5,LINOD,1998-01-02,Grains/Cereals,162.0,1998-01,Media
+10811,40,18.4,30,Boston Crab Meat,8,LINOD,1998-01-02,Seafood,552.0,1998-01,Media
+10812,31,12.5,16,Gorgonzola Telino,4,REGGC,1998-01-02,Dairy Products,200.0,1998-01,Media
+10812,72,34.8,40,Mozzarella di Giovanni,4,REGGC,1998-01-02,Dairy Products,1392.0,1998-01,Alta
+10812,77,13.0,20,Original Frankfurter grüne Soße,2,REGGC,1998-01-02,Condiments,260.0,1998-01,Media
+10813,2,19.0,12,Chang,1,RICAR,1998-01-05,Beverages,228.0,1998-01,Media
+10813,46,12.0,35,Spegesild,8,RICAR,1998-01-05,Seafood,420.0,1998-01,Media
+10814,41,9.65,20,Jack's New England Clam Chowder,8,VICTE,1998-01-05,Seafood,193.0,1998-01,Media
+10814,43,46.0,20,Ipoh Coffee,1,VICTE,1998-01-05,Beverages,920.0,1998-01,Media
+10814,48,12.75,8,Chocolade,3,VICTE,1998-01-05,Confections,102.0,1998-01,Media
+10814,61,28.5,30,Sirop d'érable,2,VICTE,1998-01-05,Condiments,855.0,1998-01,Media
+10815,33,2.5,16,Geitost,4,SAVEA,1998-01-05,Dairy Products,40.0,1998-01,Baja
+10816,38,263.5,30,Côte de Blaye,1,GREAL,1998-01-06,Beverages,7905.0,1998-01,Alta
+10816,62,49.3,20,Tarte au sucre,3,GREAL,1998-01-06,Confections,986.0,1998-01,Media
+10817,26,31.23,40,Gumbär Gummibärchen,3,KOENE,1998-01-06,Confections,1249.2,1998-01,Alta
+10817,38,263.5,30,Côte de Blaye,1,KOENE,1998-01-06,Beverages,7905.0,1998-01,Alta
+10817,40,18.4,60,Boston Crab Meat,8,KOENE,1998-01-06,Seafood,1104.0,1998-01,Alta
+10817,62,49.3,25,Tarte au sucre,3,KOENE,1998-01-06,Confections,1232.5,1998-01,Alta
+10818,32,32.0,20,Mascarpone Fabioli,4,MAGAA,1998-01-07,Dairy Products,640.0,1998-01,Media
+10818,41,9.65,20,Jack's New England Clam Chowder,8,MAGAA,1998-01-07,Seafood,193.0,1998-01,Media
+10819,43,46.0,7,Ipoh Coffee,1,CACTU,1998-01-07,Beverages,322.0,1998-01,Media
+10819,75,7.75,20,Rhönbräu Klosterbier,1,CACTU,1998-01-07,Beverages,155.0,1998-01,Media
+10820,56,38.0,30,Gnocchi di nonna Alice,5,RATTC,1998-01-07,Grains/Cereals,1140.0,1998-01,Alta
+10821,35,18.0,20,Steeleye Stout,1,SPLIR,1998-01-08,Beverages,360.0,1998-01,Media
+10821,51,53.0,6,Manjimup Dried Apples,7,SPLIR,1998-01-08,Produce,318.0,1998-01,Media
+10822,62,49.3,3,Tarte au sucre,3,TRAIH,1998-01-08,Confections,147.89999999999998,1998-01,Media
+10822,70,15.0,6,Outback Lager,1,TRAIH,1998-01-08,Beverages,90.0,1998-01,Baja
+10823,11,21.0,20,Queso Cabrales,4,LILAS,1998-01-09,Dairy Products,420.0,1998-01,Media
+10823,57,19.5,15,Ravioli Angelo,5,LILAS,1998-01-09,Grains/Cereals,292.5,1998-01,Media
+10823,59,55.0,40,Raclette Courdavault,4,LILAS,1998-01-09,Dairy Products,2200.0,1998-01,Alta
+10823,77,13.0,15,Original Frankfurter grüne Soße,2,LILAS,1998-01-09,Condiments,195.0,1998-01,Media
+10824,41,9.65,12,Jack's New England Clam Chowder,8,FOLKO,1998-01-09,Seafood,115.8,1998-01,Media
+10824,70,15.0,9,Outback Lager,1,FOLKO,1998-01-09,Beverages,135.0,1998-01,Media
+10825,26,31.23,12,Gumbär Gummibärchen,3,DRACD,1998-01-09,Confections,374.76,1998-01,Media
+10825,53,32.8,20,Perth Pasties,6,DRACD,1998-01-09,Meat/Poultry,656.0,1998-01,Media
+10826,31,12.5,35,Gorgonzola Telino,4,BLONP,1998-01-12,Dairy Products,437.5,1998-01,Media
+10826,57,19.5,15,Ravioli Angelo,5,BLONP,1998-01-12,Grains/Cereals,292.5,1998-01,Media
+10827,10,31.0,15,Ikura,8,BONAP,1998-01-12,Seafood,465.0,1998-01,Media
+10827,39,18.0,21,Chartreuse verte,1,BONAP,1998-01-12,Beverages,378.0,1998-01,Media
+10828,20,81.0,5,Sir Rodney's Marmalade,3,RANCH,1998-01-13,Confections,405.0,1998-01,Media
+10828,38,263.5,2,Côte de Blaye,1,RANCH,1998-01-13,Beverages,527.0,1998-01,Media
+10829,2,19.0,10,Chang,1,ISLAT,1998-01-13,Beverages,190.0,1998-01,Media
+10829,8,40.0,20,Northwoods Cranberry Sauce,2,ISLAT,1998-01-13,Condiments,800.0,1998-01,Media
+10829,13,6.0,10,Konbu,8,ISLAT,1998-01-13,Seafood,60.0,1998-01,Baja
+10829,60,34.0,21,Camembert Pierrot,4,ISLAT,1998-01-13,Dairy Products,714.0,1998-01,Media
+10830,6,25.0,6,Grandma's Boysenberry Spread,2,TRADH,1998-01-13,Condiments,150.0,1998-01,Media
+10830,39,18.0,28,Chartreuse verte,1,TRADH,1998-01-13,Beverages,504.0,1998-01,Media
+10830,60,34.0,30,Camembert Pierrot,4,TRADH,1998-01-13,Dairy Products,1020.0,1998-01,Alta
+10830,68,12.5,24,Scottish Longbreads,3,TRADH,1998-01-13,Confections,300.0,1998-01,Media
+10831,19,9.2,2,Teatime Chocolate Biscuits,3,SANTG,1998-01-14,Confections,18.4,1998-01,Baja
+10831,35,18.0,8,Steeleye Stout,1,SANTG,1998-01-14,Beverages,144.0,1998-01,Media
+10831,38,263.5,8,Côte de Blaye,1,SANTG,1998-01-14,Beverages,2108.0,1998-01,Alta
+10831,43,46.0,9,Ipoh Coffee,1,SANTG,1998-01-14,Beverages,414.0,1998-01,Media
+10832,13,6.0,3,Konbu,8,LAMAI,1998-01-14,Seafood,18.0,1998-01,Baja
+10832,25,14.0,10,NuNuCa Nuß-Nougat-Creme,3,LAMAI,1998-01-14,Confections,140.0,1998-01,Media
+10832,44,19.45,16,Gula Malacca,2,LAMAI,1998-01-14,Condiments,311.2,1998-01,Media
+10832,64,33.25,3,Wimmers gute Semmelknödel,5,LAMAI,1998-01-14,Grains/Cereals,99.75,1998-01,Baja
+10833,7,30.0,20,Uncle Bob's Organic Dried Pears,7,OTTIK,1998-01-15,Produce,600.0,1998-01,Media
+10833,31,12.5,9,Gorgonzola Telino,4,OTTIK,1998-01-15,Dairy Products,112.5,1998-01,Media
+10833,53,32.8,9,Perth Pasties,6,OTTIK,1998-01-15,Meat/Poultry,295.2,1998-01,Media
+10834,29,123.79,8,Thüringer Rostbratwurst,6,TRADH,1998-01-15,Meat/Poultry,990.32,1998-01,Media
+10834,30,25.89,20,Nord-Ost Matjeshering,8,TRADH,1998-01-15,Seafood,517.8,1998-01,Media
+10835,59,55.0,15,Raclette Courdavault,4,ALFKI,1998-01-15,Dairy Products,825.0,1998-01,Media
+10835,77,13.0,2,Original Frankfurter grüne Soße,2,ALFKI,1998-01-15,Condiments,26.0,1998-01,Baja
+10836,22,21.0,52,Gustaf's Knäckebröd,5,ERNSH,1998-01-16,Grains/Cereals,1092.0,1998-01,Alta
+10836,35,18.0,6,Steeleye Stout,1,ERNSH,1998-01-16,Beverages,108.0,1998-01,Media
+10836,57,19.5,24,Ravioli Angelo,5,ERNSH,1998-01-16,Grains/Cereals,468.0,1998-01,Media
+10836,60,34.0,60,Camembert Pierrot,4,ERNSH,1998-01-16,Dairy Products,2040.0,1998-01,Alta
+10836,64,33.25,30,Wimmers gute Semmelknödel,5,ERNSH,1998-01-16,Grains/Cereals,997.5,1998-01,Media
+10837,13,6.0,6,Konbu,8,BERGS,1998-01-16,Seafood,36.0,1998-01,Baja
+10837,40,18.4,25,Boston Crab Meat,8,BERGS,1998-01-16,Seafood,460.0,1998-01,Media
+10837,47,9.5,40,Zaanse koeken,3,BERGS,1998-01-16,Confections,380.0,1998-01,Media
+10837,76,18.0,21,Lakkalikööri,1,BERGS,1998-01-16,Beverages,378.0,1998-01,Media
+10838,1,18.0,4,Chai,1,LINOD,1998-01-19,Beverages,72.0,1998-01,Baja
+10838,18,62.5,25,Carnarvon Tigers,8,LINOD,1998-01-19,Seafood,1562.5,1998-01,Alta
+10838,36,19.0,50,Inlagd Sill,8,LINOD,1998-01-19,Seafood,950.0,1998-01,Media
+10839,58,13.25,30,Escargots de Bourgogne,8,TRADH,1998-01-19,Seafood,397.5,1998-01,Media
+10839,72,34.8,15,Mozzarella di Giovanni,4,TRADH,1998-01-19,Dairy Products,522.0,1998-01,Media
+10840,25,14.0,6,NuNuCa Nuß-Nougat-Creme,3,LINOD,1998-01-19,Confections,84.0,1998-01,Baja
+10840,39,18.0,10,Chartreuse verte,1,LINOD,1998-01-19,Beverages,180.0,1998-01,Media
+10841,10,31.0,16,Ikura,8,SUPRD,1998-01-20,Seafood,496.0,1998-01,Media
+10841,56,38.0,30,Gnocchi di nonna Alice,5,SUPRD,1998-01-20,Grains/Cereals,1140.0,1998-01,Alta
+10841,59,55.0,50,Raclette Courdavault,4,SUPRD,1998-01-20,Dairy Products,2750.0,1998-01,Alta
+10841,77,13.0,15,Original Frankfurter grüne Soße,2,SUPRD,1998-01-20,Condiments,195.0,1998-01,Media
+10842,11,21.0,15,Queso Cabrales,4,TORTU,1998-01-20,Dairy Products,315.0,1998-01,Media
+10842,43,46.0,5,Ipoh Coffee,1,TORTU,1998-01-20,Beverages,230.0,1998-01,Media
+10842,68,12.5,20,Scottish Longbreads,3,TORTU,1998-01-20,Confections,250.0,1998-01,Media
+10842,70,15.0,12,Outback Lager,1,TORTU,1998-01-20,Beverages,180.0,1998-01,Media
+10843,51,53.0,4,Manjimup Dried Apples,7,VICTE,1998-01-21,Produce,212.0,1998-01,Media
+10844,22,21.0,35,Gustaf's Knäckebröd,5,PICCO,1998-01-21,Grains/Cereals,735.0,1998-01,Media
+10845,23,9.0,70,Tunnbröd,5,QUICK,1998-01-21,Grains/Cereals,630.0,1998-01,Media
+10845,35,18.0,25,Steeleye Stout,1,QUICK,1998-01-21,Beverages,450.0,1998-01,Media
+10845,42,14.0,42,Singaporean Hokkien Fried Mee,5,QUICK,1998-01-21,Grains/Cereals,588.0,1998-01,Media
+10845,58,13.25,60,Escargots de Bourgogne,8,QUICK,1998-01-21,Seafood,795.0,1998-01,Media
+10845,64,33.25,48,Wimmers gute Semmelknödel,5,QUICK,1998-01-21,Grains/Cereals,1596.0,1998-01,Alta
+10846,4,22.0,21,Chef Anton's Cajun Seasoning,2,SUPRD,1998-01-22,Condiments,462.0,1998-01,Media
+10846,70,15.0,30,Outback Lager,1,SUPRD,1998-01-22,Beverages,450.0,1998-01,Media
+10846,74,10.0,20,Longlife Tofu,7,SUPRD,1998-01-22,Produce,200.0,1998-01,Media
+10847,1,18.0,80,Chai,1,SAVEA,1998-01-22,Beverages,1440.0,1998-01,Alta
+10847,19,9.2,12,Teatime Chocolate Biscuits,3,SAVEA,1998-01-22,Confections,110.4,1998-01,Media
+10847,37,26.0,60,Gravad lax,8,SAVEA,1998-01-22,Seafood,1560.0,1998-01,Alta
+10847,45,9.5,36,Rogede sild,8,SAVEA,1998-01-22,Seafood,342.0,1998-01,Media
+10847,60,34.0,45,Camembert Pierrot,4,SAVEA,1998-01-22,Dairy Products,1530.0,1998-01,Alta
+10847,71,21.5,55,Flotemysost,4,SAVEA,1998-01-22,Dairy Products,1182.5,1998-01,Alta
+10848,5,21.35,30,Chef Anton's Gumbo Mix,2,CONSH,1998-01-23,Condiments,640.5,1998-01,Media
+10848,9,97.0,3,Mishi Kobe Niku,6,CONSH,1998-01-23,Meat/Poultry,291.0,1998-01,Media
+10849,3,10.0,49,Aniseed Syrup,2,KOENE,1998-01-23,Condiments,490.0,1998-01,Media
+10849,26,31.23,18,Gumbär Gummibärchen,3,KOENE,1998-01-23,Confections,562.14,1998-01,Media
+10850,25,14.0,20,NuNuCa Nuß-Nougat-Creme,3,VICTE,1998-01-23,Confections,280.0,1998-01,Media
+10850,33,2.5,4,Geitost,4,VICTE,1998-01-23,Dairy Products,10.0,1998-01,Baja
+10850,70,15.0,30,Outback Lager,1,VICTE,1998-01-23,Beverages,450.0,1998-01,Media
+10851,2,19.0,5,Chang,1,RICAR,1998-01-26,Beverages,95.0,1998-01,Baja
+10851,25,14.0,10,NuNuCa Nuß-Nougat-Creme,3,RICAR,1998-01-26,Confections,140.0,1998-01,Media
+10851,57,19.5,10,Ravioli Angelo,5,RICAR,1998-01-26,Grains/Cereals,195.0,1998-01,Media
+10851,59,55.0,42,Raclette Courdavault,4,RICAR,1998-01-26,Dairy Products,2310.0,1998-01,Alta
+10852,2,19.0,15,Chang,1,RATTC,1998-01-26,Beverages,285.0,1998-01,Media
+10852,17,39.0,6,Alice Mutton,6,RATTC,1998-01-26,Meat/Poultry,234.0,1998-01,Media
+10852,62,49.3,50,Tarte au sucre,3,RATTC,1998-01-26,Confections,2465.0,1998-01,Alta
+10853,18,62.5,10,Carnarvon Tigers,8,BLAUS,1998-01-27,Seafood,625.0,1998-01,Media
+10854,10,31.0,100,Ikura,8,ERNSH,1998-01-27,Seafood,3100.0,1998-01,Alta
+10854,13,6.0,65,Konbu,8,ERNSH,1998-01-27,Seafood,390.0,1998-01,Media
+10855,16,17.45,50,Pavlova,3,OLDWO,1998-01-27,Confections,872.5,1998-01,Media
+10855,31,12.5,14,Gorgonzola Telino,4,OLDWO,1998-01-27,Dairy Products,175.0,1998-01,Media
+10855,56,38.0,24,Gnocchi di nonna Alice,5,OLDWO,1998-01-27,Grains/Cereals,912.0,1998-01,Media
+10855,65,21.05,15,Louisiana Fiery Hot Pepper Sauce,2,OLDWO,1998-01-27,Condiments,315.75,1998-01,Media
+10856,2,19.0,20,Chang,1,ANTON,1998-01-28,Beverages,380.0,1998-01,Media
+10856,42,14.0,20,Singaporean Hokkien Fried Mee,5,ANTON,1998-01-28,Grains/Cereals,280.0,1998-01,Media
+10857,3,10.0,30,Aniseed Syrup,2,BERGS,1998-01-28,Condiments,300.0,1998-01,Media
+10857,26,31.23,35,Gumbär Gummibärchen,3,BERGS,1998-01-28,Confections,1093.05,1998-01,Alta
+10857,29,123.79,10,Thüringer Rostbratwurst,6,BERGS,1998-01-28,Meat/Poultry,1237.9,1998-01,Alta
+10858,7,30.0,5,Uncle Bob's Organic Dried Pears,7,LACOR,1998-01-29,Produce,150.0,1998-01,Media
+10858,27,43.9,10,Schoggi Schokolade,3,LACOR,1998-01-29,Confections,439.0,1998-01,Media
+10858,70,15.0,4,Outback Lager,1,LACOR,1998-01-29,Beverages,60.0,1998-01,Baja
+10859,24,4.5,40,Guaraná Fantástica,1,FRANK,1998-01-29,Beverages,180.0,1998-01,Media
+10859,54,7.45,35,Tourtière,6,FRANK,1998-01-29,Meat/Poultry,260.75,1998-01,Media
+10859,64,33.25,30,Wimmers gute Semmelknödel,5,FRANK,1998-01-29,Grains/Cereals,997.5,1998-01,Media
+10860,51,53.0,3,Manjimup Dried Apples,7,FRANR,1998-01-29,Produce,159.0,1998-01,Media
+10860,76,18.0,20,Lakkalikööri,1,FRANR,1998-01-29,Beverages,360.0,1998-01,Media
+10861,17,39.0,42,Alice Mutton,6,WHITC,1998-01-30,Meat/Poultry,1638.0,1998-01,Alta
+10861,18,62.5,20,Carnarvon Tigers,8,WHITC,1998-01-30,Seafood,1250.0,1998-01,Alta
+10861,21,10.0,40,Sir Rodney's Scones,3,WHITC,1998-01-30,Confections,400.0,1998-01,Media
+10861,33,2.5,35,Geitost,4,WHITC,1998-01-30,Dairy Products,87.5,1998-01,Baja
+10861,62,49.3,3,Tarte au sucre,3,WHITC,1998-01-30,Confections,147.89999999999998,1998-01,Media
+10862,11,21.0,25,Queso Cabrales,4,LEHMS,1998-01-30,Dairy Products,525.0,1998-01,Media
+10862,52,7.0,8,Filo Mix,5,LEHMS,1998-01-30,Grains/Cereals,56.0,1998-01,Baja
+10863,1,18.0,20,Chai,1,HILAA,1998-02-02,Beverages,360.0,1998-02,Media
+10863,58,13.25,12,Escargots de Bourgogne,8,HILAA,1998-02-02,Seafood,159.0,1998-02,Media
+10864,35,18.0,4,Steeleye Stout,1,AROUT,1998-02-02,Beverages,72.0,1998-02,Baja
+10864,67,14.0,15,Laughing Lumberjack Lager,1,AROUT,1998-02-02,Beverages,210.0,1998-02,Media
+10865,38,263.5,60,Côte de Blaye,1,QUICK,1998-02-02,Beverages,15810.0,1998-02,Alta
+10865,39,18.0,80,Chartreuse verte,1,QUICK,1998-02-02,Beverages,1440.0,1998-02,Alta
+10866,2,19.0,21,Chang,1,BERGS,1998-02-03,Beverages,399.0,1998-02,Media
+10866,24,4.5,6,Guaraná Fantástica,1,BERGS,1998-02-03,Beverages,27.0,1998-02,Baja
+10866,30,25.89,40,Nord-Ost Matjeshering,8,BERGS,1998-02-03,Seafood,1035.6,1998-02,Alta
+10867,53,32.8,3,Perth Pasties,6,LONEP,1998-02-03,Meat/Poultry,98.4,1998-02,Baja
+10868,26,31.23,20,Gumbär Gummibärchen,3,QUEEN,1998-02-04,Confections,624.6,1998-02,Media
+10868,35,18.0,30,Steeleye Stout,1,QUEEN,1998-02-04,Beverages,540.0,1998-02,Media
+10868,49,20.0,42,Maxilaku,3,QUEEN,1998-02-04,Confections,840.0,1998-02,Media
+10869,1,18.0,40,Chai,1,SEVES,1998-02-04,Beverages,720.0,1998-02,Media
+10869,11,21.0,10,Queso Cabrales,4,SEVES,1998-02-04,Dairy Products,210.0,1998-02,Media
+10869,23,9.0,50,Tunnbröd,5,SEVES,1998-02-04,Grains/Cereals,450.0,1998-02,Media
+10869,68,12.5,20,Scottish Longbreads,3,SEVES,1998-02-04,Confections,250.0,1998-02,Media
+10870,35,18.0,3,Steeleye Stout,1,WOLZA,1998-02-04,Beverages,54.0,1998-02,Baja
+10870,51,53.0,2,Manjimup Dried Apples,7,WOLZA,1998-02-04,Produce,106.0,1998-02,Media
+10871,6,25.0,50,Grandma's Boysenberry Spread,2,BONAP,1998-02-05,Condiments,1250.0,1998-02,Alta
+10871,16,17.45,12,Pavlova,3,BONAP,1998-02-05,Confections,209.4,1998-02,Media
+10871,17,39.0,16,Alice Mutton,6,BONAP,1998-02-05,Meat/Poultry,624.0,1998-02,Media
+10872,55,24.0,10,Pâté chinois,6,GODOS,1998-02-05,Meat/Poultry,240.0,1998-02,Media
+10872,62,49.3,20,Tarte au sucre,3,GODOS,1998-02-05,Confections,986.0,1998-02,Media
+10872,64,33.25,15,Wimmers gute Semmelknödel,5,GODOS,1998-02-05,Grains/Cereals,498.75,1998-02,Media
+10872,65,21.05,21,Louisiana Fiery Hot Pepper Sauce,2,GODOS,1998-02-05,Condiments,442.05,1998-02,Media
+10873,21,10.0,20,Sir Rodney's Scones,3,WILMK,1998-02-06,Confections,200.0,1998-02,Media
+10873,28,45.6,3,Rössle Sauerkraut,7,WILMK,1998-02-06,Produce,136.8,1998-02,Media
+10874,10,31.0,10,Ikura,8,GODOS,1998-02-06,Seafood,310.0,1998-02,Media
+10875,19,9.2,25,Teatime Chocolate Biscuits,3,BERGS,1998-02-06,Confections,230.0,1998-02,Media
+10875,47,9.5,21,Zaanse koeken,3,BERGS,1998-02-06,Confections,199.5,1998-02,Media
+10875,49,20.0,15,Maxilaku,3,BERGS,1998-02-06,Confections,300.0,1998-02,Media
+10876,46,12.0,21,Spegesild,8,BONAP,1998-02-09,Seafood,252.0,1998-02,Media
+10876,64,33.25,20,Wimmers gute Semmelknödel,5,BONAP,1998-02-09,Grains/Cereals,665.0,1998-02,Media
+10877,16,17.45,30,Pavlova,3,RICAR,1998-02-09,Confections,523.5,1998-02,Media
+10877,18,62.5,25,Carnarvon Tigers,8,RICAR,1998-02-09,Seafood,1562.5,1998-02,Alta
+10878,20,81.0,20,Sir Rodney's Marmalade,3,QUICK,1998-02-10,Confections,1620.0,1998-02,Alta
+10879,40,18.4,12,Boston Crab Meat,8,WILMK,1998-02-10,Seafood,220.8,1998-02,Media
+10879,65,21.05,10,Louisiana Fiery Hot Pepper Sauce,2,WILMK,1998-02-10,Condiments,210.5,1998-02,Media
+10879,76,18.0,10,Lakkalikööri,1,WILMK,1998-02-10,Beverages,180.0,1998-02,Media
+10880,23,9.0,30,Tunnbröd,5,FOLKO,1998-02-10,Grains/Cereals,270.0,1998-02,Media
+10880,61,28.5,30,Sirop d'érable,2,FOLKO,1998-02-10,Condiments,855.0,1998-02,Media
+10880,70,15.0,50,Outback Lager,1,FOLKO,1998-02-10,Beverages,750.0,1998-02,Media
+10881,73,15.0,10,Röd Kaviar,8,CACTU,1998-02-11,Seafood,150.0,1998-02,Media
+10882,42,14.0,25,Singaporean Hokkien Fried Mee,5,SAVEA,1998-02-11,Grains/Cereals,350.0,1998-02,Media
+10882,49,20.0,20,Maxilaku,3,SAVEA,1998-02-11,Confections,400.0,1998-02,Media
+10882,54,7.45,32,Tourtière,6,SAVEA,1998-02-11,Meat/Poultry,238.4,1998-02,Media
+10883,24,4.5,8,Guaraná Fantástica,1,LONEP,1998-02-12,Beverages,36.0,1998-02,Baja
+10884,21,10.0,40,Sir Rodney's Scones,3,LETSS,1998-02-12,Confections,400.0,1998-02,Media
+10884,56,38.0,21,Gnocchi di nonna Alice,5,LETSS,1998-02-12,Grains/Cereals,798.0,1998-02,Media
+10884,65,21.05,12,Louisiana Fiery Hot Pepper Sauce,2,LETSS,1998-02-12,Condiments,252.6,1998-02,Media
+10885,2,19.0,20,Chang,1,SUPRD,1998-02-12,Beverages,380.0,1998-02,Media
+10885,24,4.5,12,Guaraná Fantástica,1,SUPRD,1998-02-12,Beverages,54.0,1998-02,Baja
+10885,70,15.0,30,Outback Lager,1,SUPRD,1998-02-12,Beverages,450.0,1998-02,Media
+10885,77,13.0,25,Original Frankfurter grüne Soße,2,SUPRD,1998-02-12,Condiments,325.0,1998-02,Media
+10886,10,31.0,70,Ikura,8,HANAR,1998-02-13,Seafood,2170.0,1998-02,Alta
+10886,31,12.5,35,Gorgonzola Telino,4,HANAR,1998-02-13,Dairy Products,437.5,1998-02,Media
+10886,77,13.0,40,Original Frankfurter grüne Soße,2,HANAR,1998-02-13,Condiments,520.0,1998-02,Media
+10887,25,14.0,5,NuNuCa Nuß-Nougat-Creme,3,GALED,1998-02-13,Confections,70.0,1998-02,Baja
+10888,2,19.0,20,Chang,1,GODOS,1998-02-16,Beverages,380.0,1998-02,Media
+10888,68,12.5,18,Scottish Longbreads,3,GODOS,1998-02-16,Confections,225.0,1998-02,Media
+10889,11,21.0,40,Queso Cabrales,4,RATTC,1998-02-16,Dairy Products,840.0,1998-02,Media
+10889,38,263.5,40,Côte de Blaye,1,RATTC,1998-02-16,Beverages,10540.0,1998-02,Alta
+10890,17,39.0,15,Alice Mutton,6,DUMON,1998-02-16,Meat/Poultry,585.0,1998-02,Media
+10890,34,14.0,10,Sasquatch Ale,1,DUMON,1998-02-16,Beverages,140.0,1998-02,Media
+10890,41,9.65,14,Jack's New England Clam Chowder,8,DUMON,1998-02-16,Seafood,135.1,1998-02,Media
+10891,30,25.89,15,Nord-Ost Matjeshering,8,LEHMS,1998-02-17,Seafood,388.35,1998-02,Media
+10892,59,55.0,40,Raclette Courdavault,4,MAISD,1998-02-17,Dairy Products,2200.0,1998-02,Alta
+10893,8,40.0,30,Northwoods Cranberry Sauce,2,KOENE,1998-02-18,Condiments,1200.0,1998-02,Alta
+10893,24,4.5,10,Guaraná Fantástica,1,KOENE,1998-02-18,Beverages,45.0,1998-02,Baja
+10893,29,123.79,24,Thüringer Rostbratwurst,6,KOENE,1998-02-18,Meat/Poultry,2970.96,1998-02,Alta
+10893,30,25.89,35,Nord-Ost Matjeshering,8,KOENE,1998-02-18,Seafood,906.15,1998-02,Media
+10893,36,19.0,20,Inlagd Sill,8,KOENE,1998-02-18,Seafood,380.0,1998-02,Media
+10894,13,6.0,28,Konbu,8,SAVEA,1998-02-18,Seafood,168.0,1998-02,Media
+10894,69,36.0,50,Gudbrandsdalsost,4,SAVEA,1998-02-18,Dairy Products,1800.0,1998-02,Alta
+10894,75,7.75,120,Rhönbräu Klosterbier,1,SAVEA,1998-02-18,Beverages,930.0,1998-02,Media
+10895,24,4.5,110,Guaraná Fantástica,1,ERNSH,1998-02-18,Beverages,495.0,1998-02,Media
+10895,39,18.0,45,Chartreuse verte,1,ERNSH,1998-02-18,Beverages,810.0,1998-02,Media
+10895,40,18.4,91,Boston Crab Meat,8,ERNSH,1998-02-18,Seafood,1674.4,1998-02,Alta
+10895,60,34.0,100,Camembert Pierrot,4,ERNSH,1998-02-18,Dairy Products,3400.0,1998-02,Alta
+10896,45,9.5,15,Rogede sild,8,MAISD,1998-02-19,Seafood,142.5,1998-02,Media
+10896,56,38.0,16,Gnocchi di nonna Alice,5,MAISD,1998-02-19,Grains/Cereals,608.0,1998-02,Media
+10897,29,123.79,80,Thüringer Rostbratwurst,6,HUNGO,1998-02-19,Meat/Poultry,9903.2,1998-02,Alta
+10897,30,25.89,36,Nord-Ost Matjeshering,8,HUNGO,1998-02-19,Seafood,932.04,1998-02,Media
+10898,13,6.0,5,Konbu,8,OCEAN,1998-02-20,Seafood,30.0,1998-02,Baja
+10899,39,18.0,8,Chartreuse verte,1,LILAS,1998-02-20,Beverages,144.0,1998-02,Media
+10900,70,15.0,3,Outback Lager,1,WELLI,1998-02-20,Beverages,45.0,1998-02,Baja
+10901,41,9.65,30,Jack's New England Clam Chowder,8,HILAA,1998-02-23,Seafood,289.5,1998-02,Media
+10901,71,21.5,30,Flotemysost,4,HILAA,1998-02-23,Dairy Products,645.0,1998-02,Media
+10902,55,24.0,30,Pâté chinois,6,FOLKO,1998-02-23,Meat/Poultry,720.0,1998-02,Media
+10902,62,49.3,6,Tarte au sucre,3,FOLKO,1998-02-23,Confections,295.79999999999995,1998-02,Media
+10903,13,6.0,40,Konbu,8,HANAR,1998-02-24,Seafood,240.0,1998-02,Media
+10903,65,21.05,21,Louisiana Fiery Hot Pepper Sauce,2,HANAR,1998-02-24,Condiments,442.05,1998-02,Media
+10903,68,12.5,20,Scottish Longbreads,3,HANAR,1998-02-24,Confections,250.0,1998-02,Media
+10904,58,13.25,15,Escargots de Bourgogne,8,WHITC,1998-02-24,Seafood,198.75,1998-02,Media
+10904,62,49.3,35,Tarte au sucre,3,WHITC,1998-02-24,Confections,1725.5,1998-02,Alta
+10905,1,18.0,20,Chai,1,WELLI,1998-02-24,Beverages,360.0,1998-02,Media
+10906,61,28.5,15,Sirop d'érable,2,WOLZA,1998-02-25,Condiments,427.5,1998-02,Media
+10907,75,7.75,14,Rhönbräu Klosterbier,1,SPECD,1998-02-25,Beverages,108.5,1998-02,Media
+10908,7,30.0,20,Uncle Bob's Organic Dried Pears,7,REGGC,1998-02-26,Produce,600.0,1998-02,Media
+10908,52,7.0,14,Filo Mix,5,REGGC,1998-02-26,Grains/Cereals,98.0,1998-02,Baja
+10909,7,30.0,12,Uncle Bob's Organic Dried Pears,7,SANTG,1998-02-26,Produce,360.0,1998-02,Media
+10909,16,17.45,15,Pavlova,3,SANTG,1998-02-26,Confections,261.75,1998-02,Media
+10909,41,9.65,5,Jack's New England Clam Chowder,8,SANTG,1998-02-26,Seafood,48.25,1998-02,Baja
+10910,19,9.2,12,Teatime Chocolate Biscuits,3,WILMK,1998-02-26,Confections,110.4,1998-02,Media
+10910,49,20.0,10,Maxilaku,3,WILMK,1998-02-26,Confections,200.0,1998-02,Media
+10910,61,28.5,5,Sirop d'érable,2,WILMK,1998-02-26,Condiments,142.5,1998-02,Media
+10911,1,18.0,10,Chai,1,GODOS,1998-02-26,Beverages,180.0,1998-02,Media
+10911,17,39.0,12,Alice Mutton,6,GODOS,1998-02-26,Meat/Poultry,468.0,1998-02,Media
+10911,67,14.0,15,Laughing Lumberjack Lager,1,GODOS,1998-02-26,Beverages,210.0,1998-02,Media
+10912,11,21.0,40,Queso Cabrales,4,HUNGO,1998-02-26,Dairy Products,840.0,1998-02,Media
+10912,29,123.79,60,Thüringer Rostbratwurst,6,HUNGO,1998-02-26,Meat/Poultry,7427.400000000001,1998-02,Alta
+10913,4,22.0,30,Chef Anton's Cajun Seasoning,2,QUEEN,1998-02-26,Condiments,660.0,1998-02,Media
+10913,33,2.5,40,Geitost,4,QUEEN,1998-02-26,Dairy Products,100.0,1998-02,Baja
+10913,58,13.25,15,Escargots de Bourgogne,8,QUEEN,1998-02-26,Seafood,198.75,1998-02,Media
+10914,71,21.5,25,Flotemysost,4,QUEEN,1998-02-27,Dairy Products,537.5,1998-02,Media
+10915,17,39.0,10,Alice Mutton,6,TORTU,1998-02-27,Meat/Poultry,390.0,1998-02,Media
+10915,33,2.5,30,Geitost,4,TORTU,1998-02-27,Dairy Products,75.0,1998-02,Baja
+10915,54,7.45,10,Tourtière,6,TORTU,1998-02-27,Meat/Poultry,74.5,1998-02,Baja
+10916,16,17.45,6,Pavlova,3,RANCH,1998-02-27,Confections,104.7,1998-02,Media
+10916,32,32.0,6,Mascarpone Fabioli,4,RANCH,1998-02-27,Dairy Products,192.0,1998-02,Media
+10916,57,19.5,20,Ravioli Angelo,5,RANCH,1998-02-27,Grains/Cereals,390.0,1998-02,Media
+10917,30,25.89,1,Nord-Ost Matjeshering,8,ROMEY,1998-03-02,Seafood,25.89,1998-03,Baja
+10917,60,34.0,10,Camembert Pierrot,4,ROMEY,1998-03-02,Dairy Products,340.0,1998-03,Media
+10918,1,18.0,60,Chai,1,BOTTM,1998-03-02,Beverages,1080.0,1998-03,Alta
+10918,60,34.0,25,Camembert Pierrot,4,BOTTM,1998-03-02,Dairy Products,850.0,1998-03,Media
+10919,16,17.45,24,Pavlova,3,LINOD,1998-03-02,Confections,418.8,1998-03,Media
+10919,25,14.0,24,NuNuCa Nuß-Nougat-Creme,3,LINOD,1998-03-02,Confections,336.0,1998-03,Media
+10919,40,18.4,20,Boston Crab Meat,8,LINOD,1998-03-02,Seafood,368.0,1998-03,Media
+10920,50,16.25,24,Valkoinen suklaa,3,AROUT,1998-03-03,Confections,390.0,1998-03,Media
+10921,35,18.0,10,Steeleye Stout,1,VAFFE,1998-03-03,Beverages,180.0,1998-03,Media
+10921,63,43.9,40,Vegie-spread,2,VAFFE,1998-03-03,Condiments,1756.0,1998-03,Alta
+10922,17,39.0,15,Alice Mutton,6,HANAR,1998-03-03,Meat/Poultry,585.0,1998-03,Media
+10922,24,4.5,35,Guaraná Fantástica,1,HANAR,1998-03-03,Beverages,157.5,1998-03,Media
+10923,42,14.0,10,Singaporean Hokkien Fried Mee,5,LAMAI,1998-03-03,Grains/Cereals,140.0,1998-03,Media
+10923,43,46.0,10,Ipoh Coffee,1,LAMAI,1998-03-03,Beverages,460.0,1998-03,Media
+10923,67,14.0,24,Laughing Lumberjack Lager,1,LAMAI,1998-03-03,Beverages,336.0,1998-03,Media
+10924,10,31.0,20,Ikura,8,BERGS,1998-03-04,Seafood,620.0,1998-03,Media
+10924,28,45.6,30,Rössle Sauerkraut,7,BERGS,1998-03-04,Produce,1368.0,1998-03,Alta
+10924,75,7.75,6,Rhönbräu Klosterbier,1,BERGS,1998-03-04,Beverages,46.5,1998-03,Baja
+10925,36,19.0,25,Inlagd Sill,8,HANAR,1998-03-04,Seafood,475.0,1998-03,Media
+10925,52,7.0,12,Filo Mix,5,HANAR,1998-03-04,Grains/Cereals,84.0,1998-03,Baja
+10926,11,21.0,2,Queso Cabrales,4,ANATR,1998-03-04,Dairy Products,42.0,1998-03,Baja
+10926,13,6.0,10,Konbu,8,ANATR,1998-03-04,Seafood,60.0,1998-03,Baja
+10926,19,9.2,7,Teatime Chocolate Biscuits,3,ANATR,1998-03-04,Confections,64.39999999999999,1998-03,Baja
+10926,72,34.8,10,Mozzarella di Giovanni,4,ANATR,1998-03-04,Dairy Products,348.0,1998-03,Media
+10927,20,81.0,5,Sir Rodney's Marmalade,3,LACOR,1998-03-05,Confections,405.0,1998-03,Media
+10927,52,7.0,5,Filo Mix,5,LACOR,1998-03-05,Grains/Cereals,35.0,1998-03,Baja
+10927,76,18.0,20,Lakkalikööri,1,LACOR,1998-03-05,Beverages,360.0,1998-03,Media
+10928,47,9.5,5,Zaanse koeken,3,GALED,1998-03-05,Confections,47.5,1998-03,Baja
+10928,76,18.0,5,Lakkalikööri,1,GALED,1998-03-05,Beverages,90.0,1998-03,Baja
+10929,21,10.0,60,Sir Rodney's Scones,3,FRANK,1998-03-05,Confections,600.0,1998-03,Media
+10929,75,7.75,49,Rhönbräu Klosterbier,1,FRANK,1998-03-05,Beverages,379.75,1998-03,Media
+10929,77,13.0,15,Original Frankfurter grüne Soße,2,FRANK,1998-03-05,Condiments,195.0,1998-03,Media
+10930,21,10.0,36,Sir Rodney's Scones,3,SUPRD,1998-03-06,Confections,360.0,1998-03,Media
+10930,27,43.9,25,Schoggi Schokolade,3,SUPRD,1998-03-06,Confections,1097.5,1998-03,Alta
+10930,55,24.0,25,Pâté chinois,6,SUPRD,1998-03-06,Meat/Poultry,600.0,1998-03,Media
+10930,58,13.25,30,Escargots de Bourgogne,8,SUPRD,1998-03-06,Seafood,397.5,1998-03,Media
+10931,13,6.0,42,Konbu,8,RICSU,1998-03-06,Seafood,252.0,1998-03,Media
+10931,57,19.5,30,Ravioli Angelo,5,RICSU,1998-03-06,Grains/Cereals,585.0,1998-03,Media
+10932,16,17.45,30,Pavlova,3,BONAP,1998-03-06,Confections,523.5,1998-03,Media
+10932,62,49.3,14,Tarte au sucre,3,BONAP,1998-03-06,Confections,690.1999999999999,1998-03,Media
+10932,72,34.8,16,Mozzarella di Giovanni,4,BONAP,1998-03-06,Dairy Products,556.8,1998-03,Media
+10932,75,7.75,20,Rhönbräu Klosterbier,1,BONAP,1998-03-06,Beverages,155.0,1998-03,Media
+10933,53,32.8,2,Perth Pasties,6,ISLAT,1998-03-06,Meat/Poultry,65.6,1998-03,Baja
+10933,61,28.5,30,Sirop d'érable,2,ISLAT,1998-03-06,Condiments,855.0,1998-03,Media
+10934,6,25.0,20,Grandma's Boysenberry Spread,2,LEHMS,1998-03-09,Condiments,500.0,1998-03,Media
+10935,1,18.0,21,Chai,1,WELLI,1998-03-09,Beverages,378.0,1998-03,Media
+10935,18,62.5,4,Carnarvon Tigers,8,WELLI,1998-03-09,Seafood,250.0,1998-03,Media
+10935,23,9.0,8,Tunnbröd,5,WELLI,1998-03-09,Grains/Cereals,72.0,1998-03,Baja
+10936,36,19.0,30,Inlagd Sill,8,GREAL,1998-03-09,Seafood,570.0,1998-03,Media
+10937,28,45.6,8,Rössle Sauerkraut,7,CACTU,1998-03-10,Produce,364.8,1998-03,Media
+10937,34,14.0,20,Sasquatch Ale,1,CACTU,1998-03-10,Beverages,280.0,1998-03,Media
+10938,13,6.0,20,Konbu,8,QUICK,1998-03-10,Seafood,120.0,1998-03,Media
+10938,43,46.0,24,Ipoh Coffee,1,QUICK,1998-03-10,Beverages,1104.0,1998-03,Alta
+10938,60,34.0,49,Camembert Pierrot,4,QUICK,1998-03-10,Dairy Products,1666.0,1998-03,Alta
+10938,71,21.5,35,Flotemysost,4,QUICK,1998-03-10,Dairy Products,752.5,1998-03,Media
+10939,2,19.0,10,Chang,1,MAGAA,1998-03-10,Beverages,190.0,1998-03,Media
+10939,67,14.0,40,Laughing Lumberjack Lager,1,MAGAA,1998-03-10,Beverages,560.0,1998-03,Media
+10940,7,30.0,8,Uncle Bob's Organic Dried Pears,7,BONAP,1998-03-11,Produce,240.0,1998-03,Media
+10940,13,6.0,20,Konbu,8,BONAP,1998-03-11,Seafood,120.0,1998-03,Media
+10941,31,12.5,44,Gorgonzola Telino,4,SAVEA,1998-03-11,Dairy Products,550.0,1998-03,Media
+10941,62,49.3,30,Tarte au sucre,3,SAVEA,1998-03-11,Confections,1479.0,1998-03,Alta
+10941,68,12.5,80,Scottish Longbreads,3,SAVEA,1998-03-11,Confections,1000.0,1998-03,Media
+10941,72,34.8,50,Mozzarella di Giovanni,4,SAVEA,1998-03-11,Dairy Products,1739.9999999999998,1998-03,Alta
+10942,49,20.0,28,Maxilaku,3,REGGC,1998-03-11,Confections,560.0,1998-03,Media
+10943,13,6.0,15,Konbu,8,BSBEV,1998-03-11,Seafood,90.0,1998-03,Baja
+10943,22,21.0,21,Gustaf's Knäckebröd,5,BSBEV,1998-03-11,Grains/Cereals,441.0,1998-03,Media
+10943,46,12.0,15,Spegesild,8,BSBEV,1998-03-11,Seafood,180.0,1998-03,Media
+10944,11,21.0,5,Queso Cabrales,4,BOTTM,1998-03-12,Dairy Products,105.0,1998-03,Media
+10944,44,19.45,18,Gula Malacca,2,BOTTM,1998-03-12,Condiments,350.1,1998-03,Media
+10944,56,38.0,18,Gnocchi di nonna Alice,5,BOTTM,1998-03-12,Grains/Cereals,684.0,1998-03,Media
+10945,13,6.0,20,Konbu,8,MORGK,1998-03-12,Seafood,120.0,1998-03,Media
+10945,31,12.5,10,Gorgonzola Telino,4,MORGK,1998-03-12,Dairy Products,125.0,1998-03,Media
+10946,10,31.0,25,Ikura,8,VAFFE,1998-03-12,Seafood,775.0,1998-03,Media
+10946,24,4.5,25,Guaraná Fantástica,1,VAFFE,1998-03-12,Beverages,112.5,1998-03,Media
+10946,77,13.0,40,Original Frankfurter grüne Soße,2,VAFFE,1998-03-12,Condiments,520.0,1998-03,Media
+10947,59,55.0,4,Raclette Courdavault,4,BSBEV,1998-03-13,Dairy Products,220.0,1998-03,Media
+10948,50,16.25,9,Valkoinen suklaa,3,GODOS,1998-03-13,Confections,146.25,1998-03,Media
+10948,51,53.0,40,Manjimup Dried Apples,7,GODOS,1998-03-13,Produce,2120.0,1998-03,Alta
+10948,55,24.0,4,Pâté chinois,6,GODOS,1998-03-13,Meat/Poultry,96.0,1998-03,Baja
+10949,6,25.0,12,Grandma's Boysenberry Spread,2,BOTTM,1998-03-13,Condiments,300.0,1998-03,Media
+10949,10,31.0,30,Ikura,8,BOTTM,1998-03-13,Seafood,930.0,1998-03,Media
+10949,17,39.0,6,Alice Mutton,6,BOTTM,1998-03-13,Meat/Poultry,234.0,1998-03,Media
+10949,62,49.3,60,Tarte au sucre,3,BOTTM,1998-03-13,Confections,2958.0,1998-03,Alta
+10950,4,22.0,5,Chef Anton's Cajun Seasoning,2,MAGAA,1998-03-16,Condiments,110.0,1998-03,Media
+10951,33,2.5,15,Geitost,4,RICSU,1998-03-16,Dairy Products,37.5,1998-03,Baja
+10951,41,9.65,6,Jack's New England Clam Chowder,8,RICSU,1998-03-16,Seafood,57.900000000000006,1998-03,Baja
+10951,75,7.75,50,Rhönbräu Klosterbier,1,RICSU,1998-03-16,Beverages,387.5,1998-03,Media
+10952,6,25.0,16,Grandma's Boysenberry Spread,2,ALFKI,1998-03-16,Condiments,400.0,1998-03,Media
+10952,28,45.6,2,Rössle Sauerkraut,7,ALFKI,1998-03-16,Produce,91.2,1998-03,Baja
+10953,20,81.0,50,Sir Rodney's Marmalade,3,AROUT,1998-03-16,Confections,4050.0,1998-03,Alta
+10953,31,12.5,50,Gorgonzola Telino,4,AROUT,1998-03-16,Dairy Products,625.0,1998-03,Media
+10954,16,17.45,28,Pavlova,3,LINOD,1998-03-17,Confections,488.6,1998-03,Media
+10954,31,12.5,25,Gorgonzola Telino,4,LINOD,1998-03-17,Dairy Products,312.5,1998-03,Media
+10954,45,9.5,30,Rogede sild,8,LINOD,1998-03-17,Seafood,285.0,1998-03,Media
+10954,60,34.0,24,Camembert Pierrot,4,LINOD,1998-03-17,Dairy Products,816.0,1998-03,Media
+10955,75,7.75,12,Rhönbräu Klosterbier,1,FOLKO,1998-03-17,Beverages,93.0,1998-03,Baja
+10956,21,10.0,12,Sir Rodney's Scones,3,BLAUS,1998-03-17,Confections,120.0,1998-03,Media
+10956,47,9.5,14,Zaanse koeken,3,BLAUS,1998-03-17,Confections,133.0,1998-03,Media
+10956,51,53.0,8,Manjimup Dried Apples,7,BLAUS,1998-03-17,Produce,424.0,1998-03,Media
+10957,30,25.89,30,Nord-Ost Matjeshering,8,HILAA,1998-03-18,Seafood,776.7,1998-03,Media
+10957,35,18.0,40,Steeleye Stout,1,HILAA,1998-03-18,Beverages,720.0,1998-03,Media
+10957,64,33.25,8,Wimmers gute Semmelknödel,5,HILAA,1998-03-18,Grains/Cereals,266.0,1998-03,Media
+10958,5,21.35,20,Chef Anton's Gumbo Mix,2,OCEAN,1998-03-18,Condiments,427.0,1998-03,Media
+10958,7,30.0,6,Uncle Bob's Organic Dried Pears,7,OCEAN,1998-03-18,Produce,180.0,1998-03,Media
+10958,72,34.8,5,Mozzarella di Giovanni,4,OCEAN,1998-03-18,Dairy Products,174.0,1998-03,Media
+10959,75,7.75,20,Rhönbräu Klosterbier,1,GOURL,1998-03-18,Beverages,155.0,1998-03,Media
+10960,24,4.5,10,Guaraná Fantástica,1,HILAA,1998-03-19,Beverages,45.0,1998-03,Baja
+10960,41,9.65,24,Jack's New England Clam Chowder,8,HILAA,1998-03-19,Seafood,231.6,1998-03,Media
+10961,52,7.0,6,Filo Mix,5,QUEEN,1998-03-19,Grains/Cereals,42.0,1998-03,Baja
+10961,76,18.0,60,Lakkalikööri,1,QUEEN,1998-03-19,Beverages,1080.0,1998-03,Alta
+10962,7,30.0,45,Uncle Bob's Organic Dried Pears,7,QUICK,1998-03-19,Produce,1350.0,1998-03,Alta
+10962,13,6.0,77,Konbu,8,QUICK,1998-03-19,Seafood,462.0,1998-03,Media
+10962,53,32.8,20,Perth Pasties,6,QUICK,1998-03-19,Meat/Poultry,656.0,1998-03,Media
+10962,69,36.0,9,Gudbrandsdalsost,4,QUICK,1998-03-19,Dairy Products,324.0,1998-03,Media
+10962,76,18.0,44,Lakkalikööri,1,QUICK,1998-03-19,Beverages,792.0,1998-03,Media
+10963,60,34.0,2,Camembert Pierrot,4,FURIB,1998-03-19,Dairy Products,68.0,1998-03,Baja
+10964,18,62.5,6,Carnarvon Tigers,8,SPECD,1998-03-20,Seafood,375.0,1998-03,Media
+10964,38,263.5,5,Côte de Blaye,1,SPECD,1998-03-20,Beverages,1317.5,1998-03,Alta
+10964,69,36.0,10,Gudbrandsdalsost,4,SPECD,1998-03-20,Dairy Products,360.0,1998-03,Media
+10965,51,53.0,16,Manjimup Dried Apples,7,OLDWO,1998-03-20,Produce,848.0,1998-03,Media
+10966,37,26.0,8,Gravad lax,8,CHOPS,1998-03-20,Seafood,208.0,1998-03,Media
+10966,56,38.0,12,Gnocchi di nonna Alice,5,CHOPS,1998-03-20,Grains/Cereals,456.0,1998-03,Media
+10966,62,49.3,12,Tarte au sucre,3,CHOPS,1998-03-20,Confections,591.5999999999999,1998-03,Media
+10967,19,9.2,12,Teatime Chocolate Biscuits,3,TOMSP,1998-03-23,Confections,110.4,1998-03,Media
+10967,49,20.0,40,Maxilaku,3,TOMSP,1998-03-23,Confections,800.0,1998-03,Media
+10968,12,38.0,30,Queso Manchego La Pastora,4,ERNSH,1998-03-23,Dairy Products,1140.0,1998-03,Alta
+10968,24,4.5,30,Guaraná Fantástica,1,ERNSH,1998-03-23,Beverages,135.0,1998-03,Media
+10968,64,33.25,4,Wimmers gute Semmelknödel,5,ERNSH,1998-03-23,Grains/Cereals,133.0,1998-03,Media
+10969,46,12.0,9,Spegesild,8,COMMI,1998-03-23,Seafood,108.0,1998-03,Media
+10970,52,7.0,40,Filo Mix,5,BOLID,1998-03-24,Grains/Cereals,280.0,1998-03,Media
+10971,29,123.79,14,Thüringer Rostbratwurst,6,FRANR,1998-03-24,Meat/Poultry,1733.0600000000002,1998-03,Alta
+10972,17,39.0,6,Alice Mutton,6,LACOR,1998-03-24,Meat/Poultry,234.0,1998-03,Media
+10972,33,2.5,7,Geitost,4,LACOR,1998-03-24,Dairy Products,17.5,1998-03,Baja
+10973,26,31.23,5,Gumbär Gummibärchen,3,LACOR,1998-03-24,Confections,156.15,1998-03,Media
+10973,41,9.65,6,Jack's New England Clam Chowder,8,LACOR,1998-03-24,Seafood,57.900000000000006,1998-03,Baja
+10973,75,7.75,10,Rhönbräu Klosterbier,1,LACOR,1998-03-24,Beverages,77.5,1998-03,Baja
+10974,63,43.9,10,Vegie-spread,2,SPLIR,1998-03-25,Condiments,439.0,1998-03,Media
+10975,8,40.0,16,Northwoods Cranberry Sauce,2,BOTTM,1998-03-25,Condiments,640.0,1998-03,Media
+10975,75,7.75,10,Rhönbräu Klosterbier,1,BOTTM,1998-03-25,Beverages,77.5,1998-03,Baja
+10976,28,45.6,20,Rössle Sauerkraut,7,HILAA,1998-03-25,Produce,912.0,1998-03,Media
+10977,39,18.0,30,Chartreuse verte,1,FOLKO,1998-03-26,Beverages,540.0,1998-03,Media
+10977,47,9.5,30,Zaanse koeken,3,FOLKO,1998-03-26,Confections,285.0,1998-03,Media
+10977,51,53.0,10,Manjimup Dried Apples,7,FOLKO,1998-03-26,Produce,530.0,1998-03,Media
+10977,63,43.9,20,Vegie-spread,2,FOLKO,1998-03-26,Condiments,878.0,1998-03,Media
+10978,8,40.0,20,Northwoods Cranberry Sauce,2,MAISD,1998-03-26,Condiments,800.0,1998-03,Media
+10978,21,10.0,40,Sir Rodney's Scones,3,MAISD,1998-03-26,Confections,400.0,1998-03,Media
+10978,40,18.4,10,Boston Crab Meat,8,MAISD,1998-03-26,Seafood,184.0,1998-03,Media
+10978,44,19.45,6,Gula Malacca,2,MAISD,1998-03-26,Condiments,116.7,1998-03,Media
+10979,7,30.0,18,Uncle Bob's Organic Dried Pears,7,ERNSH,1998-03-26,Produce,540.0,1998-03,Media
+10979,12,38.0,20,Queso Manchego La Pastora,4,ERNSH,1998-03-26,Dairy Products,760.0,1998-03,Media
+10979,24,4.5,80,Guaraná Fantástica,1,ERNSH,1998-03-26,Beverages,360.0,1998-03,Media
+10979,27,43.9,30,Schoggi Schokolade,3,ERNSH,1998-03-26,Confections,1317.0,1998-03,Alta
+10979,31,12.5,24,Gorgonzola Telino,4,ERNSH,1998-03-26,Dairy Products,300.0,1998-03,Media
+10979,63,43.9,35,Vegie-spread,2,ERNSH,1998-03-26,Condiments,1536.5,1998-03,Alta
+10980,75,7.75,40,Rhönbräu Klosterbier,1,FOLKO,1998-03-27,Beverages,310.0,1998-03,Media
+10981,38,263.5,60,Côte de Blaye,1,HANAR,1998-03-27,Beverages,15810.0,1998-03,Alta
+10982,7,30.0,20,Uncle Bob's Organic Dried Pears,7,BOTTM,1998-03-27,Produce,600.0,1998-03,Media
+10982,43,46.0,9,Ipoh Coffee,1,BOTTM,1998-03-27,Beverages,414.0,1998-03,Media
+10983,13,6.0,84,Konbu,8,SAVEA,1998-03-27,Seafood,504.0,1998-03,Media
+10983,57,19.5,15,Ravioli Angelo,5,SAVEA,1998-03-27,Grains/Cereals,292.5,1998-03,Media
+10984,16,17.45,55,Pavlova,3,SAVEA,1998-03-30,Confections,959.75,1998-03,Media
+10984,24,4.5,20,Guaraná Fantástica,1,SAVEA,1998-03-30,Beverages,90.0,1998-03,Baja
+10984,36,19.0,40,Inlagd Sill,8,SAVEA,1998-03-30,Seafood,760.0,1998-03,Media
+10985,16,17.45,36,Pavlova,3,HUNGO,1998-03-30,Confections,628.1999999999999,1998-03,Media
+10985,18,62.5,8,Carnarvon Tigers,8,HUNGO,1998-03-30,Seafood,500.0,1998-03,Media
+10985,32,32.0,35,Mascarpone Fabioli,4,HUNGO,1998-03-30,Dairy Products,1120.0,1998-03,Alta
+10986,11,21.0,30,Queso Cabrales,4,OCEAN,1998-03-30,Dairy Products,630.0,1998-03,Media
+10986,20,81.0,15,Sir Rodney's Marmalade,3,OCEAN,1998-03-30,Confections,1215.0,1998-03,Alta
+10986,76,18.0,10,Lakkalikööri,1,OCEAN,1998-03-30,Beverages,180.0,1998-03,Media
+10986,77,13.0,15,Original Frankfurter grüne Soße,2,OCEAN,1998-03-30,Condiments,195.0,1998-03,Media
+10987,7,30.0,60,Uncle Bob's Organic Dried Pears,7,EASTC,1998-03-31,Produce,1800.0,1998-03,Alta
+10987,43,46.0,6,Ipoh Coffee,1,EASTC,1998-03-31,Beverages,276.0,1998-03,Media
+10987,72,34.8,20,Mozzarella di Giovanni,4,EASTC,1998-03-31,Dairy Products,696.0,1998-03,Media
+10988,7,30.0,60,Uncle Bob's Organic Dried Pears,7,RATTC,1998-03-31,Produce,1800.0,1998-03,Alta
+10988,62,49.3,40,Tarte au sucre,3,RATTC,1998-03-31,Confections,1972.0,1998-03,Alta
+10989,6,25.0,40,Grandma's Boysenberry Spread,2,QUEDE,1998-03-31,Condiments,1000.0,1998-03,Media
+10989,11,21.0,15,Queso Cabrales,4,QUEDE,1998-03-31,Dairy Products,315.0,1998-03,Media
+10989,41,9.65,4,Jack's New England Clam Chowder,8,QUEDE,1998-03-31,Seafood,38.6,1998-03,Baja
+10990,21,10.0,65,Sir Rodney's Scones,3,ERNSH,1998-04-01,Confections,650.0,1998-04,Media
+10990,34,14.0,60,Sasquatch Ale,1,ERNSH,1998-04-01,Beverages,840.0,1998-04,Media
+10990,55,24.0,65,Pâté chinois,6,ERNSH,1998-04-01,Meat/Poultry,1560.0,1998-04,Alta
+10990,61,28.5,66,Sirop d'érable,2,ERNSH,1998-04-01,Condiments,1881.0,1998-04,Alta
+10991,2,19.0,50,Chang,1,QUICK,1998-04-01,Beverages,950.0,1998-04,Media
+10991,70,15.0,20,Outback Lager,1,QUICK,1998-04-01,Beverages,300.0,1998-04,Media
+10991,76,18.0,90,Lakkalikööri,1,QUICK,1998-04-01,Beverages,1620.0,1998-04,Alta
+10992,72,34.8,2,Mozzarella di Giovanni,4,THEBI,1998-04-01,Dairy Products,69.6,1998-04,Baja
+10993,29,123.79,50,Thüringer Rostbratwurst,6,FOLKO,1998-04-01,Meat/Poultry,6189.5,1998-04,Alta
+10993,41,9.65,35,Jack's New England Clam Chowder,8,FOLKO,1998-04-01,Seafood,337.75,1998-04,Media
+10994,59,55.0,18,Raclette Courdavault,4,VAFFE,1998-04-02,Dairy Products,990.0,1998-04,Media
+10995,51,53.0,20,Manjimup Dried Apples,7,PERIC,1998-04-02,Produce,1060.0,1998-04,Alta
+10995,60,34.0,4,Camembert Pierrot,4,PERIC,1998-04-02,Dairy Products,136.0,1998-04,Media
+10996,42,14.0,40,Singaporean Hokkien Fried Mee,5,QUICK,1998-04-02,Grains/Cereals,560.0,1998-04,Media
+10997,32,32.0,50,Mascarpone Fabioli,4,LILAS,1998-04-03,Dairy Products,1600.0,1998-04,Alta
+10997,46,12.0,20,Spegesild,8,LILAS,1998-04-03,Seafood,240.0,1998-04,Media
+10997,52,7.0,20,Filo Mix,5,LILAS,1998-04-03,Grains/Cereals,140.0,1998-04,Media
+10998,24,4.5,12,Guaraná Fantástica,1,WOLZA,1998-04-03,Beverages,54.0,1998-04,Baja
+10998,61,28.5,7,Sirop d'érable,2,WOLZA,1998-04-03,Condiments,199.5,1998-04,Media
+10998,74,10.0,20,Longlife Tofu,7,WOLZA,1998-04-03,Produce,200.0,1998-04,Media
+10998,75,7.75,30,Rhönbräu Klosterbier,1,WOLZA,1998-04-03,Beverages,232.5,1998-04,Media
+10999,41,9.65,20,Jack's New England Clam Chowder,8,OTTIK,1998-04-03,Seafood,193.0,1998-04,Media
+10999,51,53.0,15,Manjimup Dried Apples,7,OTTIK,1998-04-03,Produce,795.0,1998-04,Media
+10999,77,13.0,21,Original Frankfurter grüne Soße,2,OTTIK,1998-04-03,Condiments,273.0,1998-04,Media
+11000,4,22.0,25,Chef Anton's Cajun Seasoning,2,RATTC,1998-04-06,Condiments,550.0,1998-04,Media
+11000,24,4.5,30,Guaraná Fantástica,1,RATTC,1998-04-06,Beverages,135.0,1998-04,Media
+11000,77,13.0,30,Original Frankfurter grüne Soße,2,RATTC,1998-04-06,Condiments,390.0,1998-04,Media
+11001,7,30.0,60,Uncle Bob's Organic Dried Pears,7,FOLKO,1998-04-06,Produce,1800.0,1998-04,Alta
+11001,22,21.0,25,Gustaf's Knäckebröd,5,FOLKO,1998-04-06,Grains/Cereals,525.0,1998-04,Media
+11001,46,12.0,25,Spegesild,8,FOLKO,1998-04-06,Seafood,300.0,1998-04,Media
+11001,55,24.0,6,Pâté chinois,6,FOLKO,1998-04-06,Meat/Poultry,144.0,1998-04,Media
+11002,13,6.0,56,Konbu,8,SAVEA,1998-04-06,Seafood,336.0,1998-04,Media
+11002,35,18.0,15,Steeleye Stout,1,SAVEA,1998-04-06,Beverages,270.0,1998-04,Media
+11002,42,14.0,24,Singaporean Hokkien Fried Mee,5,SAVEA,1998-04-06,Grains/Cereals,336.0,1998-04,Media
+11002,55,24.0,40,Pâté chinois,6,SAVEA,1998-04-06,Meat/Poultry,960.0,1998-04,Media
+11003,1,18.0,4,Chai,1,THECR,1998-04-06,Beverages,72.0,1998-04,Baja
+11003,40,18.4,10,Boston Crab Meat,8,THECR,1998-04-06,Seafood,184.0,1998-04,Media
+11003,52,7.0,10,Filo Mix,5,THECR,1998-04-06,Grains/Cereals,70.0,1998-04,Baja
+11004,26,31.23,6,Gumbär Gummibärchen,3,MAISD,1998-04-07,Confections,187.38,1998-04,Media
+11004,76,18.0,6,Lakkalikööri,1,MAISD,1998-04-07,Beverages,108.0,1998-04,Media
+11005,1,18.0,2,Chai,1,WILMK,1998-04-07,Beverages,36.0,1998-04,Baja
+11005,59,55.0,10,Raclette Courdavault,4,WILMK,1998-04-07,Dairy Products,550.0,1998-04,Media
+11006,1,18.0,8,Chai,1,GREAL,1998-04-07,Beverages,144.0,1998-04,Media
+11006,29,123.79,2,Thüringer Rostbratwurst,6,GREAL,1998-04-07,Meat/Poultry,247.58,1998-04,Media
+11007,8,40.0,30,Northwoods Cranberry Sauce,2,PRINI,1998-04-08,Condiments,1200.0,1998-04,Alta
+11007,29,123.79,10,Thüringer Rostbratwurst,6,PRINI,1998-04-08,Meat/Poultry,1237.9,1998-04,Alta
+11007,42,14.0,14,Singaporean Hokkien Fried Mee,5,PRINI,1998-04-08,Grains/Cereals,196.0,1998-04,Media
+11008,28,45.6,70,Rössle Sauerkraut,7,ERNSH,1998-04-08,Produce,3192.0,1998-04,Alta
+11008,34,14.0,90,Sasquatch Ale,1,ERNSH,1998-04-08,Beverages,1260.0,1998-04,Alta
+11008,71,21.5,21,Flotemysost,4,ERNSH,1998-04-08,Dairy Products,451.5,1998-04,Media
+11009,24,4.5,12,Guaraná Fantástica,1,GODOS,1998-04-08,Beverages,54.0,1998-04,Baja
+11009,36,19.0,18,Inlagd Sill,8,GODOS,1998-04-08,Seafood,342.0,1998-04,Media
+11009,60,34.0,9,Camembert Pierrot,4,GODOS,1998-04-08,Dairy Products,306.0,1998-04,Media
+11010,7,30.0,20,Uncle Bob's Organic Dried Pears,7,REGGC,1998-04-09,Produce,600.0,1998-04,Media
+11010,24,4.5,10,Guaraná Fantástica,1,REGGC,1998-04-09,Beverages,45.0,1998-04,Baja
+11011,58,13.25,40,Escargots de Bourgogne,8,ALFKI,1998-04-09,Seafood,530.0,1998-04,Media
+11011,71,21.5,20,Flotemysost,4,ALFKI,1998-04-09,Dairy Products,430.0,1998-04,Media
+11012,19,9.2,50,Teatime Chocolate Biscuits,3,FRANK,1998-04-09,Confections,460.0,1998-04,Media
+11012,60,34.0,36,Camembert Pierrot,4,FRANK,1998-04-09,Dairy Products,1224.0,1998-04,Alta
+11012,71,21.5,60,Flotemysost,4,FRANK,1998-04-09,Dairy Products,1290.0,1998-04,Alta
+11013,23,9.0,10,Tunnbröd,5,ROMEY,1998-04-09,Grains/Cereals,90.0,1998-04,Baja
+11013,42,14.0,4,Singaporean Hokkien Fried Mee,5,ROMEY,1998-04-09,Grains/Cereals,56.0,1998-04,Baja
+11013,45,9.5,20,Rogede sild,8,ROMEY,1998-04-09,Seafood,190.0,1998-04,Media
+11013,68,12.5,2,Scottish Longbreads,3,ROMEY,1998-04-09,Confections,25.0,1998-04,Baja
+11014,41,9.65,28,Jack's New England Clam Chowder,8,LINOD,1998-04-10,Seafood,270.2,1998-04,Media
+11015,30,25.89,15,Nord-Ost Matjeshering,8,SANTG,1998-04-10,Seafood,388.35,1998-04,Media
+11015,77,13.0,18,Original Frankfurter grüne Soße,2,SANTG,1998-04-10,Condiments,234.0,1998-04,Media
+11016,31,12.5,15,Gorgonzola Telino,4,AROUT,1998-04-10,Dairy Products,187.5,1998-04,Media
+11016,36,19.0,16,Inlagd Sill,8,AROUT,1998-04-10,Seafood,304.0,1998-04,Media
+11017,3,10.0,25,Aniseed Syrup,2,ERNSH,1998-04-13,Condiments,250.0,1998-04,Media
+11017,59,55.0,110,Raclette Courdavault,4,ERNSH,1998-04-13,Dairy Products,6050.0,1998-04,Alta
+11017,70,15.0,30,Outback Lager,1,ERNSH,1998-04-13,Beverages,450.0,1998-04,Media
+11018,12,38.0,20,Queso Manchego La Pastora,4,LONEP,1998-04-13,Dairy Products,760.0,1998-04,Media
+11018,18,62.5,10,Carnarvon Tigers,8,LONEP,1998-04-13,Seafood,625.0,1998-04,Media
+11018,56,38.0,5,Gnocchi di nonna Alice,5,LONEP,1998-04-13,Grains/Cereals,190.0,1998-04,Media
+11019,46,12.0,3,Spegesild,8,RANCH,1998-04-13,Seafood,36.0,1998-04,Baja
+11019,49,20.0,2,Maxilaku,3,RANCH,1998-04-13,Confections,40.0,1998-04,Baja
+11020,10,31.0,24,Ikura,8,OTTIK,1998-04-14,Seafood,744.0,1998-04,Media
+11021,2,19.0,11,Chang,1,QUICK,1998-04-14,Beverages,209.0,1998-04,Media
+11021,20,81.0,15,Sir Rodney's Marmalade,3,QUICK,1998-04-14,Confections,1215.0,1998-04,Alta
+11021,26,31.23,63,Gumbär Gummibärchen,3,QUICK,1998-04-14,Confections,1967.49,1998-04,Alta
+11021,51,53.0,44,Manjimup Dried Apples,7,QUICK,1998-04-14,Produce,2332.0,1998-04,Alta
+11021,72,34.8,35,Mozzarella di Giovanni,4,QUICK,1998-04-14,Dairy Products,1218.0,1998-04,Alta
+11022,19,9.2,35,Teatime Chocolate Biscuits,3,HANAR,1998-04-14,Confections,322.0,1998-04,Media
+11022,69,36.0,30,Gudbrandsdalsost,4,HANAR,1998-04-14,Dairy Products,1080.0,1998-04,Alta
+11023,7,30.0,4,Uncle Bob's Organic Dried Pears,7,BSBEV,1998-04-14,Produce,120.0,1998-04,Media
+11023,43,46.0,30,Ipoh Coffee,1,BSBEV,1998-04-14,Beverages,1380.0,1998-04,Alta
+11024,26,31.23,12,Gumbär Gummibärchen,3,EASTC,1998-04-15,Confections,374.76,1998-04,Media
+11024,33,2.5,30,Geitost,4,EASTC,1998-04-15,Dairy Products,75.0,1998-04,Baja
+11024,65,21.05,21,Louisiana Fiery Hot Pepper Sauce,2,EASTC,1998-04-15,Condiments,442.05,1998-04,Media
+11024,71,21.5,50,Flotemysost,4,EASTC,1998-04-15,Dairy Products,1075.0,1998-04,Alta
+11025,1,18.0,10,Chai,1,WARTH,1998-04-15,Beverages,180.0,1998-04,Media
+11025,13,6.0,20,Konbu,8,WARTH,1998-04-15,Seafood,120.0,1998-04,Media
+11026,18,62.5,8,Carnarvon Tigers,8,FRANS,1998-04-15,Seafood,500.0,1998-04,Media
+11026,51,53.0,10,Manjimup Dried Apples,7,FRANS,1998-04-15,Produce,530.0,1998-04,Media
+11027,24,4.5,30,Guaraná Fantástica,1,BOTTM,1998-04-16,Beverages,135.0,1998-04,Media
+11027,62,49.3,21,Tarte au sucre,3,BOTTM,1998-04-16,Confections,1035.3,1998-04,Alta
+11028,55,24.0,35,Pâté chinois,6,KOENE,1998-04-16,Meat/Poultry,840.0,1998-04,Media
+11028,59,55.0,24,Raclette Courdavault,4,KOENE,1998-04-16,Dairy Products,1320.0,1998-04,Alta
+11029,56,38.0,20,Gnocchi di nonna Alice,5,CHOPS,1998-04-16,Grains/Cereals,760.0,1998-04,Media
+11029,63,43.9,12,Vegie-spread,2,CHOPS,1998-04-16,Condiments,526.8,1998-04,Media
+11030,2,19.0,100,Chang,1,SAVEA,1998-04-17,Beverages,1900.0,1998-04,Alta
+11030,5,21.35,70,Chef Anton's Gumbo Mix,2,SAVEA,1998-04-17,Condiments,1494.5,1998-04,Alta
+11030,29,123.79,60,Thüringer Rostbratwurst,6,SAVEA,1998-04-17,Meat/Poultry,7427.400000000001,1998-04,Alta
+11030,59,55.0,100,Raclette Courdavault,4,SAVEA,1998-04-17,Dairy Products,5500.0,1998-04,Alta
+11031,1,18.0,45,Chai,1,SAVEA,1998-04-17,Beverages,810.0,1998-04,Media
+11031,13,6.0,80,Konbu,8,SAVEA,1998-04-17,Seafood,480.0,1998-04,Media
+11031,24,4.5,21,Guaraná Fantástica,1,SAVEA,1998-04-17,Beverages,94.5,1998-04,Baja
+11031,64,33.25,20,Wimmers gute Semmelknödel,5,SAVEA,1998-04-17,Grains/Cereals,665.0,1998-04,Media
+11031,71,21.5,16,Flotemysost,4,SAVEA,1998-04-17,Dairy Products,344.0,1998-04,Media
+11032,36,19.0,35,Inlagd Sill,8,WHITC,1998-04-17,Seafood,665.0,1998-04,Media
+11032,38,263.5,25,Côte de Blaye,1,WHITC,1998-04-17,Beverages,6587.5,1998-04,Alta
+11032,59,55.0,30,Raclette Courdavault,4,WHITC,1998-04-17,Dairy Products,1650.0,1998-04,Alta
+11033,53,32.8,70,Perth Pasties,6,RICSU,1998-04-17,Meat/Poultry,2296.0,1998-04,Alta
+11033,69,36.0,36,Gudbrandsdalsost,4,RICSU,1998-04-17,Dairy Products,1296.0,1998-04,Alta
+11034,21,10.0,15,Sir Rodney's Scones,3,OLDWO,1998-04-20,Confections,150.0,1998-04,Media
+11034,44,19.45,12,Gula Malacca,2,OLDWO,1998-04-20,Condiments,233.4,1998-04,Media
+11034,61,28.5,6,Sirop d'érable,2,OLDWO,1998-04-20,Condiments,171.0,1998-04,Media
+11035,1,18.0,10,Chai,1,SUPRD,1998-04-20,Beverages,180.0,1998-04,Media
+11035,35,18.0,60,Steeleye Stout,1,SUPRD,1998-04-20,Beverages,1080.0,1998-04,Alta
+11035,42,14.0,30,Singaporean Hokkien Fried Mee,5,SUPRD,1998-04-20,Grains/Cereals,420.0,1998-04,Media
+11035,54,7.45,10,Tourtière,6,SUPRD,1998-04-20,Meat/Poultry,74.5,1998-04,Baja
+11036,13,6.0,7,Konbu,8,DRACD,1998-04-20,Seafood,42.0,1998-04,Baja
+11036,59,55.0,30,Raclette Courdavault,4,DRACD,1998-04-20,Dairy Products,1650.0,1998-04,Alta
+11037,70,15.0,4,Outback Lager,1,GODOS,1998-04-21,Beverages,60.0,1998-04,Baja
+11038,40,18.4,5,Boston Crab Meat,8,SUPRD,1998-04-21,Seafood,92.0,1998-04,Baja
+11038,52,7.0,2,Filo Mix,5,SUPRD,1998-04-21,Grains/Cereals,14.0,1998-04,Baja
+11038,71,21.5,30,Flotemysost,4,SUPRD,1998-04-21,Dairy Products,645.0,1998-04,Media
+11039,28,45.6,20,Rössle Sauerkraut,7,LINOD,1998-04-21,Produce,912.0,1998-04,Media
+11039,35,18.0,24,Steeleye Stout,1,LINOD,1998-04-21,Beverages,432.0,1998-04,Media
+11039,49,20.0,60,Maxilaku,3,LINOD,1998-04-21,Confections,1200.0,1998-04,Alta
+11039,57,19.5,28,Ravioli Angelo,5,LINOD,1998-04-21,Grains/Cereals,546.0,1998-04,Media
+11040,21,10.0,20,Sir Rodney's Scones,3,GREAL,1998-04-22,Confections,200.0,1998-04,Media
+11041,2,19.0,30,Chang,1,CHOPS,1998-04-22,Beverages,570.0,1998-04,Media
+11041,63,43.9,30,Vegie-spread,2,CHOPS,1998-04-22,Condiments,1317.0,1998-04,Alta
+11042,44,19.45,15,Gula Malacca,2,COMMI,1998-04-22,Condiments,291.75,1998-04,Media
+11042,61,28.5,4,Sirop d'érable,2,COMMI,1998-04-22,Condiments,114.0,1998-04,Media
+11043,11,21.0,10,Queso Cabrales,4,SPECD,1998-04-22,Dairy Products,210.0,1998-04,Media
+11044,62,49.3,12,Tarte au sucre,3,WOLZA,1998-04-23,Confections,591.5999999999999,1998-04,Media
+11045,33,2.5,15,Geitost,4,BOTTM,1998-04-23,Dairy Products,37.5,1998-04,Baja
+11045,51,53.0,24,Manjimup Dried Apples,7,BOTTM,1998-04-23,Produce,1272.0,1998-04,Alta
+11046,12,38.0,20,Queso Manchego La Pastora,4,WANDK,1998-04-23,Dairy Products,760.0,1998-04,Media
+11046,32,32.0,15,Mascarpone Fabioli,4,WANDK,1998-04-23,Dairy Products,480.0,1998-04,Media
+11046,35,18.0,18,Steeleye Stout,1,WANDK,1998-04-23,Beverages,324.0,1998-04,Media
+11047,1,18.0,25,Chai,1,EASTC,1998-04-24,Beverages,450.0,1998-04,Media
+11047,5,21.35,30,Chef Anton's Gumbo Mix,2,EASTC,1998-04-24,Condiments,640.5,1998-04,Media
+11048,68,12.5,42,Scottish Longbreads,3,BOTTM,1998-04-24,Confections,525.0,1998-04,Media
+11049,2,19.0,10,Chang,1,GOURL,1998-04-24,Beverages,190.0,1998-04,Media
+11049,12,38.0,4,Queso Manchego La Pastora,4,GOURL,1998-04-24,Dairy Products,152.0,1998-04,Media
+11050,76,18.0,50,Lakkalikööri,1,FOLKO,1998-04-27,Beverages,900.0,1998-04,Media
+11051,24,4.5,10,Guaraná Fantástica,1,LAMAI,1998-04-27,Beverages,45.0,1998-04,Baja
+11052,43,46.0,30,Ipoh Coffee,1,HANAR,1998-04-27,Beverages,1380.0,1998-04,Alta
+11052,61,28.5,10,Sirop d'érable,2,HANAR,1998-04-27,Condiments,285.0,1998-04,Media
+11053,18,62.5,35,Carnarvon Tigers,8,PICCO,1998-04-27,Seafood,2187.5,1998-04,Alta
+11053,32,32.0,20,Mascarpone Fabioli,4,PICCO,1998-04-27,Dairy Products,640.0,1998-04,Media
+11053,64,33.25,25,Wimmers gute Semmelknödel,5,PICCO,1998-04-27,Grains/Cereals,831.25,1998-04,Media
+11054,33,2.5,10,Geitost,4,CACTU,1998-04-28,Dairy Products,25.0,1998-04,Baja
+11054,67,14.0,20,Laughing Lumberjack Lager,1,CACTU,1998-04-28,Beverages,280.0,1998-04,Media
+11055,24,4.5,15,Guaraná Fantástica,1,HILAA,1998-04-28,Beverages,67.5,1998-04,Baja
+11055,25,14.0,15,NuNuCa Nuß-Nougat-Creme,3,HILAA,1998-04-28,Confections,210.0,1998-04,Media
+11055,51,53.0,20,Manjimup Dried Apples,7,HILAA,1998-04-28,Produce,1060.0,1998-04,Alta
+11055,57,19.5,20,Ravioli Angelo,5,HILAA,1998-04-28,Grains/Cereals,390.0,1998-04,Media
+11056,7,30.0,40,Uncle Bob's Organic Dried Pears,7,EASTC,1998-04-28,Produce,1200.0,1998-04,Alta
+11056,55,24.0,35,Pâté chinois,6,EASTC,1998-04-28,Meat/Poultry,840.0,1998-04,Media
+11056,60,34.0,50,Camembert Pierrot,4,EASTC,1998-04-28,Dairy Products,1700.0,1998-04,Alta
+11057,70,15.0,3,Outback Lager,1,NORTS,1998-04-29,Beverages,45.0,1998-04,Baja
+11058,21,10.0,3,Sir Rodney's Scones,3,BLAUS,1998-04-29,Confections,30.0,1998-04,Baja
+11058,60,34.0,21,Camembert Pierrot,4,BLAUS,1998-04-29,Dairy Products,714.0,1998-04,Media
+11058,61,28.5,4,Sirop d'érable,2,BLAUS,1998-04-29,Condiments,114.0,1998-04,Media
+11059,13,6.0,30,Konbu,8,RICAR,1998-04-29,Seafood,180.0,1998-04,Media
+11059,17,39.0,12,Alice Mutton,6,RICAR,1998-04-29,Meat/Poultry,468.0,1998-04,Media
+11059,60,34.0,35,Camembert Pierrot,4,RICAR,1998-04-29,Dairy Products,1190.0,1998-04,Alta
+11060,60,34.0,4,Camembert Pierrot,4,FRANS,1998-04-30,Dairy Products,136.0,1998-04,Media
+11060,77,13.0,10,Original Frankfurter grüne Soße,2,FRANS,1998-04-30,Condiments,130.0,1998-04,Media
+11061,60,34.0,15,Camembert Pierrot,4,GREAL,1998-04-30,Dairy Products,510.0,1998-04,Media
+11062,53,32.8,10,Perth Pasties,6,REGGC,1998-04-30,Meat/Poultry,328.0,1998-04,Media
+11062,70,15.0,12,Outback Lager,1,REGGC,1998-04-30,Beverages,180.0,1998-04,Media
+11063,34,14.0,30,Sasquatch Ale,1,HUNGO,1998-04-30,Beverages,420.0,1998-04,Media
+11063,40,18.4,40,Boston Crab Meat,8,HUNGO,1998-04-30,Seafood,736.0,1998-04,Media
+11063,41,9.65,30,Jack's New England Clam Chowder,8,HUNGO,1998-04-30,Seafood,289.5,1998-04,Media
+11064,17,39.0,77,Alice Mutton,6,SAVEA,1998-05-01,Meat/Poultry,3003.0,1998-05,Alta
+11064,41,9.65,12,Jack's New England Clam Chowder,8,SAVEA,1998-05-01,Seafood,115.8,1998-05,Media
+11064,53,32.8,25,Perth Pasties,6,SAVEA,1998-05-01,Meat/Poultry,819.9999999999999,1998-05,Media
+11064,55,24.0,4,Pâté chinois,6,SAVEA,1998-05-01,Meat/Poultry,96.0,1998-05,Baja
+11064,68,12.5,55,Scottish Longbreads,3,SAVEA,1998-05-01,Confections,687.5,1998-05,Media
+11065,30,25.89,4,Nord-Ost Matjeshering,8,LILAS,1998-05-01,Seafood,103.56,1998-05,Media
+11065,54,7.45,20,Tourtière,6,LILAS,1998-05-01,Meat/Poultry,149.0,1998-05,Media
+11066,16,17.45,3,Pavlova,3,WHITC,1998-05-01,Confections,52.35,1998-05,Baja
+11066,19,9.2,42,Teatime Chocolate Biscuits,3,WHITC,1998-05-01,Confections,386.4,1998-05,Media
+11066,34,14.0,35,Sasquatch Ale,1,WHITC,1998-05-01,Beverages,490.0,1998-05,Media
+11067,41,9.65,9,Jack's New England Clam Chowder,8,DRACD,1998-05-04,Seafood,86.85000000000001,1998-05,Baja
+11068,28,45.6,8,Rössle Sauerkraut,7,QUEEN,1998-05-04,Produce,364.8,1998-05,Media
+11068,43,46.0,36,Ipoh Coffee,1,QUEEN,1998-05-04,Beverages,1656.0,1998-05,Alta
+11068,77,13.0,28,Original Frankfurter grüne Soße,2,QUEEN,1998-05-04,Condiments,364.0,1998-05,Media
+11069,39,18.0,20,Chartreuse verte,1,TORTU,1998-05-04,Beverages,360.0,1998-05,Media
+11070,1,18.0,40,Chai,1,LEHMS,1998-05-05,Beverages,720.0,1998-05,Media
+11070,2,19.0,20,Chang,1,LEHMS,1998-05-05,Beverages,380.0,1998-05,Media
+11070,16,17.45,30,Pavlova,3,LEHMS,1998-05-05,Confections,523.5,1998-05,Media
+11070,31,12.5,20,Gorgonzola Telino,4,LEHMS,1998-05-05,Dairy Products,250.0,1998-05,Media
+11071,7,30.0,15,Uncle Bob's Organic Dried Pears,7,LILAS,1998-05-05,Produce,450.0,1998-05,Media
+11071,13,6.0,10,Konbu,8,LILAS,1998-05-05,Seafood,60.0,1998-05,Baja
+11072,2,19.0,8,Chang,1,ERNSH,1998-05-05,Beverages,152.0,1998-05,Media
+11072,41,9.65,40,Jack's New England Clam Chowder,8,ERNSH,1998-05-05,Seafood,386.0,1998-05,Media
+11072,50,16.25,22,Valkoinen suklaa,3,ERNSH,1998-05-05,Confections,357.5,1998-05,Media
+11072,64,33.25,130,Wimmers gute Semmelknödel,5,ERNSH,1998-05-05,Grains/Cereals,4322.5,1998-05,Alta
+11073,11,21.0,10,Queso Cabrales,4,PERIC,1998-05-05,Dairy Products,210.0,1998-05,Media
+11073,24,4.5,20,Guaraná Fantástica,1,PERIC,1998-05-05,Beverages,90.0,1998-05,Baja
+11074,16,17.45,14,Pavlova,3,SIMOB,1998-05-06,Confections,244.3,1998-05,Media
+11075,2,19.0,10,Chang,1,RICSU,1998-05-06,Beverages,190.0,1998-05,Media
+11075,46,12.0,30,Spegesild,8,RICSU,1998-05-06,Seafood,360.0,1998-05,Media
+11075,76,18.0,2,Lakkalikööri,1,RICSU,1998-05-06,Beverages,36.0,1998-05,Baja
+11076,6,25.0,20,Grandma's Boysenberry Spread,2,BONAP,1998-05-06,Condiments,500.0,1998-05,Media
+11076,14,23.25,20,Tofu,7,BONAP,1998-05-06,Produce,465.0,1998-05,Media
+11076,19,9.2,10,Teatime Chocolate Biscuits,3,BONAP,1998-05-06,Confections,92.0,1998-05,Baja
+11077,2,19.0,24,Chang,1,RATTC,1998-05-06,Beverages,456.0,1998-05,Media
+11077,3,10.0,4,Aniseed Syrup,2,RATTC,1998-05-06,Condiments,40.0,1998-05,Baja
+11077,4,22.0,1,Chef Anton's Cajun Seasoning,2,RATTC,1998-05-06,Condiments,22.0,1998-05,Baja
+11077,6,25.0,1,Grandma's Boysenberry Spread,2,RATTC,1998-05-06,Condiments,25.0,1998-05,Baja
+11077,7,30.0,1,Uncle Bob's Organic Dried Pears,7,RATTC,1998-05-06,Produce,30.0,1998-05,Baja
+11077,8,40.0,2,Northwoods Cranberry Sauce,2,RATTC,1998-05-06,Condiments,80.0,1998-05,Baja
+11077,10,31.0,1,Ikura,8,RATTC,1998-05-06,Seafood,31.0,1998-05,Baja
+11077,12,38.0,2,Queso Manchego La Pastora,4,RATTC,1998-05-06,Dairy Products,76.0,1998-05,Baja
+11077,13,6.0,4,Konbu,8,RATTC,1998-05-06,Seafood,24.0,1998-05,Baja
+11077,14,23.25,1,Tofu,7,RATTC,1998-05-06,Produce,23.25,1998-05,Baja
+11077,16,17.45,2,Pavlova,3,RATTC,1998-05-06,Confections,34.9,1998-05,Baja
+11077,20,81.0,1,Sir Rodney's Marmalade,3,RATTC,1998-05-06,Confections,81.0,1998-05,Baja
+11077,23,9.0,2,Tunnbröd,5,RATTC,1998-05-06,Grains/Cereals,18.0,1998-05,Baja
+11077,32,32.0,1,Mascarpone Fabioli,4,RATTC,1998-05-06,Dairy Products,32.0,1998-05,Baja
+11077,39,18.0,2,Chartreuse verte,1,RATTC,1998-05-06,Beverages,36.0,1998-05,Baja
+11077,41,9.65,3,Jack's New England Clam Chowder,8,RATTC,1998-05-06,Seafood,28.950000000000003,1998-05,Baja
+11077,46,12.0,3,Spegesild,8,RATTC,1998-05-06,Seafood,36.0,1998-05,Baja
+11077,52,7.0,2,Filo Mix,5,RATTC,1998-05-06,Grains/Cereals,14.0,1998-05,Baja
+11077,55,24.0,2,Pâté chinois,6,RATTC,1998-05-06,Meat/Poultry,48.0,1998-05,Baja
+11077,60,34.0,2,Camembert Pierrot,4,RATTC,1998-05-06,Dairy Products,68.0,1998-05,Baja
+11077,64,33.25,2,Wimmers gute Semmelknödel,5,RATTC,1998-05-06,Grains/Cereals,66.5,1998-05,Baja
+11077,66,17.0,1,Louisiana Hot Spiced Okra,2,RATTC,1998-05-06,Condiments,17.0,1998-05,Baja
+11077,73,15.0,2,Röd Kaviar,8,RATTC,1998-05-06,Seafood,30.0,1998-05,Baja
+11077,75,7.75,4,Rhönbräu Klosterbier,1,RATTC,1998-05-06,Beverages,31.0,1998-05,Baja
+11077,77,13.0,2,Original Frankfurter grüne Soße,2,RATTC,1998-05-06,Condiments,26.0,1998-05,Baja
