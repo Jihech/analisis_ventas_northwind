@@ -1,38 +1,37 @@
 # 📊 Proyecto de Análisis de Datos - Dataset Northwind
 
 ## 🧠 Descripción del proyecto
-Este proyecto consiste en un análisis de datos de ventas utilizando el dataset Northwind, aplicando un flujo completo de trabajo de un Data Analyst.
+En este proyecto analizo datos de ventas del dataset Northwind con el objetivo de entender el comportamiento de las ventas y obtener insights de negocio.
 
-Se desarrollan etapas de exploración, limpieza, transformación y análisis de datos para generar insights de negocio y preparar la información para su visualización en herramientas de Business Intelligence como Power BI.
+Sigo un flujo real de trabajo como Data Analyst: exploración de datos, limpieza, transformación, análisis y visualización, utilizando Python.
 
 ---
 
 ## 🎯 Objetivos del proyecto
-- Cargar y explorar datos de ventas usando Python (Pandas)
-- Realizar análisis exploratorio de datos (EDA)
-- Transformar y preparar datos para análisis
-- Identificar tendencias de ventas e insights de negocio
+- Explorar y entender los datos de ventas
+- Limpiar y preparar los datos para el análisis
+- Identificar tendencias y patrones importantes
 - Generar indicadores clave (KPIs)
-- Preparar datos para visualización en Power BI
+- Preparar la información para su visualización en Power BI
 
 ---
 
 ## 🧹 Calidad de los datos
 
-- No se encontraron valores nulos en el dataset.
-- No se encontraron registros duplicados.
-- El dataset presenta una estructura consistente para análisis.
+- No se encontraron valores nulos en el dataset
+- No se encontraron registros duplicados
+- El dataset presenta una estructura consistente para análisis
 
 ### ⚠️ Observación sobre tipos de datos
 Algunas columnas fueron cargadas como tipo `object`, principalmente:
 
-- fecha
-- Mes
-- clienteID
-- NombreProducto
-- NombreCategoria
+- `fecha`
+- `Mes`
+- `clienteID`
+- `NombreProducto`
+- `NombreCategoria`
 
-Estas columnas fueron transformadas durante la fase de limpieza para permitir un análisis correcto, especialmente en variables temporales.
+Durante la fase de limpieza, estas columnas fueron transformadas para asegurar un análisis correcto, especialmente en variables de tipo fecha.
 
 ---
 
@@ -46,6 +45,7 @@ Estas columnas fueron transformadas durante la fase de limpieza para permitir un
 - Power BI (visualización final)
 
 ---
+
 ## 📁 Estructura del proyecto
 ```
 analisis-ventas-northwind/
@@ -53,7 +53,7 @@ analisis-ventas-northwind/
 ├── data/
 │   ├── raw/
 │   │   └── ventas.csv
-│   └── processed/
+│   └── procesado/
 │       └── ventas_limpio.csv
 │
 ├── notebooks/
@@ -72,26 +72,27 @@ analisis-ventas-northwind/
 ---
 
 ## 📌 Progreso actual
-✔ Repositorio creado en GitHub  
-✔ Dataset cargado correctamente  
-✔ Exploración inicial de datos completada (Notebook 01)  
-✔ Limpieza y transformación de datos completada (Notebook 02)  
-✔ Dataset limpio generado (`ventas_limpio.csv`)  
-✔ Inicio del análisis de ventas (Notebook 03)  
+- Repositorio creado en GitHub  
+- Dataset cargado correctamente  
+- Exploración de datos completada (Notebook 01)  
+- Limpieza y transformación de datos completada (Notebook 02)  
+- Dataset limpio generado (`ventas_limpio.csv`)  
+- Análisis de ventas en desarrollo (Notebook 03)  
 
 ---
 
 ## 🚧 En proceso
-- Análisis de ventas (KPIs, productos, tendencias)
+- Análisis de ventas (KPIs, productos y tendencias)
+- Creación de visualizaciones con matplotlib
 
 ---
 
 ## 🚀 Próximos pasos
 - Finalizar análisis exploratorio (Notebook 03)
-- Generar visualizaciones de insights (Notebook 04)
+- Completar visualizaciones (Notebook 04)
 - Construcción de dashboard en Power BI
 
 ---
 
 ## 🧠 Nota
-Este proyecto simula un flujo real de trabajo en análisis de datos, desde la exploración hasta la generación de insights de negocio orientados a la toma de decisiones.
+Este proyecto simula un flujo real de trabajo en análisis de datos, desde la exploración hasta la generación de insights que pueden apoyar la toma de decisiones.
