@@ -1,18 +1,43 @@
 # 📊 Proyecto de Análisis de Ventas - Dataset Northwind
 
 ## 🧠 Descripción del proyecto
-Este proyecto es un análisis completo de datos de ventas utilizando el dataset Northwind.  
-El objetivo es practicar habilidades reales de análisis de datos, incluyendo limpieza de datos, análisis exploratorio (EDA) y visualización utilizando Python.
+Este proyecto es un análisis completo de datos de ventas utilizando el dataset Northwind.
 
---------------------------------------
+El objetivo es desarrollar un flujo de análisis de datos real aplicando:
+- Exploración de datos (EDA)
+- Limpieza y transformación
+- Análisis de ventas
+- Visualización de insights
+- Preparación para Power BI
 
-## 🎯 Objetivos
+---
+
+## 🎯 Objetivos del proyecto
 - Cargar y explorar datos de ventas usando Python (Pandas)
 - Realizar análisis exploratorio de datos (EDA)
-- Identificar tendencias de ventas e insights importantes
-- Preparar datos para herramientas de visualización como Power BI
+- Identificar tendencias de ventas e insights de negocio
+- Preparar datos para visualización en Power BI
+- Practicar un flujo completo de análisis de datos
 
---------------------------------------
+---
+
+## 🧹 Calidad de los datos
+
+- No se encontraron valores nulos en el dataset.
+- No se encontraron registros duplicados.
+- El dataset presenta una estructura consistente para análisis.
+
+### ⚠️ Observación sobre tipos de datos
+Algunas columnas fueron cargadas como tipo `object`, principalmente:
+- fecha
+- Mes
+- clienteID
+- NombreProducto
+- NombreCategoria
+
+Estas columnas serán transformadas en la fase de limpieza para asegurar un análisis correcto.
+
+---
 
 ## 🛠️ Herramientas utilizadas
 - Python
@@ -20,39 +45,50 @@ El objetivo es practicar habilidades reales de análisis de datos, incluyendo li
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- SQL Server (consultas de referencia)
+- SQL (consultas de apoyo)
 - Power BI (futuras visualizaciones)
 
---------------------------------------
+---
 
 ## 📁 Estructura del proyecto
-analisis-ventas-northwind/
 │
 ├── data/
-│ └── ventas.csv
+│ ├── raw/
+│ │ └── ventas.csv
+│ └── processed/
 │
 ├── notebooks/
-│ └── analisis.ipynb
+│ ├── 01_exploracion_datos.ipynb
+│ ├── 02_limpieza_datos.ipynb
+│ ├── 03_analisis_ventas.ipynb
+│ └── 04_visualizaciones.ipynb
 │
 ├── sql_scripts/
-│ └── queries.sql
-│
 ├── python/
-│ └── scripts.py
-│
-└── README.md
+├── powerbi/
+├── images/
+└── docs/
 
---------------------------------------
+
+---
 
 ## 📌 Progreso actual
-- Repositorio creado
-- Dataset cargado en Python
-- Exploración inicial de datos con Pandas
+✔ Repositorio creado en GitHub  
+✔ Dataset cargado correctamente  
+✔ Exploración inicial de datos completada (Notebook 01)  
+✔ Calidad de datos validada (sin nulos ni duplicados)  
+✔ Estructura del proyecto definida  
 
---------------------------------------
+---
 
 ## 🚀 Próximos pasos
-- Limpieza y tratamiento de datos
-- Análisis exploratorio (EDA)
-- Visualización de ventas con Matplotlib / Seaborn
-- Exportación de datos para Power BI
+- Limpieza y transformación de datos (Notebook 02)
+- Creación de nuevas variables (features)
+- Análisis exploratorio avanzado (Notebook 03)
+- Visualización de insights (Notebook 04)
+- Desarrollo de dashboard en Power BI
+
+---
+
+## 🧠 Nota
+Este proyecto simula un flujo real de trabajo en análisis de datos, desde la exploración hasta la visualización final de insights de negocio.
