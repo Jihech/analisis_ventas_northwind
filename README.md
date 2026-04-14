@@ -70,7 +70,6 @@ analisis-ventas-northwind/
 ```
 
 ---
-
 ## 📌 Progreso actual
 - Repositorio creado en GitHub  
 - Dataset cargado correctamente  
@@ -84,6 +83,17 @@ analisis-ventas-northwind/
 ## 🚧 En proceso
 - Análisis de ventas (KPIs, productos y tendencias)
 - Creación de visualizaciones con matplotlib
+
+---
+
+## 📊 Insights principales
+- Ventas por mes
+	- Las ventas muestran una tendencia general de crecimiento a lo largo del tiempo, evidenciando una evolución positiva del negocio
+	- A partir de 1998 se observa incremento significativo en el volumen de ventas, superando los $100k mensuales.
+	- Se detecta posible anomalía en el último mes (caída abrupta), que podrían estar relacionadas con datos incompletos o factores externos
+
+## 📌 Sugerencias
+- Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 
 ---
 
