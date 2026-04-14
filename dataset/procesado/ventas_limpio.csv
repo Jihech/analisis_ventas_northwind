@@ -280,7 +280,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10352,24,3.6,10,Guaraná Fantástica,1,FURIB,1996-11-12,Beverages,36.0,1996-11,Baja
 10352,54,5.9,20,Tourtière,6,FURIB,1996-11-12,Meat/Poultry,118.0,1996-11,Media
 10353,11,16.8,12,Queso Cabrales,4,PICCO,1996-11-13,Dairy Products,201.6,1996-11,Media
-10353,38,210.8,50,Côte de Blaye,1,PICCO,1996-11-13,Beverages,10540.0,1996-11,Alta
+10353,38,210.8,50,Côte de Blaye,1,PICCO,1996-11-13,Beverages,10540.0,1996-11,Muy Alta
 10354,1,14.4,12,Chai,1,PERIC,1996-11-14,Beverages,172.8,1996-11,Media
 10354,29,99.0,4,Thüringer Rostbratwurst,6,PERIC,1996-11-14,Meat/Poultry,396.0,1996-11,Media
 10355,24,3.6,25,Guaraná Fantástica,1,AROUT,1996-11-15,Beverages,90.0,1996-11,Baja
@@ -330,7 +330,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10370,74,8.0,20,Longlife Tofu,7,CHOPS,1996-12-03,Produce,160.0,1996-12,Media
 10371,36,15.2,6,Inlagd Sill,8,LAMAI,1996-12-03,Seafood,91.2,1996-12,Baja
 10372,20,64.8,12,Sir Rodney's Marmalade,3,QUEEN,1996-12-04,Confections,777.5999999999999,1996-12,Media
-10372,38,210.8,40,Côte de Blaye,1,QUEEN,1996-12-04,Beverages,8432.0,1996-12,Alta
+10372,38,210.8,40,Côte de Blaye,1,QUEEN,1996-12-04,Beverages,8432.0,1996-12,Muy Alta
 10372,60,27.2,70,Camembert Pierrot,4,QUEEN,1996-12-04,Dairy Products,1904.0,1996-12,Alta
 10372,72,27.8,42,Mozzarella di Giovanni,4,QUEEN,1996-12-04,Dairy Products,1167.6,1996-12,Alta
 10373,58,10.6,80,Escargots de Bourgogne,8,HUNGO,1996-12-05,Seafood,848.0,1996-12,Media
@@ -448,7 +448,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10416,19,7.3,20,Teatime Chocolate Biscuits,3,WARTH,1997-01-16,Confections,146.0,1997-01,Media
 10416,53,26.2,10,Perth Pasties,6,WARTH,1997-01-16,Meat/Poultry,262.0,1997-01,Media
 10416,57,15.6,20,Ravioli Angelo,5,WARTH,1997-01-16,Grains/Cereals,312.0,1997-01,Media
-10417,38,210.8,50,Côte de Blaye,1,SIMOB,1997-01-16,Beverages,10540.0,1997-01,Alta
+10417,38,210.8,50,Côte de Blaye,1,SIMOB,1997-01-16,Beverages,10540.0,1997-01,Muy Alta
 10417,46,9.6,2,Spegesild,8,SIMOB,1997-01-16,Seafood,19.2,1997-01,Baja
 10417,68,10.0,36,Scottish Longbreads,3,SIMOB,1997-01-16,Confections,360.0,1997-01,Media
 10417,77,10.4,35,Original Frankfurter grüne Soße,2,SIMOB,1997-01-16,Condiments,364.0,1997-01,Media
@@ -470,7 +470,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10423,31,10.0,14,Gorgonzola Telino,4,GOURL,1997-01-23,Dairy Products,140.0,1997-01,Media
 10423,59,44.0,20,Raclette Courdavault,4,GOURL,1997-01-23,Dairy Products,880.0,1997-01,Media
 10424,35,14.4,60,Steeleye Stout,1,MEREP,1997-01-23,Beverages,864.0,1997-01,Media
-10424,38,210.8,49,Côte de Blaye,1,MEREP,1997-01-23,Beverages,10329.2,1997-01,Alta
+10424,38,210.8,49,Côte de Blaye,1,MEREP,1997-01-23,Beverages,10329.2,1997-01,Muy Alta
 10424,68,10.0,30,Scottish Longbreads,3,MEREP,1997-01-23,Confections,300.0,1997-01,Media
 10425,55,19.2,10,Pâté chinois,6,LAMAI,1997-01-24,Meat/Poultry,192.0,1997-01,Media
 10425,76,14.4,20,Lakkalikööri,1,LAMAI,1997-01-24,Beverages,288.0,1997-01,Media
@@ -612,7 +612,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10477,21,8.0,21,Sir Rodney's Scones,3,PRINI,1997-03-17,Confections,168.0,1997-03,Media
 10477,39,14.4,20,Chartreuse verte,1,PRINI,1997-03-17,Beverages,288.0,1997-03,Media
 10478,10,24.8,20,Ikura,8,VICTE,1997-03-18,Seafood,496.0,1997-03,Media
-10479,38,210.8,30,Côte de Blaye,1,RATTC,1997-03-19,Beverages,6324.0,1997-03,Alta
+10479,38,210.8,30,Côte de Blaye,1,RATTC,1997-03-19,Beverages,6324.0,1997-03,Muy Alta
 10479,53,26.2,28,Perth Pasties,6,RATTC,1997-03-19,Meat/Poultry,733.6,1997-03,Media
 10479,59,44.0,60,Raclette Courdavault,4,RATTC,1997-03-19,Dairy Products,2640.0,1997-03,Alta
 10479,64,26.6,30,Wimmers gute Semmelknödel,5,RATTC,1997-03-19,Grains/Cereals,798.0,1997-03,Media
@@ -702,7 +702,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10514,75,7.75,50,Rhönbräu Klosterbier,1,ERNSH,1997-04-22,Beverages,387.5,1997-04,Media
 10515,9,97.0,16,Mishi Kobe Niku,6,QUICK,1997-04-23,Meat/Poultry,1552.0,1997-04,Alta
 10515,16,17.45,50,Pavlova,3,QUICK,1997-04-23,Confections,872.5,1997-04,Media
-10515,27,43.9,120,Schoggi Schokolade,3,QUICK,1997-04-23,Confections,5268.0,1997-04,Alta
+10515,27,43.9,120,Schoggi Schokolade,3,QUICK,1997-04-23,Confections,5268.0,1997-04,Muy Alta
 10515,33,2.5,16,Geitost,4,QUICK,1997-04-23,Dairy Products,40.0,1997-04,Baja
 10515,60,34.0,84,Camembert Pierrot,4,QUICK,1997-04-23,Dairy Products,2856.0,1997-04,Alta
 10516,18,62.5,25,Carnarvon Tigers,8,HUNGO,1997-04-24,Seafood,1562.5,1997-04,Alta
@@ -781,7 +781,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10539,49,20.0,6,Maxilaku,3,BSBEV,1997-05-16,Confections,120.0,1997-05,Media
 10540,3,10.0,60,Aniseed Syrup,2,QUICK,1997-05-19,Condiments,600.0,1997-05,Media
 10540,26,31.23,40,Gumbär Gummibärchen,3,QUICK,1997-05-19,Confections,1249.2,1997-05,Alta
-10540,38,263.5,30,Côte de Blaye,1,QUICK,1997-05-19,Beverages,7905.0,1997-05,Alta
+10540,38,263.5,30,Côte de Blaye,1,QUICK,1997-05-19,Beverages,7905.0,1997-05,Muy Alta
 10540,68,12.5,35,Scottish Longbreads,3,QUICK,1997-05-19,Confections,437.5,1997-05,Media
 10541,24,4.5,35,Guaraná Fantástica,1,HANAR,1997-05-19,Beverages,157.5,1997-05,Media
 10541,38,263.5,4,Côte de Blaye,1,HANAR,1997-05-19,Beverages,1054.0,1997-05,Alta
@@ -1390,7 +1390,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10776,31,12.5,16,Gorgonzola Telino,4,ERNSH,1997-12-15,Dairy Products,200.0,1997-12,Media
 10776,42,14.0,12,Singaporean Hokkien Fried Mee,5,ERNSH,1997-12-15,Grains/Cereals,168.0,1997-12,Media
 10776,45,9.5,27,Rogede sild,8,ERNSH,1997-12-15,Seafood,256.5,1997-12,Media
-10776,51,53.0,120,Manjimup Dried Apples,7,ERNSH,1997-12-15,Produce,6360.0,1997-12,Alta
+10776,51,53.0,120,Manjimup Dried Apples,7,ERNSH,1997-12-15,Produce,6360.0,1997-12,Muy Alta
 10777,42,14.0,20,Singaporean Hokkien Fried Mee,5,GOURL,1997-12-15,Grains/Cereals,280.0,1997-12,Media
 10778,41,9.65,10,Jack's New England Clam Chowder,8,BERGS,1997-12-16,Seafood,96.5,1997-12,Baja
 10779,16,17.45,20,Pavlova,3,MORGK,1997-12-16,Confections,349.0,1997-12,Media
@@ -1482,10 +1482,10 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10814,48,12.75,8,Chocolade,3,VICTE,1998-01-05,Confections,102.0,1998-01,Media
 10814,61,28.5,30,Sirop d'érable,2,VICTE,1998-01-05,Condiments,855.0,1998-01,Media
 10815,33,2.5,16,Geitost,4,SAVEA,1998-01-05,Dairy Products,40.0,1998-01,Baja
-10816,38,263.5,30,Côte de Blaye,1,GREAL,1998-01-06,Beverages,7905.0,1998-01,Alta
+10816,38,263.5,30,Côte de Blaye,1,GREAL,1998-01-06,Beverages,7905.0,1998-01,Muy Alta
 10816,62,49.3,20,Tarte au sucre,3,GREAL,1998-01-06,Confections,986.0,1998-01,Media
 10817,26,31.23,40,Gumbär Gummibärchen,3,KOENE,1998-01-06,Confections,1249.2,1998-01,Alta
-10817,38,263.5,30,Côte de Blaye,1,KOENE,1998-01-06,Beverages,7905.0,1998-01,Alta
+10817,38,263.5,30,Côte de Blaye,1,KOENE,1998-01-06,Beverages,7905.0,1998-01,Muy Alta
 10817,40,18.4,60,Boston Crab Meat,8,KOENE,1998-01-06,Seafood,1104.0,1998-01,Alta
 10817,62,49.3,25,Tarte au sucre,3,KOENE,1998-01-06,Confections,1232.5,1998-01,Alta
 10818,32,32.0,20,Mascarpone Fabioli,4,MAGAA,1998-01-07,Dairy Products,640.0,1998-01,Media
@@ -1619,7 +1619,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10863,58,13.25,12,Escargots de Bourgogne,8,HILAA,1998-02-02,Seafood,159.0,1998-02,Media
 10864,35,18.0,4,Steeleye Stout,1,AROUT,1998-02-02,Beverages,72.0,1998-02,Baja
 10864,67,14.0,15,Laughing Lumberjack Lager,1,AROUT,1998-02-02,Beverages,210.0,1998-02,Media
-10865,38,263.5,60,Côte de Blaye,1,QUICK,1998-02-02,Beverages,15810.0,1998-02,Alta
+10865,38,263.5,60,Côte de Blaye,1,QUICK,1998-02-02,Beverages,15810.0,1998-02,Muy Alta
 10865,39,18.0,80,Chartreuse verte,1,QUICK,1998-02-02,Beverages,1440.0,1998-02,Alta
 10866,2,19.0,21,Chang,1,BERGS,1998-02-03,Beverages,399.0,1998-02,Media
 10866,24,4.5,6,Guaraná Fantástica,1,BERGS,1998-02-03,Beverages,27.0,1998-02,Baja
@@ -1677,7 +1677,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10888,2,19.0,20,Chang,1,GODOS,1998-02-16,Beverages,380.0,1998-02,Media
 10888,68,12.5,18,Scottish Longbreads,3,GODOS,1998-02-16,Confections,225.0,1998-02,Media
 10889,11,21.0,40,Queso Cabrales,4,RATTC,1998-02-16,Dairy Products,840.0,1998-02,Media
-10889,38,263.5,40,Côte de Blaye,1,RATTC,1998-02-16,Beverages,10540.0,1998-02,Alta
+10889,38,263.5,40,Côte de Blaye,1,RATTC,1998-02-16,Beverages,10540.0,1998-02,Muy Alta
 10890,17,39.0,15,Alice Mutton,6,DUMON,1998-02-16,Meat/Poultry,585.0,1998-02,Media
 10890,34,14.0,10,Sasquatch Ale,1,DUMON,1998-02-16,Beverages,140.0,1998-02,Media
 10890,41,9.65,14,Jack's New England Clam Chowder,8,DUMON,1998-02-16,Seafood,135.1,1998-02,Media
@@ -1697,7 +1697,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10895,60,34.0,100,Camembert Pierrot,4,ERNSH,1998-02-18,Dairy Products,3400.0,1998-02,Alta
 10896,45,9.5,15,Rogede sild,8,MAISD,1998-02-19,Seafood,142.5,1998-02,Media
 10896,56,38.0,16,Gnocchi di nonna Alice,5,MAISD,1998-02-19,Grains/Cereals,608.0,1998-02,Media
-10897,29,123.79,80,Thüringer Rostbratwurst,6,HUNGO,1998-02-19,Meat/Poultry,9903.2,1998-02,Alta
+10897,29,123.79,80,Thüringer Rostbratwurst,6,HUNGO,1998-02-19,Meat/Poultry,9903.2,1998-02,Muy Alta
 10897,30,25.89,36,Nord-Ost Matjeshering,8,HUNGO,1998-02-19,Seafood,932.04,1998-02,Media
 10898,13,6.0,5,Konbu,8,OCEAN,1998-02-20,Seafood,30.0,1998-02,Baja
 10899,39,18.0,8,Chartreuse verte,1,LILAS,1998-02-20,Beverages,144.0,1998-02,Media
@@ -1726,7 +1726,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10911,17,39.0,12,Alice Mutton,6,GODOS,1998-02-26,Meat/Poultry,468.0,1998-02,Media
 10911,67,14.0,15,Laughing Lumberjack Lager,1,GODOS,1998-02-26,Beverages,210.0,1998-02,Media
 10912,11,21.0,40,Queso Cabrales,4,HUNGO,1998-02-26,Dairy Products,840.0,1998-02,Media
-10912,29,123.79,60,Thüringer Rostbratwurst,6,HUNGO,1998-02-26,Meat/Poultry,7427.400000000001,1998-02,Alta
+10912,29,123.79,60,Thüringer Rostbratwurst,6,HUNGO,1998-02-26,Meat/Poultry,7427.400000000001,1998-02,Muy Alta
 10913,4,22.0,30,Chef Anton's Cajun Seasoning,2,QUEEN,1998-02-26,Condiments,660.0,1998-02,Media
 10913,33,2.5,40,Geitost,4,QUEEN,1998-02-26,Dairy Products,100.0,1998-02,Baja
 10913,58,13.25,15,Escargots de Bourgogne,8,QUEEN,1998-02-26,Seafood,198.75,1998-02,Media
@@ -1892,7 +1892,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10979,31,12.5,24,Gorgonzola Telino,4,ERNSH,1998-03-26,Dairy Products,300.0,1998-03,Media
 10979,63,43.9,35,Vegie-spread,2,ERNSH,1998-03-26,Condiments,1536.5,1998-03,Alta
 10980,75,7.75,40,Rhönbräu Klosterbier,1,FOLKO,1998-03-27,Beverages,310.0,1998-03,Media
-10981,38,263.5,60,Côte de Blaye,1,HANAR,1998-03-27,Beverages,15810.0,1998-03,Alta
+10981,38,263.5,60,Côte de Blaye,1,HANAR,1998-03-27,Beverages,15810.0,1998-03,Muy Alta
 10982,7,30.0,20,Uncle Bob's Organic Dried Pears,7,BOTTM,1998-03-27,Produce,600.0,1998-03,Media
 10982,43,46.0,9,Ipoh Coffee,1,BOTTM,1998-03-27,Beverages,414.0,1998-03,Media
 10983,13,6.0,84,Konbu,8,SAVEA,1998-03-27,Seafood,504.0,1998-03,Media
@@ -1923,7 +1923,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 10991,70,15.0,20,Outback Lager,1,QUICK,1998-04-01,Beverages,300.0,1998-04,Media
 10991,76,18.0,90,Lakkalikööri,1,QUICK,1998-04-01,Beverages,1620.0,1998-04,Alta
 10992,72,34.8,2,Mozzarella di Giovanni,4,THEBI,1998-04-01,Dairy Products,69.6,1998-04,Baja
-10993,29,123.79,50,Thüringer Rostbratwurst,6,FOLKO,1998-04-01,Meat/Poultry,6189.5,1998-04,Alta
+10993,29,123.79,50,Thüringer Rostbratwurst,6,FOLKO,1998-04-01,Meat/Poultry,6189.5,1998-04,Muy Alta
 10993,41,9.65,35,Jack's New England Clam Chowder,8,FOLKO,1998-04-01,Seafood,337.75,1998-04,Media
 10994,59,55.0,18,Raclette Courdavault,4,VAFFE,1998-04-02,Dairy Products,990.0,1998-04,Media
 10995,51,53.0,20,Manjimup Dried Apples,7,PERIC,1998-04-02,Produce,1060.0,1998-04,Alta
@@ -1985,7 +1985,7 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 11016,31,12.5,15,Gorgonzola Telino,4,AROUT,1998-04-10,Dairy Products,187.5,1998-04,Media
 11016,36,19.0,16,Inlagd Sill,8,AROUT,1998-04-10,Seafood,304.0,1998-04,Media
 11017,3,10.0,25,Aniseed Syrup,2,ERNSH,1998-04-13,Condiments,250.0,1998-04,Media
-11017,59,55.0,110,Raclette Courdavault,4,ERNSH,1998-04-13,Dairy Products,6050.0,1998-04,Alta
+11017,59,55.0,110,Raclette Courdavault,4,ERNSH,1998-04-13,Dairy Products,6050.0,1998-04,Muy Alta
 11017,70,15.0,30,Outback Lager,1,ERNSH,1998-04-13,Beverages,450.0,1998-04,Media
 11018,12,38.0,20,Queso Manchego La Pastora,4,LONEP,1998-04-13,Dairy Products,760.0,1998-04,Media
 11018,18,62.5,10,Carnarvon Tigers,8,LONEP,1998-04-13,Seafood,625.0,1998-04,Media
@@ -2018,15 +2018,15 @@ ordenID,productoID,UnitPrice,Quantity,NombreProducto,categoriaID,clienteID,fecha
 11029,63,43.9,12,Vegie-spread,2,CHOPS,1998-04-16,Condiments,526.8,1998-04,Media
 11030,2,19.0,100,Chang,1,SAVEA,1998-04-17,Beverages,1900.0,1998-04,Alta
 11030,5,21.35,70,Chef Anton's Gumbo Mix,2,SAVEA,1998-04-17,Condiments,1494.5,1998-04,Alta
-11030,29,123.79,60,Thüringer Rostbratwurst,6,SAVEA,1998-04-17,Meat/Poultry,7427.400000000001,1998-04,Alta
-11030,59,55.0,100,Raclette Courdavault,4,SAVEA,1998-04-17,Dairy Products,5500.0,1998-04,Alta
+11030,29,123.79,60,Thüringer Rostbratwurst,6,SAVEA,1998-04-17,Meat/Poultry,7427.400000000001,1998-04,Muy Alta
+11030,59,55.0,100,Raclette Courdavault,4,SAVEA,1998-04-17,Dairy Products,5500.0,1998-04,Muy Alta
 11031,1,18.0,45,Chai,1,SAVEA,1998-04-17,Beverages,810.0,1998-04,Media
 11031,13,6.0,80,Konbu,8,SAVEA,1998-04-17,Seafood,480.0,1998-04,Media
 11031,24,4.5,21,Guaraná Fantástica,1,SAVEA,1998-04-17,Beverages,94.5,1998-04,Baja
 11031,64,33.25,20,Wimmers gute Semmelknödel,5,SAVEA,1998-04-17,Grains/Cereals,665.0,1998-04,Media
 11031,71,21.5,16,Flotemysost,4,SAVEA,1998-04-17,Dairy Products,344.0,1998-04,Media
 11032,36,19.0,35,Inlagd Sill,8,WHITC,1998-04-17,Seafood,665.0,1998-04,Media
-11032,38,263.5,25,Côte de Blaye,1,WHITC,1998-04-17,Beverages,6587.5,1998-04,Alta
+11032,38,263.5,25,Côte de Blaye,1,WHITC,1998-04-17,Beverages,6587.5,1998-04,Muy Alta
 11032,59,55.0,30,Raclette Courdavault,4,WHITC,1998-04-17,Dairy Products,1650.0,1998-04,Alta
 11033,53,32.8,70,Perth Pasties,6,RICSU,1998-04-17,Meat/Poultry,2296.0,1998-04,Alta
 11033,69,36.0,36,Gudbrandsdalsost,4,RICSU,1998-04-17,Dairy Products,1296.0,1998-04,Alta
