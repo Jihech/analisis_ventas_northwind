@@ -24,7 +24,7 @@ Se desarrollan etapas de exploración, limpieza, transformación y análisis de 
 - El dataset presenta una estructura consistente para análisis.
 
 ### ⚠️ Observación sobre tipos de datos
-Algunas columnas fueron cargadas como tipo "object", principalmente:
+Algunas columnas fueron cargadas como tipo `object`, principalmente:
 
 - fecha
 - Mes
@@ -47,26 +47,27 @@ Estas columnas fueron transformadas durante la fase de limpieza para permitir un
 
 ---
 ## 📁 Estructura del proyecto
-
+```
 analisis-ventas-northwind/
 │
 ├── data/
-│ ├── raw/
-│ │ └── ventas.csv
-│ └── processed/
-│ └── ventas_limpio.csv
+│   ├── raw/
+│   │   └── ventas.csv
+│   └── processed/
+│       └── ventas_limpio.csv
 │
 ├── notebooks/
-│ ├── 01_exploracion_datos.ipynb
-│ ├── 02_limpieza_datos.ipynb
-│ ├── 03_analisis_ventas.ipynb
-│ └── 04_visualizaciones.ipynb
+│   ├── 01_exploracion_datos.ipynb
+│   ├── 02_limpieza_datos.ipynb
+│   ├── 03_analisis_ventas.ipynb
+│   └── 04_visualizaciones.ipynb
 │
 ├── sql_scripts/
 ├── python/
 ├── powerbi/
 ├── images/
 └── docs/
+```
 
 ---
 
