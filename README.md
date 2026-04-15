@@ -110,6 +110,9 @@ analisis-ventas-northwind/
 - Comparación de Categorias con menores ventas vs la categoria lider
 	- Existe una brecha significativa entre *Beverages* y categorías como *Condiments*, *Grains/Cereals* y *Produce*, las cuales presentan un crecimiento más limitado y menor impacto en los ingresos.
 
+- Evolución de productos más vendidos 
+	- Los productos líderes presentan ventas con alta variabilidad, dependiendo de picos de demanda más que de un crecimiento sostenido.
+
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
@@ -118,6 +121,7 @@ analisis-ventas-northwind/
 - Analizar el crecimiento en 1998, como *Beverages* y *Dairy Products* para identificar los factores que impulsaron su crecimiento y replicar la estrategia en otras categorias, validar datos de mayo de 1998.
 - Analizar la variabilidad en categorías como *Confections* y *Meat/Poultry*, y replicar estrategias de categorías líderes como *Beverages* y *Dairy Products* para lograr un crecimiento más estable.
 - Se sugiere impulsar las estrategias en categorias de menor desempeño para diversificar los ingresos y reducir la dependencia de las categorias lideres. 
+- Analizar los factores que impulsan los picos de ventas para mejorar la estabilidad en el tiempo.
 
 ---
 
