@@ -107,6 +107,9 @@ analisis-ventas-northwind/
 - Top  categorias con mayor ventas en el tiempo
 	- Las categorías líderes como *Beverages* y *Dairy Products* impulsan los principales picos de ventas, mientras que otras como *Confections* y *Meat/Poultry* presentan mayor variabilidad.
 
+- Comparación de Categorias con menores ventas vs la categoria lider
+	- Existe una brecha significativa entre *Beverages* y categorías como *Condiments*, *Grains/Cereals* y *Produce*, las cuales presentan un crecimiento más limitado y menor impacto en los ingresos.
+
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
@@ -114,6 +117,7 @@ analisis-ventas-northwind/
 - Se recomienda asegurar la disponibilidad y stock los productos de mayor volumen en ventas, clave para mantener el flujo connstante de ventas.
 - Analizar el crecimiento en 1998, como *Beverages* y *Dairy Products* para identificar los factores que impulsaron su crecimiento y replicar la estrategia en otras categorias, validar datos de mayo de 1998.
 - Analizar la variabilidad en categorías como *Confections* y *Meat/Poultry*, y replicar estrategias de categorías líderes como *Beverages* y *Dairy Products* para lograr un crecimiento más estable.
+- Se sugiere impulsar las estrategias en categorias de menor desempeño para diversificar los ingresos y reducir la dependencia de las categorias lideres. 
 
 ---
 
