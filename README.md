@@ -95,9 +95,13 @@ analisis-ventas-northwind/
 - Top 10 productos por ventas
 	- Se observa que las ventas están altamente concentradas en pocos productos, destacando *Côte de Blaye* como el principal generador de ingresos, con una diferencia significativa frente al resto.
 	
+- Ventar por categoria
+	- Las ventas están distribuidas entre varias categorías, destacando *Beverages* y *Dairy Products* como las de mayor aporte a los ingresos, ambas superando los $250k.
+
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
+- Se sugiere fortalecer las categorias con mayor aporte como *Beverages* y *Dairy Products*, aprovechando su alta demanda para impulsar estrategias de crecimiento y fidelización.
 
 ---
 
