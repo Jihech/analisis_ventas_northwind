@@ -113,6 +113,9 @@ analisis-ventas-northwind/
 - Evolución de productos más vendidos 
 	- Los productos líderes presentan ventas con alta variabilidad, dependiendo de picos de demanda más que de un crecimiento sostenido.
 
+- Crecimiento porcentual de ventas mensuales
+	- El crecimiento de las ventas presenta alta volatilidad, con picos positivos y caídas pronunciadas, lo que indica un comportamiento irregular en el tiempo.
+
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
@@ -122,6 +125,7 @@ analisis-ventas-northwind/
 - Analizar la variabilidad en categorías como *Confections* y *Meat/Poultry*, y replicar estrategias de categorías líderes como *Beverages* y *Dairy Products* para lograr un crecimiento más estable.
 - Se sugiere impulsar las estrategias en categorias de menor desempeño para diversificar los ingresos y reducir la dependencia de las categorias lideres. 
 - Analizar los factores que impulsan los picos de ventas para mejorar la estabilidad en el tiempo.
+- Evaluar los factores de crecimiento y caída para mejorar la estabilidad y validar posibles anomalías en los datos del último mes.
 
 ---
 
