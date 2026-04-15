@@ -86,7 +86,7 @@ analisis-ventas-northwind/
 
 ---
 
-## 📊 Insights principales
+## 📊 Insights del análisis de ventas
 - Ventas por mes
 	- Las ventas muestran una tendencia general de crecimiento a lo largo del tiempo, evidenciando una evolución positiva del negocio
 	- A partir de 1998 se observa incremento significativo en el volumen de ventas, superando los $100k mensuales.
@@ -98,11 +98,15 @@ analisis-ventas-northwind/
 - Ventar por categoria
 	- Las ventas están distribuidas entre varias categorías, destacando *Beverages* y *Dairy Products* como las de mayor aporte a los ingresos, ambas superando los $250k.
 
+- Top 10 productos más vendidos
+	- Los productos con mayor volumen en ventas están liderados por *Camembert Pierro*, *Raclette Courdavault* lo que indica una alta demanda en términos de unidades.
+
+
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
 - Se sugiere fortalecer las categorias con mayor aporte como *Beverages* y *Dairy Products*, aprovechando su alta demanda para impulsar estrategias de crecimiento y fidelización.
-
+- Se recomienda asegurar la disponibilidad y stock los productos de mayor volumen en ventas, clave para mantener el flujo connstante de ventas.
 ---
 
 ## 🚀 Próximos pasos
