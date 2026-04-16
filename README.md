@@ -48,6 +48,7 @@ Durante la fase de limpieza, estas columnas fueron transformadas para asegurar u
 
 ## 📁 Estructura del proyecto
 ```
+```
 analisis-ventas-northwind/
 │
 ├── dataset/
@@ -74,7 +75,16 @@ analisis-ventas-northwind/
 │   └── 09_crecimiento_porcentual.sql
 │
 ├── python/
+│   ├── carga/
+│   │   ├── __init__.py
+│   │   └── cargar_datos.py
+│   │
+│   └── limpieza/
+│       ├── __init__.py
+│       └── limpieza_datos.py
+│
 ├── powerbi/
+│
 ├── imagenes/
 │   ├── sql_resultados/
 │   │   ├── 01_venta_por_mes.png
@@ -88,7 +98,7 @@ analisis-ventas-northwind/
 │   │   └── 09_crecimiento_porcentual.png
 │   │
 │   └── powerbi_resultados/
-│   
+│
 └── docs/
 
 ```
