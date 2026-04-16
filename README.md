@@ -74,11 +74,15 @@ analisis-ventas-northwind/
 │   └── 09_crecimiento_porcentual.sql
 │
 ├── python/
-│   ├── carga/
+│   ├── 01_carga/
 │   │   ├── __init__.py
 │   │   └── cargar_datos.py
 │   │
-│   └── limpieza/
+│   ├── 02_eda/
+│   │   ├── __init__.py
+│   │   └── exploracion_datos.py
+│   │
+│   └── 03_limpieza/
 │       ├── __init__.py
 │       └── limpieza_datos.py
 │
