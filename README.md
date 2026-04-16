@@ -50,7 +50,7 @@ Durante la fase de limpieza, estas columnas fueron transformadas para asegurar u
 ```
 analisis-ventas-northwind/
 │
-├── data/
+├── dataset/
 │   ├── raw/
 │   │   └── ventas.csv
 │   └── procesado/
@@ -76,13 +76,16 @@ analisis-ventas-northwind/
 - Exploración de datos completada (Notebook 01)  
 - Limpieza y transformación de datos completada (Notebook 02)  
 - Dataset limpio generado (`ventas_limpio.csv`)  
-- Análisis de ventas en desarrollo (Notebook 03)  
+- Análisis de ventas (Notebook 03) 
+- Análisis de ventas y visualizaciones con matplotlib (Notebook 04)
+- Insights de las visualizaciones (Notebook 04)
 
 ---
 
 ## 🚧 En proceso
 - Análisis de ventas (KPIs, productos y tendencias)
 - Creación de visualizaciones con matplotlib
+- Querys de SQL Server
 
 ---
 
@@ -118,13 +121,21 @@ analisis-ventas-northwind/
 
 ## 📌 Sugerencias
 - Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
+
 - Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
+
 - Se sugiere fortalecer las categorias con mayor aporte como *Beverages* y *Dairy Products*, aprovechando su alta demanda para impulsar estrategias de crecimiento y fidelización.
+
 - Se recomienda asegurar la disponibilidad y stock los productos de mayor volumen en ventas, clave para mantener el flujo connstante de ventas.
+
 - Analizar el crecimiento en 1998, como *Beverages* y *Dairy Products* para identificar los factores que impulsaron su crecimiento y replicar la estrategia en otras categorias, validar datos de mayo de 1998.
+
 - Analizar la variabilidad en categorías como *Confections* y *Meat/Poultry*, y replicar estrategias de categorías líderes como *Beverages* y *Dairy Products* para lograr un crecimiento más estable.
+
 - Se sugiere impulsar las estrategias en categorias de menor desempeño para diversificar los ingresos y reducir la dependencia de las categorias lideres. 
+
 - Analizar los factores que impulsan los picos de ventas para mejorar la estabilidad en el tiempo.
+
 - Evaluar los factores de crecimiento y caída para mejorar la estabilidad y validar posibles anomalías en los datos del último mes.
 
 ---
