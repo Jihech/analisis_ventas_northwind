@@ -48,7 +48,6 @@ Durante la fase de limpieza, estas columnas fueron transformadas para asegurar u
 
 ## 📁 Estructura del proyecto
 ```
-```
 analisis-ventas-northwind/
 │
 ├── dataset/
