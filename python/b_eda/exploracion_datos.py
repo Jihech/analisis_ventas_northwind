@@ -1,47 +1,47 @@
 import pandas as pd
 
-def info_general(df: pd.DataFrame) -> None:
-    """ Muestra la información del DataFrame """
+def f_info_general(df: pd.DataFrame) -> None:
+    # Muestra la información del DataFrame 
     print('Información General\n')
     df.info()
     
-def contar_nulos(df: pd.DataFrame) -> pd.Series:
-    """Retorna cantidad de valores NULOS por columna """
-    print('Valores NULL \n')
+def f_contar_nulos(df: pd.DataFrame) -> pd.Series:
+    # Retorna cantidad de valores NULOS por columna
+    print('Recuento de valores NULL \n')
     return df.isnull().sum()
 
-def estadistica(df: pd.DataFrame) -> pd.DataFrame:
-    """ Retorna estadísticas descriptivas """
+def f_estadistica(df: pd.DataFrame) -> pd.DataFrame:
+    # Retorna estadísticas descriptivas
     print('Estadistica descriptiva\n')
     return df.describe()
 
-def contar_duplicados(df: pd.DataFrame) -> int:
-    """ Retorna la cantidad de filas duplicadas"""
+def f_contar_duplicados(df: pd.DataFrame) -> int:
+    # Retorna la cantidad de filas duplicadas
     print('Duplicados')
     return df.duplicated().sum()
 
-def columnas(df: pd.DataFrame) -> list:
-    """ Retorna lista de columnas """
+def f_columnas(df: pd.DataFrame) -> list:
+    # Retorna lista de columnas 
     print('Columnas del archivo \n')
     return df.columns
 
-def resumen_eda(df: pd.DataFrame) -> None:
-    info_general(df)
+def f_resumen_eda(df: pd.DataFrame) -> None:
+    f_info_general(df)
     
     print('\n\n')
-    nulos = contar_nulos(df)
+    nulos = f_contar_nulos(df)
     print(nulos)
     
     print('\n\n')
-    stats = estadistica(df)
+    stats = f_estadistica(df)
     print(stats)
     
     print('\n\n')
-    doble = contar_duplicados(df)
+    doble = f_contar_duplicados(df)
     print(doble)
     
     print('\n\n')
-    print(columnas(df))
+    print(f_columnas(df))
     
     
     
