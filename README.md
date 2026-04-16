@@ -63,10 +63,34 @@ analisis-ventas-northwind/
 │   └── 04_visualizaciones.ipynb
 │
 ├── sql_scripts/
+│   ├── 01_ventas_por_mes.sql
+│   ├── 02_top_10_productos_por_ventas.sql
+│   ├── 03_ventas_por_categoria.sql
+│   ├── 04_top_10_productos_mas_vendidos.sql
+│   ├── 05_ventas_de_categoria_por_mes.sql
+│   ├── 06_top_5_categoria_con_mas_ventas.sql
+│   ├── 07_comparacion_de_categorias.sql
+│   ├── 08_evolucion_productos_top_3_con_mas_ventas.sql
+│   └── 09_crecimiento_porcentual.sql
+│
 ├── python/
 ├── powerbi/
-├── images/
+├── imagenes/
+│   ├── sql_resultados/
+│   │   ├── 01_venta_por_mes.png
+│   │   ├── 02_top_10_productos_por_ventas.png
+│   │   ├── 03_ventas_por_categorias.png
+│   │   ├── 04_top_10_productos_mas_vendidos.png
+│   │   ├── 05_ventas_categorias_por_mes.png
+│   │   ├── 06_top_5_categorias_con_mas_ventas.png
+│   │   ├── 07_comparacion_de_categorias.png
+│   │   ├── 08_evolucion_productos_top_3_con_mas_ventas.png
+│   │   └── 09_crecimiento_porcentual.png
+│   │
+│   └── powerbi_resultados/
+│   
 └── docs/
+
 ```
 
 ---
