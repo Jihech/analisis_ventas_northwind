@@ -1,77 +1,47 @@
 # 📊 Proyecto de Análisis de Datos - Dataset Northwind
 
 ## 🧠 Descripción del proyecto
-En este proyecto analizo datos de ventas del dataset Northwind con el objetivo de entender el comportamiento de las ventas y obtener insights de negocio.
+Este proyecto consiste en el análisis de datos de ventas del dataset Northwind, con el objetivo de entender el comportamiento del negocio y generar insights que apoyen la toma de decisiones.
 
-Sigo un flujo real de trabajo como Data Analyst: exploración de datos, limpieza, transformación, análisis y visualización, utilizando Python.
+Se sigue un flujo completo de trabajo como Data Analyst: carga de datos, exploración (EDA), limpieza, transformación, análisis y visualización utilizando Python, SQL y herramientas de BI.
+
+El proyecto se encuentra en desarrollo, con las principales fases ya implementadas mediante funciones reutilizables en Python y análisis complementario en SQL.
 
 ---
 
 ## 🎯 Objetivos del proyecto
-- Explorar y entender los datos de ventas
-- Limpiar y preparar los datos para el análisis
-- Identificar tendencias y patrones importantes
-- Generar indicadores clave (KPIs)
-- Preparar la información para su visualización en Power BI
-
----
-
-## 🧹 Calidad de los datos
-
-- No se encontraron valores nulos en el dataset
-- No se encontraron registros duplicados
-- El dataset presenta una estructura consistente para análisis
-
-### ⚠️ Observación sobre tipos de datos
-Algunas columnas fueron cargadas como tipo `object`, principalmente:
-
-- `fecha`
-- `Mes`
-- `clienteID`
-- `NombreProducto`
-- `NombreCategoria`
-
-Durante la fase de limpieza, estas columnas fueron transformadas para asegurar un análisis correcto, especialmente en variables de tipo fecha.
+- Explorar y comprender la estructura del dataset
+- Realizar limpieza y transformación de datos
+- Aplicar análisis exploratorio (EDA)
+- Construir KPIs de ventas
+- Identificar tendencias y patrones de negocio
+- Generar insights accionables
+- Preparar datos para visualización en Power BI
 
 ---
 
 ## 🛠️ Herramientas utilizadas
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib)
+- SQL Server
 - Jupyter Notebook
-- SQL (consultas de apoyo)
-- Power BI (visualización final)
+- Power BI
+- Git y GitHub
 
 ---
 
 ## 📁 Estructura del proyecto
-```
+
 analisis-ventas-northwind/
 │
 ├── dataset/
 │   ├── raw/
-│   │   └── ventas.csv
 │   └── procesado/
-│       └── ventas_limpio.csv
 │
 ├── notebooks/
-│   ├── 01_exploracion_datos.ipynb
-│   ├── 02_limpieza_datos.ipynb
-│   ├── 03_analisis_ventas.ipynb
-│   └── 04_visualizaciones.ipynb
-│
-├── sql_scripts/
-│   ├── 01_ventas_por_mes.sql
-│   ├── 02_top_10_productos_por_ventas.sql
-│   ├── 03_ventas_por_categoria.sql
-│   ├── 04_top_10_productos_mas_vendidos.sql
-│   ├── 05_ventas_de_categoria_por_mes.sql
-│   ├── 06_top_5_categoria_con_mas_ventas.sql
-│   ├── 07_comparacion_de_categorias.sql
-│   ├── 08_evolucion_productos_top_3_con_mas_ventas.sql
-│   └── 09_crecimiento_porcentual.sql
+│   ├── 01_carga_datos.ipynb
+│   ├── 02_exploracion_datos.ipynb
+│   ├── 03_limpieza_datos.ipynb
+│   └── 04_analisis_ventas.ipynb
 │
 ├── python/
 │   ├── a_carga/
@@ -90,7 +60,16 @@ analisis-ventas-northwind/
 │       ├── __init__.py
 │       └── analisis.py
 │
-├── powerbi/
+├── sql_scripts/
+│   ├── 01_ventas_por_mes.sql
+│   ├── 02_top_10_productos_por_ventas.sql
+│   ├── 03_ventas_por_categoria.sql
+│   ├── 04_top_10_productos_mas_vendidos.sql
+│   ├── 05_ventas_de_categoria_por_mes.sql
+│   ├── 06_top_5_categoria_con_mas_ventas.sql
+│   ├── 07_comparacion_de_categorias.sql
+│   ├── 08_evolucion_productos_top_3_con_mas_ventas.sql
+│   └── 09_crecimiento_porcentual.sql
 │
 ├── imagenes/
 │   ├── sql_resultados/
@@ -106,87 +85,83 @@ analisis-ventas-northwind/
 │   │
 │   └── powerbi_resultados/
 │
+├── powerbi/
+│
 └── docs/
 
-```
-
----
-## 📌 Progreso actual
-- Repositorio creado en GitHub  
-- Dataset cargado correctamente  
-- Exploración de datos completada (Notebook 01)  
-- Limpieza y transformación de datos completada (Notebook 02)  
-- Dataset limpio generado (`ventas_limpio.csv`)  
-- Análisis de ventas (Notebook 03) 
-- Análisis de ventas y visualizaciones con matplotlib (Notebook 04)
-- Insights de las visualizaciones (Notebook 04)
-
 ---
 
-## 🚧 En proceso
-- Análisis de ventas (KPIs, productos y tendencias)
-- Creación de visualizaciones con matplotlib
-- Querys de SQL Server
+## 📌 Estado del proyecto
+
+✔ Repositorio creado en GitHub  
+✔ Dataset cargado correctamente  
+✔ Exploración de datos (EDA) completada  
+✔ Limpieza y transformación de datos completada  
+✔ Análisis de ventas en progreso  
+✔ Visualizaciones con Matplotlib en progreso  
+✔ Consultas SQL desarrolladas  
+✔ Evidencias guardadas en imágenes  
 
 ---
 
-## 📊 Insights del análisis de ventas
-- Ventas por mes
-	- Las ventas muestran una tendencia general de crecimiento a lo largo del tiempo, evidenciando una evolución positiva del negocio
-	- A partir de 1998 se observa incremento significativo en el volumen de ventas, superando los $100k mensuales.
-	- Se detecta posible anomalía en el último mes (caída abrupta), que podrían estar relacionadas con datos incompletos o factores externos
+## 🧠 Metodología de trabajo
 
-- Top 10 productos por ventas
-	- Se observa que las ventas están altamente concentradas en pocos productos, destacando *Côte de Blaye* como el principal generador de ingresos, con una diferencia significativa frente al resto.
-	
-- Ventar por categoria
-	- Las ventas están distribuidas entre varias categorías, destacando *Beverages* y *Dairy Products* como las de mayor aporte a los ingresos, ambas superando los $250k.
+El proyecto ha sido estructurado siguiendo buenas prácticas de análisis de datos:
 
-- Top 10 productos más vendidos
-	- Los productos con mayor volumen en ventas están liderados por *Camembert Pierro*, *Raclette Courdavault* lo que indica una alta demanda en términos de unidades.
-
-- Ventas de Categoria en el tiempo
-	- Se obersvan picos en 1998, especialmente en *Beverages* y *Dairy Products*, junto a una caída general en mayo de 1998 que podría indicar una anomalía o datos incompletos.
-
-- Top  categorias con mayor ventas en el tiempo
-	- Las categorías líderes como *Beverages* y *Dairy Products* impulsan los principales picos de ventas, mientras que otras como *Confections* y *Meat/Poultry* presentan mayor variabilidad.
-
-- Comparación de Categorias con menores ventas vs la categoria lider
-	- Existe una brecha significativa entre *Beverages* y categorías como *Condiments*, *Grains/Cereals* y *Produce*, las cuales presentan un crecimiento más limitado y menor impacto en los ingresos.
-
-- Evolución de productos más vendidos 
-	- Los productos líderes presentan ventas con alta variabilidad, dependiendo de picos de demanda más que de un crecimiento sostenido.
-
-- Crecimiento porcentual de ventas mensuales
-	- El crecimiento de las ventas presenta alta volatilidad, con picos positivos y caídas pronunciadas, lo que indica un comportamiento irregular en el tiempo.
-
-## 📌 Sugerencias
-- Validar los datos de mayo de 1998 para confirmar si la caída en ventas corresponde a una anomalía o a información incompleta, ya que este punto puede distorsionar la interpretación de la tendencia general.
-
-- Se recomienda analizar estrategias para potenciar los productos de mayor demanda y evaluar oportunidades de diversificación del catálogo de productos.
-
-- Se sugiere fortalecer las categorias con mayor aporte como *Beverages* y *Dairy Products*, aprovechando su alta demanda para impulsar estrategias de crecimiento y fidelización.
-
-- Se recomienda asegurar la disponibilidad y stock los productos de mayor volumen en ventas, clave para mantener el flujo connstante de ventas.
-
-- Analizar el crecimiento en 1998, como *Beverages* y *Dairy Products* para identificar los factores que impulsaron su crecimiento y replicar la estrategia en otras categorias, validar datos de mayo de 1998.
-
-- Analizar la variabilidad en categorías como *Confections* y *Meat/Poultry*, y replicar estrategias de categorías líderes como *Beverages* y *Dairy Products* para lograr un crecimiento más estable.
-
-- Se sugiere impulsar las estrategias en categorias de menor desempeño para diversificar los ingresos y reducir la dependencia de las categorias lideres. 
-
-- Analizar los factores que impulsan los picos de ventas para mejorar la estabilidad en el tiempo.
-
-- Evaluar los factores de crecimiento y caída para mejorar la estabilidad y validar posibles anomalías en los datos del último mes.
+- Modularización del código en Python (funciones reutilizables)
+- Separación por etapas: carga, EDA, limpieza y análisis
+- Reutilización de funciones en notebooks principales (01, 02 y 03)
+- Integración de análisis en Python y SQL
+- Generación de evidencias visuales en imágenes
 
 ---
 
-## 🚀 Próximos pasos
-- Finalizar análisis exploratorio (Notebook 03)
-- Completar visualizaciones (Notebook 04)
-- Construcción de dashboard en Power BI
+## 📊 Análisis realizados
+
+- Análisis de ventas en el tiempo (tendencia y crecimiento mensual)
+- Análisis de productos (ranking por ingresos y volumen de ventas)
+- Análisis de categorías (participación y comportamiento en el tiempo)
+- Análisis de crecimiento de ventas (variación porcentual mensual)
 
 ---
 
-## 🧠 Nota
-Este proyecto simula un flujo real de trabajo en análisis de datos, desde la exploración hasta la generación de insights que pueden apoyar la toma de decisiones.
+## 📌 Insights principales
+
+- Las ventas presentan una tendencia general creciente con variaciones mensuales significativas.
+- Existe una alta concentración de ingresos en pocos productos y categorías.
+- Las categorías **Beverages** y **Dairy Products** concentran gran parte de los ingresos.
+- El comportamiento mensual de las ventas es volátil, con picos y caídas pronunciadas.
+- Se identifican posibles anomalías en ciertos periodos del dataset que requieren validación.
+
+---
+
+## 📌 Sugerencias de negocio
+
+- Diversificar el portafolio de productos para reducir dependencia de categorías líderes.
+- Analizar patrones de demanda para replicar estrategias exitosas.
+- Garantizar disponibilidad de productos de alta rotación.
+- Evaluar el comportamiento de categorías con menor rendimiento.
+- Validar posibles anomalías en los datos históricos.
+
+---
+
+## 🚧 En progreso
+- Finalización del análisis exploratorio (Notebook 03)
+- Mejora de visualizaciones (Notebook 04)
+- Integración con Power BI
+- Optimización de consultas SQL
+- Desarrollo de KPIs adicionales
+
+---
+
+## 📌 Evidencias del proyecto
+- Consultas SQL almacenadas en `sql_scripts/`
+- Resultados visuales en `imagenes/sql_resultados/`
+- Análisis en Jupyter Notebook
+- Dashboard en desarrollo en Power BI
+
+---
+
+## 🧠 Nota final
+Este proyecto simula un flujo real de trabajo en análisis de datos, aplicando buenas prácticas de organización, reutilización de código y generación de insights orientados al negocio.
+
