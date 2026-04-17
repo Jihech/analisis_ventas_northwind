@@ -31,6 +31,7 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ## 📁 Estructura del proyecto
 
+```
 analisis-ventas-northwind/
 │
 ├── dataset/
@@ -56,9 +57,13 @@ analisis-ventas-northwind/
 │   │   ├── __init__.py
 │   │   └── limpieza_datos.py
 │   │
-│   └── d_analisis/
+│   ├── d_analisis/
+│   │   ├── __init__.py
+│   │   └── analisis.py
+│   │	
+│   └── e_visualizaciones/
 │       ├── __init__.py
-│       └── analisis.py
+│       └── visualizaciones.py
 │
 ├── sql_scripts/
 │   ├── 01_ventas_por_mes.sql
@@ -88,7 +93,7 @@ analisis-ventas-northwind/
 ├── powerbi/
 │
 └── docs/
-
+```
 ---
 
 ## 📌 Estado del proyecto
