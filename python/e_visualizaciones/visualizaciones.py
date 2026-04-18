@@ -1,6 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
+import matplotlib.pyplot as plt
+import pandas as pd
+
 def f_plot_lineal(
     df: pd.DataFrame, 
     columna_x: str, 
@@ -8,7 +11,8 @@ def f_plot_lineal(
     columna_categoria: str = None, 
     titulo: str = None,
     xlabel: str = None,
-    ylabel: str = None) -> None:
+    ylabel: str = None
+) -> None:
     
     plt.figure(figsize=(12, 6))
 
@@ -19,7 +23,7 @@ def f_plot_lineal(
             marker='o'
         )
     else:
-        for categoria in df[columna_categoria].unique():
+        for categoria in sorted(df[columna_categoria].dropna().unique()):
             filtro = df[df[columna_categoria] == categoria]
             plt.plot(
                 filtro[columna_x],
@@ -31,8 +35,8 @@ def f_plot_lineal(
 
     plt.xticks(rotation=45)
     plt.title(titulo if titulo else f'{columna_y} por {columna_x}', fontsize=15)
-    plt.xlabel(xlabel if xlabel else columna_x, fontsize=15)
-    plt.ylabel(ylabel if ylabel else columna_y, fontsize=15)
+    plt.xlabel(xlabel if xlabel else columna_x, fontsize=12)
+    plt.ylabel(ylabel if ylabel else columna_y, fontsize=12)
     plt.grid()
     plt.tight_layout()
     plt.show()
