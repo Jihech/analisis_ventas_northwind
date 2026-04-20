@@ -31,8 +31,6 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ## 📁 Estructura del proyecto
 
-## 📁 Estructura del proyecto
-
 ```
 analisis-ventas-northwind/
 │
