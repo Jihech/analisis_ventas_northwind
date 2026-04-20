@@ -20,6 +20,7 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ---
 
+```
 ## 🛠️ Herramientas utilizadas
 - Python (Pandas, NumPy, Matplotlib)
 - SQL Server
@@ -30,8 +31,6 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 ---
 
 ## 📁 Estructura del proyecto
-
-```
 analisis-ventas-northwind/
 │
 ├── dataset/
@@ -77,8 +76,11 @@ analisis-ventas-northwind/
 │   │   └── 09_crecimiento_porcentual.png
 │   │
 │   └── powerbi_resultados/
+│       ├── modelo_datos_northwind_sqlserver.png
+│       └── nueva_medida_y_nueva_tabla.png
 │
 ├── powerbi/
+│   └── dashboard_ventas_northwind.pbix
 │
 └── docs/
 ```
@@ -87,14 +89,14 @@ analisis-ventas-northwind/
 
 ## 📌 Estado del proyecto
 
-✔ Repositorio creado en GitHub  
-✔ Dataset cargado correctamente  
-✔ Exploración de datos (EDA) completada  
-✔ Limpieza y transformación de datos completada  
-✔ Análisis de ventas en progreso  
-✔ Visualizaciones con Matplotlib en progreso  
-✔ Consultas SQL desarrolladas  
-✔ Evidencias guardadas en imágenes  
+- Repositorio creado en GitHub  
+- Dataset cargado correctamente  
+- Exploración de datos (EDA) completada  
+- Limpieza y transformación de datos completada  
+- Análisis de ventas en progreso  
+- Visualizaciones con Matplotlib en progreso  
+- Consultas SQL desarrolladas  
+- Evidencias guardadas en imágenes  
 
 ---
 

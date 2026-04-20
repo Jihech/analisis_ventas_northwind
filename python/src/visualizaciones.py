@@ -82,11 +82,8 @@ def f_plot_barh(
     
     plt.figure(figsize=(12, 6))
 
-    plt.barh(
-        df[columna_x],
-        df[columna_y]
-    )
-
+    plt.barh(df[columna_x], df[columna_y])
+    
     plt.gca().invert_yaxis()
     plt.title(titulo if titulo else f'{columna_y} por {columna_x}', fontsize=15)
     plt.xlabel(xlabel if xlabel else columna_x, fontsize=15)
