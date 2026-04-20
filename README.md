@@ -31,6 +31,8 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ## 📁 Estructura del proyecto
 
+## 📁 Estructura del proyecto
+
 ```
 analisis-ventas-northwind/
 │
@@ -45,24 +47,12 @@ analisis-ventas-northwind/
 │   └── 04_analisis_ventas.ipynb
 │
 ├── python/
-│   ├── a_carga/
-│   │   ├── __init__.py
-│   │   └── cargar_datos.py
-│   │
-│   ├── b_eda/
-│   │   ├── __init__.py
-│   │   └── exploracion_datos.py
-│   │
-│   ├── c_limpieza/
-│   │   ├── __init__.py
-│   │   └── limpieza_datos.py
-│   │
-│   ├── d_analisis/
-│   │   ├── __init__.py
-│   │   └── analisis.py
-│   │	
-│   └── e_visualizaciones/
+│   └── src/
 │       ├── __init__.py
+│       ├── cargar_datos.py
+│       ├── exploracion_datos.py
+│       ├── limpieza_datos.py
+│       ├── analisis.py
 │       └── visualizaciones.py
 │
 ├── sql_scripts/
@@ -94,6 +84,7 @@ analisis-ventas-northwind/
 │
 └── docs/
 ```
+
 ---
 
 ## 📌 Estado del proyecto
