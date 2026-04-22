@@ -32,21 +32,25 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ## 📁 analisis-ventas-northwind
 
+# 📊 Análisis de Ventas - Northwind
+
+## 📁 Estructura del Proyecto
+
 ```
 analisis-ventas-northwind/
 │
 ├── dataset/
-│   ├── raw/
-│   └── procesado/
+│   ├── raw/                      # Datos originales (sin modificar)
+│   └── procesado/                # Datos limpios y transformados
 │
-├── notebooks/
+├── notebooks/                    
 │   ├── 01_carga_exploracion_datos.ipynb
 │   ├── 02_limpieza_transformacion_datos.ipynb
 │   ├── 03_analisis.ipynb
 │   └── 04_visualizaciones.ipynb
 │
 ├── python/
-│   └── src/
+│   └── src/                      # Módulos reutilizables
 │       ├── __init__.py
 │       ├── cargar_datos.py
 │       ├── exploracion_datos.py
@@ -54,7 +58,7 @@ analisis-ventas-northwind/
 │       ├── analisis.py
 │       └── visualizaciones.py
 │
-├── sql_scripts/
+├── sql_scripts/                  # Query SQL para análisis
 │   ├── 01_ventas_por_mes.sql
 │   ├── 02_top_10_productos_por_ventas.sql
 │   ├── 03_ventas_por_categoria.sql
@@ -66,7 +70,7 @@ analisis-ventas-northwind/
 │   └── 09_crecimiento_porcentual.sql
 │
 ├── imagenes/
-│   ├── sql_resultados/
+│   ├── sql_resultados/           
 │   │   ├── 01_venta_por_mes.png
 │   │   ├── 02_top_10_productos_por_ventas.png
 │   │   ├── 03_ventas_por_categorias.png
@@ -77,16 +81,15 @@ analisis-ventas-northwind/
 │   │   ├── 08_evolucion_productos_top_3_con_mas_ventas.png
 │   │   └── 09_crecimiento_porcentual.png
 │   │
-│   └── powerbi_resultados/
+│   └── powerbi_resultados/       
 │       ├── modelo_datos_northwind_sqlserver.png
 │       ├── nueva_medida_y_nueva_tabla.png
 │       └── dashboard_resumen.png
 │
 ├── powerbi/
-│   └── dashboard_ventas_northwind.pbix
+│   └── dashboard_ventas_northwind.pbix   
 │
-└── docs/
-```
+└── docs/                         
 
 ---
 
