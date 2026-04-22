@@ -30,13 +30,8 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ---
 
-## 📁 analisis-ventas-northwind
-
-# 📊 Análisis de Ventas - Northwind
-
 ## 📁 Estructura del Proyecto
 
-```
 analisis-ventas-northwind/
 │
 ├── dataset/
@@ -90,6 +85,7 @@ analisis-ventas-northwind/
 │   └── dashboard_ventas_northwind.pbix   
 │
 └── docs/                         
+                        
 
 ---
 
