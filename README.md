@@ -22,7 +22,7 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ```
 ## 🛠️ Herramientas utilizadas
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, Matplotlib, Typing)
 - SQL Server
 - Jupyter Notebook
 - Power BI
@@ -30,7 +30,9 @@ El proyecto se encuentra en desarrollo, con las principales fases ya implementad
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 analisis-ventas-northwind
+
+```
 analisis-ventas-northwind/
 │
 ├── dataset/
@@ -38,10 +40,10 @@ analisis-ventas-northwind/
 │   └── procesado/
 │
 ├── notebooks/
-│   ├── 01_carga_datos.ipynb
-│   ├── 02_exploracion_datos.ipynb
-│   ├── 03_limpieza_datos.ipynb
-│   └── 04_analisis_ventas.ipynb
+│   ├── 01_carga_exploracion_datos.ipynb
+│   ├── 02_limpieza_transformacion_datos.ipynb
+│   ├── 03_analisis.ipynb
+│   └── 04_visualizaciones.ipynb
 │
 ├── python/
 │   └── src/
@@ -77,7 +79,8 @@ analisis-ventas-northwind/
 │   │
 │   └── powerbi_resultados/
 │       ├── modelo_datos_northwind_sqlserver.png
-│       └── nueva_medida_y_nueva_tabla.png
+│       ├── nueva_medida_y_nueva_tabla.png
+│       └── dashboard_resumen.png
 │
 ├── powerbi/
 │   └── dashboard_ventas_northwind.pbix
@@ -89,14 +92,19 @@ analisis-ventas-northwind/
 
 ## 📌 Estado del proyecto
 
-- Repositorio creado en GitHub  
-- Dataset cargado correctamente  
-- Exploración de datos (EDA) completada  
-- Limpieza y transformación de datos completada  
-- Análisis de ventas en progreso  
-- Visualizaciones con Matplotlib en progreso  
-- Consultas SQL desarrolladas  
-- Evidencias guardadas en imágenes  
+- Repositorio creado en GitHub - completada
+- Dataset cargado correctamente - completada  
+- Exploración de datos (EDA) - completada  
+- Limpieza y transformación de datos - completada  
+- Análisis de ventas - completada  
+- Visualizaciones con Matplotlib - completada
+- Consultas SQL desarrolladas - completada
+- Evidencias Querys guardadas en imágenes - completada
+- Importe de tablas de Base de datos Northwind de SQLSERVER a PowerBI - completada
+- Creación de medidas para realizar cálculos dinámicos - en progreso
+- Evidencias Dashboard guardadas en imágenes - en progreso
+- Dashboard Resumen - completado
+- Dashboard Producto - en progreso
 
 ---
 
@@ -105,10 +113,11 @@ analisis-ventas-northwind/
 El proyecto ha sido estructurado siguiendo buenas prácticas de análisis de datos:
 
 - Modularización del código en Python (funciones reutilizables)
-- Separación por etapas: carga, EDA, limpieza y análisis
-- Reutilización de funciones en notebooks principales (01, 02 y 03)
+- Separación por etapas: carga, EDA, limpieza, análisis y visualizaciones
+- Reutilización de funciones en notebooks principales (01, 02, 03, 04)
 - Integración de análisis en Python y SQL
 - Generación de evidencias visuales en imágenes
+- Generación de dashboard con 4 dimensiones de base de datos northwind
 
 ---
 
@@ -141,20 +150,14 @@ El proyecto ha sido estructurado siguiendo buenas prácticas de análisis de dat
 
 ---
 
-## 🚧 En progreso
-- Finalización del análisis exploratorio (Notebook 03)
-- Mejora de visualizaciones (Notebook 04)
-- Integración con Power BI
-- Optimización de consultas SQL
-- Desarrollo de KPIs adicionales
-
----
-
 ## 📌 Evidencias del proyecto
 - Consultas SQL almacenadas en `sql_scripts/`
 - Resultados visuales en `imagenes/sql_resultados/`
-- Análisis en Jupyter Notebook
+- Análisis y representaciones gráficas en Jupyter Notebook
+- Funciones reutilizables en `python/src/`
+- Dashboard en Power BI con datos importados desde SQL Server
 - Dashboard en desarrollo en Power BI
+- Resultados dashboard en `imagenes/powerbi_resultados/`
 
 ---
 
